@@ -8,39 +8,25 @@ href="https://computational-existentialism.github.io/computational-existentialis
 
 ## Body and Care
 
-[DONE] <a name="200">200)</a> **Boundary problem:** Objects are ill-defined in the real world. Their boundaries are fuzzy on the level of atoms and molecules (and perhaps even on higher levels), as in the boundary region we cannot say if a given atom belongs to the object or to another object next to it.
+Clones
 
-[DONE] <a name="201">201)</a> <a href="#200">#200</a> highlights that objects are abstractions of collections of mass in the world that are somehow useful for the observer to consider as a single unit.
+<a name="213">213)</a> Different objects (subjective abstraction) in the
+Care are linked to the self to different degrees.  Communication between
+one's finger and one's "self" is fast, while communication with one's car or
+another person is limited (and mediated through the senses, but this may not
+be relevant).  We could attempt to define the other extreme of this set,
+things that are very closely linked to the self.  We name this collection
+the **Agent**.
 
-<a name="202">202)</a> Objects do not exist objectively. They are subjective. <a href="#201">#201</a>
+<a name="214">214)</a> The Agent may not contain the whole brain/mind, as
+different brain regions may communicate with different effectiveness.  What
+is traditionally regarded as the subconscious may not be part of the Agent,
+for example, as it is largely inaccessible to it.
 
-[DONE] <a name="203">203)</a> The Boundary problem applies to the body as well. If so, how can we define what the body is?
-
-[DONE] <a name="204">204)</a> Things that are connected to the brain via the nervous system are usually regarded as parts of the body (fingers, bowels, etc.) We accept this.
-
-[DONE] <a name="206">206)</a> Note that changes to these things affect the brain and so the subject (e.g. via pain).
-
-[DONE] <a name="205">205)</a> There are things that are traditionally regarded as parts of the body, but are not connected to the brain via nerves, like hair, nails.
-
-[DONE] <a name="207">207)</a> These things also have the capability to affect the brain and the subject (self) if information about them reaches the brain using some means other than a nerve signal, e.g. visual input. For example, noticing that one's nail is broken can cause anger or sadness.
-
-[DONE] <a name="208">208)</a> <a href="#207">#207</a> is also true for objects that are not traditionally regarded as parts of the body. For example, noticing a scratch on one's car can also cause anger or sadness.
-
-[DONE] <a name="209">209)</a> <a href="#208">#208</a> usually applies to properties, living organisms one cares for, and other people close to the subject like close friends and family members.
-
-[DONE] <a name="210">210)</a> To illustrate <a href="#209">#209</a>, consider how news of death or illness of a close friend or family member affects us, and how the same about a stranger affects us.
-
-<a name="211">211)</a> <a href="#207">#207</a> may also apply to other entities, concepts and abstractions like nation or country.
-
-[DONE] <a name="212">212)</a> To highlight this new, very diffuse sense of the body that consists of everything news about which one is affected by, we name this collection our **Care**.
-
-<a href="https://computational-existentialism.github.io/computational-existentialism/blog/care.html">Text: The Care</a>
-
-<a name="213">213)</a> Different objects (subjective abstraction) in the Care are linked to the self to different degrees. Communication between one's finger and one's "self" is fast, while communication with one's car or another person is limited (and mediated through the senses, but this may not be relevant). We could attempt to define the other extreme of this set, things that are very closely linked to the self. We name this collection the **Agent**.
-
-<a name="214">214)</a> The Agent may not contain the whole brain/mind, as different brain regions may communicate with different effectiveness. What is traditionally regarded as the subconscious may not be part of the Agent, for example, as it is largely inaccessible to it.
-
-<a name="215">215)</a> I wanted to say that people with dissociative identity disorder, previously known as multiple personality disorder, may have multiple agents housed in the same body. Interestingly, there is a hypothesis that this disorder is induced by therapy.
+<a name="215">215)</a> I wanted to say that people with dissociative
+identity disorder, previously known as multiple personality disorder, may
+have multiple agents housed in the same body.  Interestingly, there is a
+hypothesis that this disorder is induced by therapy.
 
 ## Death
 

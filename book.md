@@ -43,13 +43,13 @@ When we perceive something, we always do so on a physical level. Let us call thi
 This reasoning is related to the Turing test for intelligence, which simply says that a machine is intelligent if it is indistinguishable from a human. (The Turing test restricts “indistinguishable” to written communication so as not to task computers with having to look and sound like humans, although with modern advances in synthesizing voice and faces this may no longer be a problem.) In other words, it defined an intrinsic property, intelligence, based on whether the entity appears to be intelligent or not, very much in line with material perception.
 
 
-#
+# ***
 
 When we observe something, it happens via our bodies. We see with our eyes, we hear with our ears, we touch with our skin. So it is not only true that observation is limited to the physical; it is also always mediated through our bodies.
 
 There have been claims throughout history of other kinds of observations: clairvoyance, out-of-body experiences, and so on. None of these phenomena could be independently and scientifically verified, that is, in a way that can be repeated, and under controlled conditions. James Randi offered a large sum of money to anyone who can do so, but it has never been claimed.
 
-#
+# ***
 
 There is the argument for dualism (which maintains that humans are not mere physical beings, but also have a divine spark or soul that enables them to think, talk, and be intelligent) which states that the physical brain is too simple to to give rise to the amazing range of human creativity that we see. This is simply wrong.
 
@@ -57,13 +57,13 @@ It is true that if you open a skull, you will not find Hamlet's monologue or a y
 
 For our purposes, memory (a faculty to store experiences) is of special importance, as well as cognition (a faculty to compare and evaluate them). We know that physical damage to the brain can alter both faculties in humans. All of these make it logical to assume that the brain, a part of the human body, is doing the remembering and the thinking; that memories (and cognition) are encoded physically in the brain. That is, memory and cognition or functions of the body.
 
-#
+# ***
 
 “I maintain,” Primus continued, “that the mind is simply the brain, which is made of the same kind of material as the rest of the human body. No one has ever discovered anything special in the brain that would make it different from the body, and no one has ever discovered anything special about what humans know or do that cannot be explained by the workings of the brain. Nothing special or extra is needed than the body to give rise to a mindful sentient being. We do not need metaphysical entities to account for the functions of the human mind, or the semblance of free will it produces.
 
 “It is also easy to see that while our whole bodies defined us, thinking is localized in the body to the brain. We don't think - or at least not much - with our fingers in the same way as we don't digest with our knees or walk on our eyes.”
 
-#
+# ***
 
 John Searle invented a thought experiment to show that no computer can ever be said to have a mind or be conscious. By extension, this assertion would contradict the suggestion above that the human mind is nothing but the product of a physical, mechanical brain, for the brain is also “only” a physical system that obeys known rules.
 
@@ -79,7 +79,7 @@ This is very much linked to how we define consciousness. The best we can do is t
 
 Also note that following from material perception, when we judge something to be conscious or not, we can only use information of that thing that reaches us - in the case of the Chinese room, the pieces of paper coming through the slot. We cannot see “inside” the thing to make our judgment.  Something is conscious if it appears to be conscious, just like we deem another person sad or happy if they appear sad or happy - we don't dissect their brain first to make sure they really are.
 
-#
+# ***
 
 “I find little promising about the notion of qualia. The fact that certain physical brain states are organized into experiences, abstract qualities (e.g. color) or feelings via introspection, and that these can be communicated via language (as without these being communicated and externalized we may as well assume they do not exist), is more a consequence of our shared biology and morphology than anything else. Humans are very similar in terms of their genetic makeup and environment, which in turn makes our gene expression, bodies, brains, learning, etc. very similar, too. We have also evolved to be pattern-seeking animals, so it is little wonder that we find patterns, and similar patterns, in our brain states. This in itself does not warrant ascribing any kind of reality to these patterns. In this sense, the problem we face here is very similar to the reality of objects in the face of the boundary problem, which we will introduce soon.”
 # III Entrapment
@@ -90,7 +90,7 @@ In other words, we always, inevitably, feel to be inside in our bodies. We alway
 
 Is Entrapment really true? It must be, because it is a logical consequence of how perception, memory and cognition work. And we ignore supposed phenomena like mind reading, effect at a distance, out-of-body experiences, clairvoyance and other supernatural occurrences for the same reason as above.
 
-#
+# ***
 
 “Entrapment is a facet of the Experience,” Primus said, gesticulating heavily in front of his audience, “but as elsewhere with the Experience, it is not only true that the whole implies the part, but also that the part, Entrapment, implies the whole Experience.
 
@@ -98,7 +98,7 @@ Is Entrapment really true? It must be, because it is a logical consequence of ho
 
 “During our journey we will learn how to accept this fact, and how to reconcile ourselves with our bodies, which all the Western traditions have been teaching us to ignore.”
 
-#
+# ***
 
 Next, let us dissect the definition of Entrapment above, with special focus on what is required for the emergence of this phenomenon or feeling.
 
@@ -112,19 +112,27 @@ This means that Entrapment requires (1) memory (for one needs to recall previous
 
 It is illuminating to consider what or who can satisfy these requirements. Memory, surprisingly, can be quite universal -- even a piece of rock can be said to have a “memory” of things that happened to it (like chips missing or discoloration) as physical interactions will change its physical make-up. In fact, any physical interaction, by definition, will do so.
 
-We may consider here, as a possible counter-example, completely reversible processes, which, once reversed, would leave the rock in its initial state. But it is very very unlikely that this could occur, as it is very very unlikely that the atoms of a rock, once disturbed (or simply moving about) can ever return to the same positions.
+We may consider here, as a possible counter-example, completely reversible processes, which, once reversed, would leave the rock in its initial state. But it is very unlikely that this could occur, as it is unlikely that the atoms of a rock, once disturbed (or simply moving about) can ever return to the same positions.
 
-With this kind of “memory,” it is clear that the information carrier that records the events is the rock itself; that memory is “at” the same point in space as the “body” of the rock. And we have already argued that human memory is localized in the brain.
+With this kind of memory, it is clear that the information carrier that records the events is the rock itself; that memory is at the same point in space as the “body” of the rock. And we have already argued that human memory, in a similar fashion, is localized in the body, and in particular in the brain.
 
-***** vvvv TODO
+For completeness, it is important to clarify that it is not allowed for the memory to “remember” other interactions with the world that did not happen through the body, as then the feeling of Entrapment would not arise. On the one hand, this is consistent with regarding the memory as part of the body, for what else the body, a physical system would remember than the things that happened to it? On the other hand, creating fake memories where we experience something that happened to a different person (this being the main function of art according to Representism) is actually one of the ways in which one attempts to escape the feeling of Entrapment.
 
-For completeness, let me clarify that it is not allowed for the memory to “remember” other interactions with the world that did not happen through the body, as then the feeling of Entrapment would not arise. On the one hand, this is consistent with regarding the memory as part of the body, for what else the body, a physical system would remember than the things that happened to it? On the other hand, creating fake memories where we experience something that happened to a different person (this being the main function of art) is actually one of the ways in which one attempts to escape the feeling of Entrapment. To face Entrapment and give rise to the Experience, one must purge the mind of such fake memories.
+As Primus put it later, “To face Entrapment and give rise to the Experience, one must purge the mind of such fake memories.
+
+“Of course, they are not fake in the sense that information about another person, say, in a story or movie, reaches us as part of some physical interaction like sound and light. But then we focus on this other person almost as on ourselves, and regards their experiences as our experiences, thereby effectively escaping the temporal and spatial limits of our bodies. I call this **dilution.** This is extremely helpful as we can acquire much more experience -- knowledge — as we could directly gather. And this is actually our main mode of existence. This is what we do when we read a novel, a magazine, a post from a friend, when we chat to someone.
+
+“The flip side of this is that this mode masks our limits and the true nature of Entrapment. This is why we must step out of this mode to achieve the Experience.”
+
+# ***
 
 Let us move to cognition, more specifically, to the kind of cognition required for Entrapment. I do not believe we have a clear definition of what cognition is, or when we can say that something possesses it. The best we can do is, again, to fall back on a kind of Turing test, which in effect says that (a) humans have cognition, (b) something else has cognition if it is sufficiently similar to a human (in some way relevant for cognition, whatever that may be). But there is a catch.
 
-We may generally like a definition of cognition that says that rocks do not think (and do not die when we turn them into countertops), but can we say for sure that crows, dogs or elephants do not reflect on their past experiences, or fear or, however unlikely, think about death? What would make us absolutely certain that trees do not have some kind of cognitive powers, which may be the right ones to experience Entrapment? The problem with the Turing test-based definition of cognition is that once an object or organism is unable to communicate its thoughts or feelings to us humans, it is immediately rendered insufficiently human-like and fails the test. For how would we even have a glimpse of the existence of these thoughts if we receive no information of them? Dogs and trees may well contemplate death, but until we find a better way to communicate, we will never know.
+We may generally like a definition of cognition that says that rocks do not think (and do not die when we turn them into countertops), but can we say for sure that crows, dogs or elephants do not reflect on their past experiences, or fear, or, however unlikely, think about death? What would make us absolutely certain that trees do not have some kind of cognitive powers, which may be the right ones to experience Entrapment? The problem with the Turing test-based definition of cognition is that once an object or organism is unable to communicate its thoughts or feelings to us humans, it is immediately rendered insufficiently human-like and fails the test. For how would we even have a glimpse of the existence of these thoughts if we receive no information of them? Dogs and trees may well contemplate death, but until we find a better way to communicate, we will never know.
 
 And what is the location of cognition, at least the human one? We can use the same argument as above, namely, that an injury to the brain can affect one's cognitive abilities, so it is the brain, a part of the body, that must be doing the thinking.
+
+# ***
 
 Primus took a glance at his watch. He had time for a little detour.
 
@@ -136,7 +144,7 @@ Primus took a glance at his watch. He had time for a little detour.
 
 “If so, we are forced to conclude that one soul is only attached to one body. How does it do that? What is the difference between human bodies that allows my soul to select my body? It appears fruitless to argue that some physical variation, like the DNA, accounts for this permanent link. This would of course fail in the case of identical twins. As we shall see, it is unclear where a body is, anyway, making such a link even more difficult to understand. And, in general, variations from person to person appear too small to control -- somehow -- something as fundamental as the identification of an external soul. It is, of course, no surprise that such arguments are doomed to fail, as they aim at explaining something supernatural in purely physical terms.
 
-“So why am I trying to grasp the human soul on materialistic grounds when it is clearly impossible? Science, by the very way it accumulates knowledge, is only be able to know what is general, as it concerns itself with phenomena that are capable of being reproduced reliably and many times. Therefore science will never be able to account for individuality, which, perhaps, means that it cannot be expected to discover the physical difference between human bodies I referred to above. To this I would reply that I am more than willing to acknowledge the existence of meta-physical phenomena but only if the subject at hand cannot be satisfactorily explained within the materialistic framework. When Napoleon asked Laplace, ‘Where is God in your theory?’ he replied, ‘I don't need that hypothesis.’
+“So why are we trying to grasp the human soul on materialistic grounds here, when it is clearly impossible? Science, by the very way it accumulates knowledge, is only be able to know what is general, as it concerns itself with phenomena that are capable of being reproduced reliably and many times. Science, therefore, will never be able to account for individuality, which, perhaps, means that it cannot be expected to discover the physical difference between human bodies I referred to above. To this I would reply that I am more than willing to acknowledge the existence of meta-physical phenomena but only if the subject at hand cannot be satisfactorily explained within the materialistic framework. When Napoleon asked Laplace, ‘Where is God in your theory?’ he replied, ‘I don't need that hypothesis.’ Do we need it? Do we need the notion of the soul?
 
 “Having considered memory and cognition in relation to Entrapment, and, separately, the mind, we see that these are all rooted in our physical bodies. And so, if memories are recorded in the body, then it is unnecessary and unlikely that they are duplicated in the soul; if thinking is done inside the body, then it is unnecessary and unlikely that any thinking is done in the soul.
 
@@ -146,55 +154,91 @@ Primus took a glance at his watch. He had time for a little detour.
 
 Primus wiped the chalk powder on his hands into his trousers.
 
-“Here we are only laying some - physicalist - groundwork,” he concluded the lecture, “but soon we will get to more interesting things, like glimpses at quantum mechanics and a new way of meditating over or considering existence.
+“Here we are only laying some -- physicalist -- groundwork,” he concluded the lecture, “but soon we will get to more interesting things, like glimpses at quantum mechanics and a new way of meditating over or considering existence.
 
 “The journey is not always easy; nor is climbing a mountain, but the reward of seeing the world and our place in it comes after difficult work and acceptance.”
-IV
-
-#
+# IV Body and Care
 
 There are no objects.
 
-While this may sound somewhat surprising, it is in fact a simple observation. On the atomic or molecular level, nothing can tell us where one object ends and another one starts. The body, for example, is a collection of cells, which are collections of molecules, both held together not by chemical bonds but by secondary forces – while at the same time, dirt, dust, creams, parasites stick to the skin using the same forces. Objects we hold do not fall to the ground because of friction between them and our skin – in other words, they, too, stick to the skin using secondary forces. So the thing these forces connect to us, is it another skin cell of us or is it a piece of Camembert? To highlight this problem from another angle, there is no way to tell whether a carbon atom around the surface of our skin belongs to us or to the cheese we are eating. We call this the **boundary problem**.
+While this may sound somewhat surprising, it is in fact a simple observation. On the atomic or molecular level, nothing can tell us where one object ends and another one starts. The body, for example, is a collection of cells, which are collections of molecules, both held together not by chemical bonds but by secondary forces –- while at the same time, dirt, dust, creams, parasites stick to the skin using the same forces. Objects we hold do not fall to the ground because of friction between them and our skin – in other words, they, too, stick to the skin using secondary forces. So the thing these forces connect to us, is it another skin cell of us or is it a piece of Camembert? To highlight this problem from another angle, there is no way to tell whether a carbon atom around the surface of our skin belongs to us or to the cheese we are eating. We call this the **boundary problem**.
 
-That is, objects are abstractions of collections of mass in the world that are somehow useful for the observer to consider as a single unit.
+That is, objects are abstractions of collections of mass in the world that are somehow useful for the observer to consider as a single unit. A better version of the above statement therefore is:
+
+Objects are subjective.
+
+Our focus here is on the human body, and we can demonstrate its fuzziness by referring to the cellular, molecular and atomic levels. But it is worth noting that atoms and their constituent particles are also likely to be abstractions of even deeper levels of some physical reality, for example, the vibrating strings of String Theory.
 
 
-#
+# ***
 
-The body is the physical system that we associate with ourselves. It also appears, for all intents and purposes, to be the instrument of perceptions, that is, we use the body to perceive and interact with the world. This we call **Entrapment**.
+The body is the physical system that we associate with ourselves. Entrapment also suggests that, for all intents and purposes, it is the instrument of perceptions, that is, we use the body to perceive and interact with the world.
 
 But what is our place in the world? Where am I? How far do our bodies reach? These questions are more complicated than they seem because in reality, we do not know where exactly our bodies are.
 
-While we have a fairly certain feeling about the place and the extension of the self and its body in the world in general, microscopically, there is no clear boundary between the human body and the outside world. This we call the boundary problem.
+While we have a fairly certain feeling about the place and the extension of the self and its body in the world in general, the application of the boundary problem to the body means that microscopically, there is no clear boundary between the human body and the outside world.
 
-#
-
-In a special sense, the boundary problem is the contradiction between the fairly certain human feeling about the place and the extension of the self and its body in the world, and the fact that microscopically, there cannot be a clear boundary between the human body and the outside world.
-
-We have seen this when we described the boundary problem. We can also consider the thousands of skin flecks, strands of hair, and so on that we lose every day. When do they cease to be us? The boundary between our bodies and the world must be fuzzy at best.
+In a special sense, the boundary problem is the contradiction between the fairly certain human feeling about the place and the extension of the self and its body in the world, and the fact that microscopically, there cannot be a clear boundary.
 
 To have a better grasp at the spatial limits of a body, let us consider bits of matter, or regions of space, that, if they change, have an effect on our mental state. Clearly, parts of the body connected to the brain via nerves fall into this category (a pinprick in one’s finger causes pain, for example) and so we should consider them part of the body. But it can also be argued that changes to one’s hair or nails (e.g. a bad hair cut, a lock cut during one’s sleep, a broken nail) can also affect one’s mental state (cause distress) if discovered via visual or tactile clues. Indeed, we generally consider these parts of the body as well.
 
-But notice that objects traditionally regarded as separate from the body, for example, possessions, can function very similarly to nails and hair: consider the distress caused if one discovers that someone scratched their car while they left it in the supermarket car park, and the distress caused by this.
+But notice that objects traditionally regarded as separate from the body, for example, possessions, can function very similarly to nails and hair: just consider the distress caused if one discovers that someone scratched their car while they left it in the supermarket car park.
+
+# ***
+
+We have seen that the boundary between our body and the world is rather fuzzy, and that things outside our bodies function similarly to it in that we care about them. This is quite obvious in the case of possessions: our shirt is no more or less alive than our hair; we are similarly saddened if they do not look their best, yet one is traditionally regarded as part of the body, while the other is not.
+
+One could argue that the hair is somehow permanently attached to the body while it remains easy to take off a shirt, but on closer inspection this difference looks less and less clear: hair cannot be permanently attached as it grows and is replaced and sometimes some fall out, and we have the boundary problem which makes it clear that the difference between their attachment is merely one of grade.
+
+In a similar fashion, the concept of the body can be extended to other humans whom we care about -– for example, accidents to our family and loved ones affect us similarly to accidents to ourselves, while we are much less affected by events occurring to unknown people.
+
+It therefore no longer seems very useful to talk about a hypothetical unified body; instead, we consider a collection of things, and say that we are defined by a fuzzy set of physical systems that affect our mental state if information about them reaches us. We will call this region of space our **Care**. Care may also include concepts and abstractions like nation and country, which shows that Care is a crucial component of one’s identity.
+
+# ***
+
+“Care, therefore,” Primus continued, “can link other humans to the self, which has a similar effect than incorporating experiences from others. That is, this is also dilution, just approached from a different angle: **dilution in Care.**
+
+“One can argue that the more the self, via Care, extends to possessions and other people of interest, the more it protects itself from its demise, its death with the body, and the more bearable the tragedy of the Experience becomes.
+
+“Consequently Care and interest needs to be temporarily withdrawn from others and possessions, and focus should primarily be on the original, very limited body itself for one to reach the Experience.”
+
+# ***
+
+Humans are information. Also, at the moment we cannot download this information and store it in the cloud to ask someone a question or let them see their children after they have died, so the best way to preserve this information is to get people to live.
+
+This is why I don't care if protesters against killing are looting. Panes of glass, TV sets, handbags are expensive, but we know how to replace the information in them quite precisely. Is it needless vandalism? Yes. Does it cause damage and suffering to honest working people? Yes. Is it destroying precious, unique information that we have absolutely no hope of restoring? No.
+
+Is killing doing that? Yes.
 
 #
 
-We have seen that the boundary between our body and the world is rather fuzzy, and that things outside our bodies function similarly to it in that we care about them. This is quite obvious in the case of possessions: our shirt is no more or less alive than our hair; we are similarly saddened if they don’t look their best, yet one is traditionally regarded as part of the body, while the other isn’t.
+Death, at first approximation, is the destruction of our bodies. As we have established that there is no need for a soul (and so it likely does not exist), and that faculties like memory and cognition are functions of the body, death also means the destruction of the I.
 
-One could argue that the hair is somehow permanently attached to the body while it’s easy to take off a shirt, but on closer inspection this difference looks less and less clear: hair cannot be permanently attached as it grows and is replaced and sometimes some fall out, and we have the boundary problem which makes it clear that the difference between their attachment is merely one of grade.
+But what does this destruction mean? Most events leading to death are not extreme (high-energy) enough to, for example, change the atoms in our bodies; they may not even change the molecules. What they inevitably change instead is the physical arrangement of the elements or parts of the body, which leads to the loss of various functions (movement, speech, cognition, etc.). Among these are the ones that are prerequisites of the I experience, so once we are dead, we no longer have an I experience.
 
-In a similar fashion, the concept of the body can be extended to other humans whom we care about – for example, accidents to our family and loved ones affect us similarly to accidents to ourselves, while we are much less affected by events occurring to unknown people.
+This change of arrangement that leads to a loss is similar to how information encoded in macroscopic systems can disappear apparently without a trace. We can burn books, destroy paintings and computers, and never be able to recreate the text of the book, or the picture in the painting. This won't come as a surprise to anyone, but it seems at odds with the assertion of quantum mechanics that no information can be lost -- the modern equivalent of the law of conversation of mass.
 
-It therefore no longer seems very useful to talk about a hypothetical unified body; instead, we consider a collection of things, and say that we are defined by a fuzzy set of physical systems that affect our mental state if information about them reaches us. We will call this region of space our **Care**.
+The likely explanation here is that a special macroscopic arrangement, used to encode some useful information, represent very-very tiny amounts of energy which is drowned out by the energies represented even by chemical processes. A fire converting the carbohydrates of a book into water and carbon dioxide doesn't care much if the pages are filled with random letters or the text of Hamlet. It is likely true that burning a book of Hamlet will increase entropy more than burning a book with random letters, but this difference is likely be very tiny. In other words, in the macroscopic word, we can store information virtually for free, but we can also easily lose it. And this is also true of life.
+
+#
+Humans may be unique in the fact that they are aware of their own death. Is the fact that I know I am going to die necessary to achieve the Experience?
+No one actually knows that they are going to die. We merely assume, based on our similarity to other people, that we are also going to die, and with largely the same consequences. If one either rejects this assumption of similarity (I am superman - everyone else dies but this does not apply to me), or rejects that the outside world actually exists (people appear to have died, but this may not be real or true) then one can also assume that they will not die.
+Of course, if one assumes that one will continue to exist infinitely (and without ageing and ailments), it is easier to sidestep the problems posed by the Experience as even if one is limited in space (as the body is not infinite, and so one only has a narrow perspective of the world), one has all the time to compensate for this limitations. (Note that here we presuppose a traditional experience of space and time.) In other words, even if one experiences Entrapment, it can be seen much less of a problem; even if one is unique, it is much less frightening.
+In this sense, being aware of death certainly makes dealing with the Experience more urgent.
+Still, even without awareness of death, many aspects of the Experience continue to hold true. One is still limited to one's body, so Entrapment is there; one is still different from everything else, so so is the Primeval Difference, and one can still see onself as unique. And it is likely still true that one's body, and together with it, one oneself can be destroyed with relative ease.
+Overall, an entity that has the expectation to exist indefinitely may find it less important to consider different facets of the Experience, but it is still affected by them. Death is therefore not required for the Experience.
+
+#
+Elsewhere I will argue that the "I" is, in fact, information. Let's assume that I have already marshalled my reasons for this claim. So if it is true, what happens to this information after death?
+Clearly, with the disintegration of the system that is the I, the I as a generator of information ceases to function. However, in a sense, the information it expressed continues to function--its verbal messages are translated, reinterpreted, and through these processes it in effect continues to participate in various dialogues. Is Plato dead when he argues in the head of a student reading The Republic for the first time? Is Shakespeare dead on stage? It seems any information continues to function as long as it exists, which entails that physically, it escapes destruction, and a manuscript, a recording, portrait, sculpture, painting or image survives. Pharaohs had their deeds recorded in hieroglyphs carved in stone apparently to make sure the text survives for eternity. But nowadays, we have Facebook.
+With cheaper and cheaper electronic storage, and institutions like Google and Facebook which rely on retaining information for their financial success, and like the Internet Archive and its Wayback Machine, most, if not all, information we put online is saved in theory for eternity, and in practice probably until a really-really big catastrophe in which all other information carriers, including paper in libraries, will also perish. Our problem now is not how to save the data, but how to index and search in it, as information that cannot be found is more or less equivalent to being lost.
+This is how data centres have become our 21st-century pyramids, and this is why, if you post a lot on Facebook, you'll live for a very, very long time.
 
 #
 
-Apart from the main assumption of the Order that other people also have (or are capable of having) the I experience, the circle of care is another way of linking people to the I. In fact, one could argue that this is the same process as dilution: the more the "body" extends to possessions and other people of interest, the more it protects itself from the demise of the immediate body, and the more bearable the tragedy of the i experience becomes.
+It is worth considering that there is a very narrow channel of information through which we get to know another person: sight, hearing, touch, but perhaps most importantly, verbal communication. If so, much of this, especially verbal communication can be deferred (as when reading some writing), and can also be deferred beyond the person's death. Such communication can continue to influence and so in some sense, for other people, the person continues to function as if alive. (Have you read a book and then only learned afterwards that its author has died a few years back? Did it matter?)
 
-Consequently it seems that care and interest needs to be temporarily withdrawn from others and possessions, and focus should primarily be on the original body itself for one to have the I experience.
-
-The question of the extent of the body is related to clones, too.
+Sadly, being not dead in the eyes of others is not a substitute for the continued I experience, the state of us experiencing ourselves. We feel that this would be lost even though we understand that after our deaths there will not be anything to experience the cessation of the I. We can distract ourselves from this dread by focusing on Others, and be diluted by/into this focus, but this may offer only temporary relief and may prevent us from learning from facing our fear.
 
 #
 
@@ -245,34 +289,6 @@ Ultimately though we don't have the final answer about time, while understanding
 
 #
 
-Humans are information. Also, at the moment we cannot download this information and store it in the cloud to ask someone a question or let them see their children after they have died, so the best way to preserve this information is to get people to live.
-
-This is why I don't care if protesters against killing are looting. Panes of glass, TV sets, handbags are expensive, but we know how to replace the information in them quite precisely. Is it needless vandalism? Yes. Does it cause damage and suffering to honest working people? Yes. Is it destroying precious, unique information that we have absolutely no hope of restoring? No.
-
-Is killing doing that? Yes.
-
-#
-Humans may be unique in the fact that they are aware of their own death. Is the fact that I know I am going to die necessary to achieve the Experience?
-No one actually knows that they are going to die. We merely assume, based on our similarity to other people, that we are also going to die, and with largely the same consequences. If one either rejects this assumption of similarity (I am superman - everyone else dies but this does not apply to me), or rejects that the outside world actually exists (people appear to have died, but this may not be real or true) then one can also assume that they will not die.
-Of course, if one assumes that one will continue to exist infinitely (and without ageing and ailments), it is easier to sidestep the problems posed by the Experience as even if one is limited in space (as the body is not infinite, and so one only has a narrow perspective of the world), one has all the time to compensate for this limitations. (Note that here we presuppose a traditional experience of space and time.) In other words, even if one experiences Entrapment, it can be seen much less of a problem; even if one is unique, it is much less frightening.
-In this sense, being aware of death certainly makes dealing with the Experience more urgent.
-Still, even without awareness of death, many aspects of the Experience continue to hold true. One is still limited to one's body, so Entrapment is there; one is still different from everything else, so so is the Primeval Difference, and one can still see onself as unique. And it is likely still true that one's body, and together with it, one oneself can be destroyed with relative ease.
-Overall, an entity that has the expectation to exist indefinitely may find it less important to consider different facets of the Experience, but it is still affected by them. Death is therefore not required for the Experience.
-
-#
-Elsewhere I will argue that the "I" is, in fact, information. Let's assume that I have already marshalled my reasons for this claim. So if it is true, what happens to this information after death?
-Clearly, with the disintegration of the system that is the I, the I as a generator of information ceases to function. However, in a sense, the information it expressed continues to function--its verbal messages are translated, reinterpreted, and through these processes it in effect continues to participate in various dialogues. Is Plato dead when he argues in the head of a student reading The Republic for the first time? Is Shakespeare dead on stage? It seems any information continues to function as long as it exists, which entails that physically, it escapes destruction, and a manuscript, a recording, portrait, sculpture, painting or image survives. Pharaohs had their deeds recorded in hieroglyphs carved in stone apparently to make sure the text survives for eternity. But nowadays, we have Facebook.
-With cheaper and cheaper electronic storage, and institutions like Google and Facebook which rely on retaining information for their financial success, and like the Internet Archive and its Wayback Machine, most, if not all, information we put online is saved in theory for eternity, and in practice probably until a really-really big catastrophe in which all other information carriers, including paper in libraries, will also perish. Our problem now is not how to save the data, but how to index and search in it, as information that cannot be found is more or less equivalent to being lost.
-This is how data centres have become our 21st-century pyramids, and this is why, if you post a lot on Facebook, you'll live for a very, very long time.
-
-#
-
-It is worth considering that there is a very narrow channel of information through which we get to know another person: sight, hearing, touch, but perhaps most importantly, verbal communication. If so, much of this, especially verbal communication can be deferred (as when reading some writing), and can also be deferred beyond the person's death. Such communication can continue to influence and so in some sense, for other people, the person continues to function as if alive. (Have you read a book and then only learned afterwards that its author has died a few years back? Did it matter?)
-
-Sadly, being not dead in the eyes of others is not a substitute for the continued I experience, the state of us experiencing ourselves. We feel that this would be lost even though we understand that after our deaths there will not be anything to experience the cessation of the I. We can distract ourselves from this dread by focusing on Others, and be diluted by/into this focus, but this may offer only temporary relief and may prevent us from learning from facing our fear.
-
-#
-
 The Experience comes as a huge, overwhelming wave: sometimes unannounced, sometimes after invitation. To invite it, you must prepare, remove all distractions and focus on yourself and yourself alone.
 
 It may come when you are in the bath, or taking a shower. You may feel: "I am trapped in this body. I am linked to it and I see, perceive and interact with the world through it. My eyes are like holes I peep through to see. Really nothing is too important - I will be dead and then nothing remains.
@@ -286,16 +302,6 @@ This difference between (the) I and everything else is vital and primeval. It gi
 #
 
 The first stage of our journey is achieving the Experience. It is not easy, but is not something that can be done once and then forgotten; reliving the Experience again and again is necessary throughout the journey as we uncover deeper and deeper layers of understanding. The Experience is like running: one can read about it, one can learn about it, but these are not substitutes for the action. We must strive to live the Experience, however hard it is at first. As with running, and so with the Experience, with time our technique is refined, and our takeaway from it changes, evolves and deepens.
-
-#
-
-Death, at first approximation, is the destruction of our bodies. As we have established that there is no need for a soul (and so it likely does not exist), and that faculties like memory and cognition are functions of the body, death also means the destruction of the I.
-
-But what does this destruction mean? Most events leading to death are not extreme (high-energy) enough to, for example, change the atoms in our bodies; they may not even change the molecules. What they inevitably change instead is the physical arrangement of the elements or parts of the body, which leads to the loss of various functions (movement, speech, cognition, etc.). Among these are the ones that are prerequisites of the I experience, so once we are dead, we no longer have an I experience.
-
-This change of arrangement that leads to a loss is similar to how information encoded in macroscopic systems can disappear apparently without a trace. We can burn books, destroy paintings and computers, and never be able to recreate the text of the book, or the picture in the painting. This won't come as a surprise to anyone, but it seems at odds with the assertion of quantum mechanics that no information can be lost -- the modern equivalent of the law of conversation of mass.
-
-The likely explanation here is that a special macroscopic arrangement, used to encode some useful information, represent very-very tiny amounts of energy which is drowned out by the energies represented even by chemical processes. A fire converting the carbohydrates of a book into water and carbon dioxide doesn't care much if the pages are filled with random letters or the text of Hamlet. It is likely true that burning a book of Hamlet will increase entropy more than burning a book with random letters, but this difference is likely be very tiny. In other words, in the macroscopic word, we can store information virtually for free, but we can also easily lose it. And this is also true of life.
 
 Do not subscribe to false and harmful tenets about souls that live separately from our bodies, or minds that transcend matter. Our bodies are us in every sense; make peace with them and guard them; yours as well as others'.
 
