@@ -19,7 +19,7 @@ It is of no surprise that I have not been able to write about this subject matte
 
 Primus paused.
 
-“You may now open your eyes, and we can continue. This was our first glimpse at the Experience. Achieving the Experience paves the way for a fuller, deeper understanding of the world. We can never fully explain the Experience in language, but we can try to get closer and closer to it. We can also say, for example:
+“You may now open your eyes, and we can continue. This was our first glimpse at the Experience. Achieving the Experience paves the way for a fuller, deeper understanding of the world. We can never fully explain the Experience in language, but we can try to get closer and closer to it. We can say, for example:
 
 “‘The Experience is the feeling that there is only one being that is I. I question if there ever was, or ever will be, another I.’
 
@@ -31,12 +31,20 @@ Primus paused.
 
 “‘The Experience is the realization that I am completely at odds with everything else in the world, past, present, or future; for nothing else is I; everything else is different.’
 
+“In fact, let me stop here for a bit. You can already see a focus on the I: I am trapped, I am unique. Why unique? Because whatever is trapped inside my body, is unique to me—it is me. It marks a unique part of space for the body it is connected to. This body looks very similar to other human bodies, but that is not really true: it’s inherently different from all others because they are not me. In fact, it is (and I am) inherently different from everything else in the world, for everything else is not me, too.
+
+“This separation of the I from the rest of the world is already there in Descartes, who could only assume the existence of the I, but not the existence of anything else.
+
+“This difference between (the) I and everything else is vital and primeval. It gives rise to the Experience, and it is only after learning to experience and appreciate this difference that we can start to understand what the I can be. We call it the **Primeval Difference**.
+
+“And so we can add to our statements about the Experience:
+
 “‘The Experience is the contradiction between my body being precious and unique, as it is me; but at the same time similar to all other bodies.’
 
-“‘The Experience is the helplessness that I can be so easily destroyed, that my body is so fragile.’
+“And: ‘The Experience is the helplessness that I can be so easily destroyed, that my body is so fragile.’
 
 “These sentences won’t make too much sense at this stage. We are at the beginning of exploring and understanding the Experience. As we progress on our journey, and talk about and practice achieving the Experience, return to these statements for inspiration. They will be gradually filled with meaning.”
-# II Perception and the mind
+# II Perception and the Mind
 
 When we perceive something, we always do so on a physical level. Let us call this **material perception**. We see light, we hear sound, we smell small molecules, and so on. This is not a surprising statement, but it has wide-ranging consequences. One is that even though we say things like “I see you are happy,” we can never actually see the happiness, only someone who looks and sounds like someone who is happy. Therefore if someone (or something) can mimic being happy completely, we are forced to assume that it is indeed happy, as we will find nothing to contradict this assumption. It also means that ultimately, machines can become intelligent and can have emotions, as there is no inherent reason why they could not seem to be intelligent and have emotions.
 
@@ -63,11 +71,13 @@ For our purposes, memory (a faculty to store experiences) is of special importan
 
 “It is also easy to see that while our whole bodies defined us, thinking is localized in the body to the brain. We don't think - or at least not much - with our fingers in the same way as we don't digest with our knees or walk on our eyes.”
 
+**“Do not subscribe to false and harmful tenets about souls that live separately from our bodies, or minds that transcend matter. Our bodies are us in every sense; make peace with them and guard them; yours as well as others’.”**
+
 # ***
 
 John Searle invented a thought experiment to show that no computer can ever be said to have a mind or be conscious. By extension, this assertion would contradict the suggestion above that the human mind is nothing but the product of a physical, mechanical brain, for the brain is also “only” a physical system that obeys known rules.
 
-The thought experiment goes like this: suppose there is a person who does not speak Chinese, locked into a room with a big book of rules. They receive questions written in Chinese through a slot in the door. They then use pen and paper to follow the rules in the big book and produce some Chinese characters based on what they received. This turns out to be a response to the Chinese question in Chinese, which they post back through the slot. For someone outside the room, it seems they are having a conversation in Chinese, yet the person does not speak a word of Chinese.
+The thought experiment goes like this: suppose there is a person who does not speak **Chinese**, locked into a **room** with a big book of rules. They receive questions written in Chinese through a slot in the door. They then use pen and paper to follow the rules in the big book and produce some Chinese characters based on what they received. This turns out to be a response to the Chinese question in Chinese, which they post back through the slot. For someone outside the room, it seems they are having a conversation in Chinese, yet the person does not speak a word of Chinese.
 
 Since the book clearly does not understand Chinese, and the person does not understand Chinese, they together don't understand Chinese, Searle says. And they are just like a computer with a program. So no computer will ever understand Chinese, even if they appear to do so.
 
@@ -81,7 +91,29 @@ Also note that following from material perception, when we judge something to be
 
 # ***
 
-“I find little promising about the notion of qualia. The fact that certain physical brain states are organized into experiences, abstract qualities (e.g. color) or feelings via introspection, and that these can be communicated via language (as without these being communicated and externalized we may as well assume they do not exist), is more a consequence of our shared biology and morphology than anything else. Humans are very similar in terms of their genetic makeup and environment, which in turn makes our gene expression, bodies, brains, learning, etc. very similar, too. We have also evolved to be pattern-seeking animals, so it is little wonder that we find patterns, and similar patterns, in our brain states. This in itself does not warrant ascribing any kind of reality to these patterns. In this sense, the problem we face here is very similar to the reality of objects in the face of the boundary problem, which we will introduce soon.”
+One of the main arguments against seeing the human mind as a physical system is **free will**. A physical system is seen as predictable, mechanic, whose future states can in theory be predicted from its initial one. How could such a system have free will?
+
+There are many questions and problems bundled up in the above argument; I will need to restrict myself to just touching on them.
+
+First of all, humans are largely predictable: psychology, psychiatry and sociology describe and predict our behavior very effectively. So maybe we have less of a free will anyway than we imagine.
+
+Secondly, physical systems are only completely predictable in classical physics, and even there only in theory. For example, predicting the movements of three celestial bodies (just three, without anything else in this simple universe) using classical physics is already so complicated numerically, that it can only be predicted inaccurately and with very great effort.
+
+In quantum mechanics, some randomness is creeping into the physical reality, which makes such predictions impossible even in theory. Indeed, some physicists, like Roger Penrose, find free will exactly here.
+
+But on the most fundamental level, what would free will be? It would mean that a human, given some well-known conditions, can choose to act this way, or that way. To test whether the human indeed has this choice, and is not simply at the mercy of the chemical processes in its brain, we would need to recreate the initial conditions exactly many-many times, and observe if the human behaves the same way all the time, or its mind can shake off the shackles of some deterministic physics and somehow contradict it. This is the basis of all scientific knowledge: experiments.
+
+The sad truth is that we never are (or will be) able to recreate the initial conditions exactly. If nothing else, time has changed: in our world, time appears to be monotone, moving forward all the time, and we can never jump back to a previous point to do a "what if" experiment. This means that we will never be able to determine if humans indeed possess free will or not.
+
+Does this mean that all experiments are flawed? Yes, it does. But most systems that we experiment on are simple and robust enough, and they do not require a complete recreation of the initial conditions. If we release a cannon ball from the top of a tower, it will fall with roughly the same speed today, and tomorrow, if the sun shines, or if it rains. But free will precisely aims at determining whether there is any wiggle room in the laws of physics, and whether this can somehow be navigated or controlled. Such approximate experiments would not help us settle this question.
+
+But time is not actually monotone! I hear you say. There is space-time, and one can move in time similarly to moving in space. Therefore it could be possible to recreate the initial state perfectly and test free will. It is indeed true that an almost forward flowing time is not inherent in most physical processes as they can happen forwards as well as backwards (with some extra conditions). Yet we do experience time as a separate, monotone thing, and how this kind of time emerges is the subject of active research. As far as I understand, the current theory is that due to how universes evolve, certain processes (that usually go forward in time) are simply more probable than processes that go backwards.
+
+Ultimately though we don't have the final answer about time, while understanding its exact nature would be crucial in understanding an experiment, an initial state, a consequence, or something that goes against consequences: free will. We simply cannot decide at the moment if humans have free will, and if time is indeed monotone, the question itself becomes nonsensical.
+
+# ***
+
+“I find little promising about the notion of **qualia**. The fact that certain physical brain states are organized into experiences, abstract qualities (e.g. color) or feelings via introspection, and that these can be communicated via language (as without these being communicated and externalized we may as well assume they do not exist), is more a consequence of our shared biology and morphology than anything else. Humans are very similar in terms of their genetic makeup and environment, which in turn makes our gene expression, bodies, brains, learning, etc. very similar, too. We have also evolved to be pattern-seeking animals, so it is little wonder that we find patterns, and similar patterns, in our brain states. This in itself does not warrant ascribing any kind of reality to these patterns. In this sense, the problem we face here is very similar to the reality of objects in the face of the boundary problem, which we will introduce soon.”
 # III Entrapment
 
 We now know that when we perceive the world, it happens via our bodies, and these perceptions are also stored in a memory that is encoded in the body. These statements may sound trivial, but they have the important consequence that if we consider everything we have experienced, we necessarily find that each and every one of these experiences happened through the same body - our body.
@@ -154,7 +186,7 @@ Primus took a glance at his watch. He had time for a little detour.
 
 Primus wiped the chalk powder on his hands into his trousers.
 
-“Here we are only laying some -- physicalist -- groundwork,” he concluded the lecture, “but soon we will get to more interesting things, like glimpses at quantum mechanics and a new way of meditating over or considering existence.
+“Here we are only laying some—physicalist—groundwork,” he concluded the lecture, “but soon we will get to more interesting things, like glimpses at quantum mechanics and a new way of meditating over or considering existence.
 
 “The journey is not always easy; nor is climbing a mountain, but the reward of seeing the world and our place in it comes after difficult work and acceptance.”
 # IV Body and Care
@@ -201,56 +233,59 @@ It therefore no longer seems very useful to talk about a hypothetical unified bo
 “One can argue that the more the self, via Care, extends to possessions and other people of interest, the more it protects itself from its demise, its death with the body, and the more bearable the tragedy of the Experience becomes.
 
 “Consequently Care and interest needs to be temporarily withdrawn from others and possessions, and focus should primarily be on the original, very limited body itself for one to reach the Experience.”
+# V Death
+
+“Death, at first approximation, is the destruction of our bodies. As we have established that there is no need for a soul (and so it likely does not exist), and that faculties like memory and cognition are functions of the body, death means the destruction of the self.
+
+“Note that here, we use ‘body’ in its original sense. In the case of one’s death, other objects, organisms or humans in one’s Care continue to function - while, arguably, the circle of Care itself ceases to exist.
+
+“What does the destruction of the body mean? Most events leading to death are not extreme (high-energy) enough to, for example, change the atoms in our bodies; they may not even change the molecules. What they inevitably change instead is the physical arrangement of the elements or parts of the body, which leads to the loss of various functions (movement, speech, cognition, etc.). Among these are the ones that are prerequisites of the Experience, so once dead, we can no longer have the Experience.
+
+“This change of arrangement that leads to a loss is similar to how information encoded in macroscopic systems can disappear apparently without a trace. We can burn books, destroy paintings and computers, and never be able to recreate the text, the picture, or the data. This won’t come as a surprise to anyone, but it seems at odds with the assertion in quantum mechanics that no (quantum) information can be lost.
+
+“The likely explanation to this apparent contradiction is that a special macroscopic arrangement, used to encode some useful information, represents a very-very tiny amount of energy which is drowned out even by the energies of chemical processes. A fire converting the carbohydrates of a book into water and carbon dioxide doesn’t care much if the pages are filled with random letters or the text of Hamlet. It is likely true that burning a book of Hamlet will increase entropy more than burning a book with random letters, but this difference is likely to be very tiny. In other words, in the macroscopic word, we can store information virtually for free, but we can also easily lose it. And this is also true of life.
+
+“That is, humans are information,” Primus concluded. “But at the moment we cannot download this information and store it in cloud computers to ask someone a question or let them see their children after they have died, so the best way to preserve this information is to let people to live.”
 
 # ***
 
-Humans are information. Also, at the moment we cannot download this information and store it in the cloud to ask someone a question or let them see their children after they have died, so the best way to preserve this information is to get people to live.
+“Humans may be unique in the fact that they are aware of their own death. Is the fact that I know I am going to die necessary to achieve the Experience?
 
-This is why I don't care if protesters against killing are looting. Panes of glass, TV sets, handbags are expensive, but we know how to replace the information in them quite precisely. Is it needless vandalism? Yes. Does it cause damage and suffering to honest working people? Yes. Is it destroying precious, unique information that we have absolutely no hope of restoring? No.
+“No one actually knows that they are going to die. We merely assume, based on our similarity to other people, that we are also going to die, and with largely the same consequences. If one either rejects this assumption of similarity (I am superman - everyone else dies but this does not apply to me), or rejects that the outside world actually exists (people appear to have died, but this may not be real or true) then one can also assume that they will not die.
 
-Is killing doing that? Yes.
+“Of course, if one assumes that one will continue to exist infinitely (and without aging and ailments), it is easier to sidestep the problems posed by the Experience as even if one is limited in space (as the body is not infinite, and so one only has a narrow perspective of the world), one has all the time to compensate for this limitation. (Here we presuppose traditional space and time.) In other words, even if one experiences Entrapment, it can be seen much less of a problem; even if one is unique, it is much less frightening.
 
-#
+“In this sense, being aware of death certainly makes dealing with the Experience more urgent.
 
-Death, at first approximation, is the destruction of our bodies. As we have established that there is no need for a soul (and so it likely does not exist), and that faculties like memory and cognition are functions of the body, death also means the destruction of the I.
+“Still, even without awareness of death, many aspects of the Experience continue to hold true. One is still limited to one’s body, so Entrapment is there; one is still different from everything else, so so is the Primeval Difference, and one can still see onself as unique. And it is likely still true that one’s body, and together with it, one oneself can be destroyed with relative ease.
 
-But what does this destruction mean? Most events leading to death are not extreme (high-energy) enough to, for example, change the atoms in our bodies; they may not even change the molecules. What they inevitably change instead is the physical arrangement of the elements or parts of the body, which leads to the loss of various functions (movement, speech, cognition, etc.). Among these are the ones that are prerequisites of the I experience, so once we are dead, we no longer have an I experience.
+“Overall, an entity that has the expectation to exist indefinitely may find it less important to consider different facets of the Experience, but it is still affected by them. Death is therefore not required for the Experience.”
 
-This change of arrangement that leads to a loss is similar to how information encoded in macroscopic systems can disappear apparently without a trace. We can burn books, destroy paintings and computers, and never be able to recreate the text of the book, or the picture in the painting. This won't come as a surprise to anyone, but it seems at odds with the assertion of quantum mechanics that no information can be lost -- the modern equivalent of the law of conversation of mass.
+# ***
 
-The likely explanation here is that a special macroscopic arrangement, used to encode some useful information, represent very-very tiny amounts of energy which is drowned out by the energies represented even by chemical processes. A fire converting the carbohydrates of a book into water and carbon dioxide doesn't care much if the pages are filled with random letters or the text of Hamlet. It is likely true that burning a book of Hamlet will increase entropy more than burning a book with random letters, but this difference is likely be very tiny. In other words, in the macroscopic word, we can store information virtually for free, but we can also easily lose it. And this is also true of life.
+Primus started the next session in a happy mood. “I have said that humans are information. But if so, what happens to this information after death?
 
-#
-Humans may be unique in the fact that they are aware of their own death. Is the fact that I know I am going to die necessary to achieve the Experience?
-No one actually knows that they are going to die. We merely assume, based on our similarity to other people, that we are also going to die, and with largely the same consequences. If one either rejects this assumption of similarity (I am superman - everyone else dies but this does not apply to me), or rejects that the outside world actually exists (people appear to have died, but this may not be real or true) then one can also assume that they will not die.
-Of course, if one assumes that one will continue to exist infinitely (and without ageing and ailments), it is easier to sidestep the problems posed by the Experience as even if one is limited in space (as the body is not infinite, and so one only has a narrow perspective of the world), one has all the time to compensate for this limitations. (Note that here we presuppose a traditional experience of space and time.) In other words, even if one experiences Entrapment, it can be seen much less of a problem; even if one is unique, it is much less frightening.
-In this sense, being aware of death certainly makes dealing with the Experience more urgent.
-Still, even without awareness of death, many aspects of the Experience continue to hold true. One is still limited to one's body, so Entrapment is there; one is still different from everything else, so so is the Primeval Difference, and one can still see onself as unique. And it is likely still true that one's body, and together with it, one oneself can be destroyed with relative ease.
-Overall, an entity that has the expectation to exist indefinitely may find it less important to consider different facets of the Experience, but it is still affected by them. Death is therefore not required for the Experience.
+“Clearly, with the disintegration of the system that is the I or self, the I as a generator of information ceases to function. However, in a sense, the information it expressed continues to function—its verbal messages are translated, reinterpreted, and through these processes it in effect continues to participate in various dialogues. Is Plato dead when he argues in the head of a student reading The Republic for the first time? Is Shakespeare dead on stage? It seems any information continues to function as long as it exists, which entails that physically, it escapes destruction, and a manuscript, a recording, portrait, sculpture, painting or image survives. Pharaohs had their deeds recorded in hieroglyphs carved in stone apparently to make sure the text survives for eternity. Nowadays one can leave an electronic trail of information on the Internet and on various social networks. These trails can become our pyramids, as long as they are not forgotten, or simply deleted.
 
-#
-Elsewhere I will argue that the "I" is, in fact, information. Let's assume that I have already marshalled my reasons for this claim. So if it is true, what happens to this information after death?
-Clearly, with the disintegration of the system that is the I, the I as a generator of information ceases to function. However, in a sense, the information it expressed continues to function--its verbal messages are translated, reinterpreted, and through these processes it in effect continues to participate in various dialogues. Is Plato dead when he argues in the head of a student reading The Republic for the first time? Is Shakespeare dead on stage? It seems any information continues to function as long as it exists, which entails that physically, it escapes destruction, and a manuscript, a recording, portrait, sculpture, painting or image survives. Pharaohs had their deeds recorded in hieroglyphs carved in stone apparently to make sure the text survives for eternity. But nowadays, we have Facebook.
-With cheaper and cheaper electronic storage, and institutions like Google and Facebook which rely on retaining information for their financial success, and like the Internet Archive and its Wayback Machine, most, if not all, information we put online is saved in theory for eternity, and in practice probably until a really-really big catastrophe in which all other information carriers, including paper in libraries, will also perish. Our problem now is not how to save the data, but how to index and search in it, as information that cannot be found is more or less equivalent to being lost.
-This is how data centres have become our 21st-century pyramids, and this is why, if you post a lot on Facebook, you'll live for a very, very long time.
+**“Praise librarians, praise archaeologists, praise historians - they sacrifice their lives to preserve that which would be lost forever.”**
 
-#
+“It is worth considering that there is a very narrow channel of information through which we get to know another person: sight, hearing, touch, but perhaps most importantly, verbal communication. This is in line with the tenet of material perception. If so, much of this information, especially verbal communication, can be deferred—for example, when reading some writing—, and can also be deferred beyond the person's death. Such communication can continue to influence and so in some sense, for other people, the person continues to function almost as if alive.
 
-It is worth considering that there is a very narrow channel of information through which we get to know another person: sight, hearing, touch, but perhaps most importantly, verbal communication. If so, much of this, especially verbal communication can be deferred (as when reading some writing), and can also be deferred beyond the person's death. Such communication can continue to influence and so in some sense, for other people, the person continues to function as if alive. (Have you read a book and then only learned afterwards that its author has died a few years back? Did it matter?)
+“Have you read a book and then only learned afterwards that its author has died a few years back? Did it matter?
 
-Sadly, being not dead in the eyes of others is not a substitute for the continued I experience, the state of us experiencing ourselves. We feel that this would be lost even though we understand that after our deaths there will not be anything to experience the cessation of the I. We can distract ourselves from this dread by focusing on Others, and be diluted by/into this focus, but this may offer only temporary relief and may prevent us from learning from facing our fear.
+“Sadly, being not dead in the eyes of others is not a substitute for the Experience, the state of us experiencing ourselves. We feel that this would be lost even though we understand that after our deaths there will not be anything to experience the cessation of the I. We can distract ourselves from this dread by focusing on Others, and be diluted by and into this focus, but this may offer temporary relief only, and will prevent us from learning from facing our fear.”
 
-#
+# ***
 
 While in our everyday lives most things obey classical physics, it is now well understood that it is just an approximation of physical processes that are relatively slow and low energy. Quantum processes are still there, but we usually don't need them to explain things, just as we don't need an interferometer to bake a cake.
 
-Yet Quantum Mechanics poses basic questions about our reality. One famous interpretation of why everything behaves like a wave and can be in multiple places and states at once until we look at it when it "collapses", is Everett's many-world theorem, which basically states that this collapse is merely apparent as everything can be in multiple states and places at once, but since it includes us, we only see one of the possibilities. That is, there are many parallel worlds, and they somehow contain all possibilities and configurations.
+Yet Quantum Mechanics poses basic questions about our reality. One famous interpretation of why everything behaves like a wave and can be in multiple places and states at once until we look at it when it “collapses,” is Everett's many-world theorem, which basically states that this collapse is merely apparent as everything can be in multiple states and places at once, but since it includes us, we only see one of the possibilities. That is, there are many parallel worlds, and they somehow contain all possibilities and configurations.
 
-This idea has inspired many novels and movies that use alternative realities in their plots, and one cannot help but wonder if one could cheat death this way, as even if we die in one world, surely it's possible that we continue to exist, and so there will be an alternative world where all is still well.
+This idea has inspired many novels and movies that use alternative realities in their plots, and one cannot help but wonder if one could cheat death this way, as even if we die in one world, surely it’s possible that we continue to exist, and so there will be an alternative world where all is still well.
 
 Sadly the latest research into Quantum Mechanics and how it gives rise to the classical world seems to suggest that this is not so.
 
-No, it is not the case that the collapse is a real thing induced by something with a consciousness looking at the world (approximately the Copenhagen interpretation) - as expected, since consciousness is not something that is a special physical thing.
+No, it is not the case that the collapse is a real thing induced by something with a consciousness looking at the world (approximately the Copenhagen interpretation of Quantum Mechanics) - as expected, since consciousness is not something that is a special physical thing.
 
 Instead, quantum Darwinism suggests that non-classical configurations that are permissible in Quantum Mechanics (like a football being in a superposition of being in two different places) very quickly deteriorate into stable states (which happen to be permissible classical states) when they interact with the myriad of particles that surround us. So it is not really someone looking at (measuring) a system that causes it to collapse into a normal, classical state, but its interacting with a big environment. In a sense, the environment keeps measuring everything which forces everything into becoming classical.
 
@@ -258,11 +293,9 @@ This is true of large collections of particles, which includes the human body. S
 
 One can also argue that even if we continue to exist in an alternative world, a version of us does cease to exist with death, which is an existential threat in itself, especially since no one has demonstrated the ability to communicate with alternative realities, so for all intents and purposes our only accessible version dies.
 
-As an aside, regarding the interpretations of Quantum Mechanics, the de Broglie - Bohm interpretation is quite interesting as it suggests that the wavefunction of the whole universe never collapses.
+# ***
 
-#
-
-A set of unsolved problems in modern physics is regarding "the arrow of time." On the one hand, physical processes can happen both forwards and backwards in time (with some extra bits, see CPT symmetry): if a ball falls down, it speeds up; if someone throws it upwards, it slows down at the same rate. On the other hand, there are processes that we only regularly see happening in one direction, like a mug falling from the table and breaking into pieces.
+A set of unsolved problems in modern physics is regarding “the arrow of time.” On the one hand, physical processes can happen both forwards and backwards in time (with some extra bits, see CPT symmetry): if a ball falls down, it speeds up; if someone throws it upwards, it slows down at the same rate. On the other hand, there are processes that we only regularly see happening in one direction, like a mug falling from the table and breaking into pieces.
 
 Traditionally, entropy is cited as the reason why such processes do not happen backwards, as entropy should always increase; things should always become more chaotic. But this is not a hard law: entropy can be decreased with energy, and processes may happen backwards, just with much smaller probability. For example, if we shoot the pieces of the mug towards each other, and ensure that the atoms inside are just at the right place, they may re-form their bonds and we may just be able to recreate the mug itself. It's just quite unlikely.
 
@@ -272,40 +305,15 @@ As I understand the state of the art theory about why time is moving forwards is
 
 Now, if time is such an uncertain thing, and basically things are likely to move forward in time, but could move backward as well, just much less likely, do we still need to reckon with the end of our existence? Here, as elsewhere, I argue that without a way to cheat death using loopholes opened by modern physics, we need to, we can, and we should consider our existence as we currently see it. For all intents and purposes, we live in a world with a monotone time, and our existence is limited both in space and time.
 
-As a note, I do not know how this view of time is reconciled with e.g. the time element in the Schrodinger equation for the evolution of the wavefunction.
-
-#
-
-One of the main arguments against seeing the human mind as a physical system is free will. A physical system is seen as predictable, mechanic, whose future states can in theory be predicted from its initial one. How could such a system have free will?
-There are many questions and problems bundled up in the above argument; I will need to restrict myself to just touching on them.
-First of all, humans are largely predictable: psychology, psychiatry and sociology do this very effectively. So maybe we have less of a free will anyway than we imagine.
-Secondly, physical systems are only completely predictable in classical physics, and even there only in theory. For example, predicting the movements of three celestial bodies (just three, nothing else in this simple universe) using classical physics is already so complicated numerically, that it can only be predicted inaccurately and with very great effort.
-In quantum mechanics, some randomness is creeping into the physical reality, which makes such predictions impossible even in theory. Indeed, some physicists, like Roger Penrose, find free will exactly here.
-But on the most fundamental level, what would free will be? It would mean that a human, given some well-known conditions, can choose to act this way, or that way. To test whether the human indeed has this choice, and is not simply at the mercy of the chemical processes in its brain, we would need to recreate the initial conditions exactly many-many times, and observe if the human behaves the same way all the time, or its mind can shake off the shackles of some deterministic physics and somehow contradict it. This is the basis of all scientific knowledge: experiments.
-The sad truth is that we never are (or will be) able to recreate the initial conditions exactly. If nothing else, time has changed: in our world, time appears to be moving linearly, and we can never jump back to a previous point to do a "what if" experiment. This means that we will never be able to determine if humans indeed possess free will or not.
-Does this mean that all experiments are flawed? Yes, it does. But most systems that we experiment on are simple and robust enough, and they do not require a complete recreation of the initial conditions. If we release a cannon ball from the top of a tower, it will fall with roughly the same speed today, and tomorrow, if the sun shines, or if it rains. But free will precisely aims at determining whether there is any wiggle room in the laws of physics, and whether this can somehow be navigated or controlled. Such approximate experiments would not help us settle this question.
-But time is not actually linear! I hear you say. There is space-time, and one can move in time similarly to moving in space. Therefore it could be possible to recreate the initial state perfectly and test free will. It is indeed true that the most successful model of our universe suggests this, and that time is not inherent in most physical processes as they can happen forwards as well as backwards (with some extra conditions). Yet we do experience time as a separate, linear thing, and how this kind of time emerges is the subject of active research. As far as I understand, the current theory is that due to how universes evolve, certain processes (that usually go forward in time) are simply more probable than processes that go backwards.
-Ultimately though we don't have the final answer about time, while understanding its exact nature would be crucial in understanding what is an experiment, an initial state, a consequence, or something that goes against consequences: free will. We simply cannot decide at the moment if humans have free will, and if time is indeed linear the question itself becomes nonsensical.
-
-#
-
-The Experience comes as a huge, overwhelming wave: sometimes unannounced, sometimes after invitation. To invite it, you must prepare, remove all distractions and focus on yourself and yourself alone.
-
-It may come when you are in the bath, or taking a shower. You may feel: "I am trapped in this body. I am linked to it and I see, perceive and interact with the world through it. My eyes are like holes I peep through to see. Really nothing is too important - I will be dead and then nothing remains.
-
-"Whatever this I is, it is unique to me - it is me. It marks a unique part of space for the body it is connected to. This body looks very similar to other human bodies, but that's not really true: it's inherently different from all others because they are not me. In fact, it is (and I am) inherently different from everything else in the world, for everything else is not me, too."
-
-This separation of the I from the rest of the world is already there in Descartes, who could only assume the existence of the I, but not the existence of anything else.
-
-This difference between (the) I and everything else is vital and primeval. It gives rise to the Experience, and it is only after learning to experience and appreciate this difference that we can start to understand what the "I" can be.
 
 #
 
 The first stage of our journey is achieving the Experience. It is not easy, but is not something that can be done once and then forgotten; reliving the Experience again and again is necessary throughout the journey as we uncover deeper and deeper layers of understanding. The Experience is like running: one can read about it, one can learn about it, but these are not substitutes for the action. We must strive to live the Experience, however hard it is at first. As with running, and so with the Experience, with time our technique is refined, and our takeaway from it changes, evolves and deepens.
 
-Do not subscribe to false and harmful tenets about souls that live separately from our bodies, or minds that transcend matter. Our bodies are us in every sense; make peace with them and guard them; yours as well as others'.
 
-Praise librarians, praise archaeologists, praise historians - they sacrifice their lives to preserve that which would be lost forever.
+
+The Experience comes as a huge, overwhelming wave: sometimes unannounced, sometimes after invitation. To invite it, you must prepare, remove all distractions and focus on yourself and yourself alone.
+
 
 Every living thing is unique, is dependent upon itself, and has the same fragile experience as you. Preserve it for it is irreplaceable and has no less right to exist than yourself.
 

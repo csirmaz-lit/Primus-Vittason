@@ -30,26 +30,36 @@ hypothesis that this disorder is induced by therapy.
 
 ## Death
 
-<a name="316">316)</a> No one actually knows that they are going to die. We merely assume, based on our similarity to other people, that we are also going to die, and with largely the same consequences. If one either rejects this assumption of similarity, or rejects that the outside world actually exists (people appear to have died, but this may not be real or true) then one can also assume that they will not die.
-<a href="https://computational-existentialism.github.io/computational-existentialism/blog/death-requirement.html">Text</a>
+
 
 <a name="300">300)</a> Entrapment means that the self is limited in space; birth and death mean that it is limited in time.
 
-<a name="301">301)</a> The question was asked why is it that we dread the non-existence after our deaths but not the non-existence before our births. The answer is that seemingly we have information about the world from before our births, but may be saddened that we won't have information about it following our deaths.
+<a name="301">301)</a> The question was asked why is it that we dread the
+non-existence after our deaths but not the non-existence before our births. 
+The answer is that seemingly we have information about the world from before
+our births, but may be saddened that we won't have information about it
+following our deaths.
 
-<a name="302">302)</a> <a href="#300">#300</a> and <a href="#301">#301</a> depend on a separation of space and time, and a linear, monotone time.
 
-<a name="303">303)</a> This <a href="#302">#302</a> is unlikely to be true. Space and time are more closely linked, and my understanding is that a linear time is an illusion based on the fact that processes governing developing universes make processes more likely that we associate with forward flowing time (increased entrophy). That is, processes we would associate with time flowing backwards are not impossible, just less likely.
+<a name="304">304)</a> Nevertheless I argue that with our macroscopic bodies
+we are essentially locked into a world with a separate, linear time, where
+the effects of any uncertainty around time are present, but basically
+negligible.  That is, despite <a href="#303">#303</a>, we can regard time as
+linear and monotone, and so <a href="#302">#302</a>, and <a
+href="#301">#301</a> and <a href="#300">#300</a> hold.
 
-<a name="304">304)</a> Nevertheless I argue that with our macroscopic bodies we are essentially locked into a world with a separate, linear time, where the effects of any uncertainty around time are present, but basically negligible. That is, despite <a href="#303">#303</a>, we can regard time as linear and monotone, and so <a href="#302">#302</a>, and <a href="#301">#301</a> and <a href="#300">#300</a> hold.
+<a name="317">317)</a> In <a href="#305">#305</a> we use "body" in its usual
+sense, excluding the rest of our Care.  As such, "body" here is not defined
+well.  Perhaps we mean the destruction / change of the Agent (<a
+href="#213">#213</a>).
 
-<a name="305">305)</a> What is death? It is the destruction of our bodies, or at least changes to it that are incompatible with providing its usual functions (perception, memory, cognition, affecting the world).
+<a name="318">318)</a> Indeed, from <a href="#215">#215</a>, death is more
+characterised by the ceasing functioning of an Agent (even if it's not the
+only agent in a body).
 
-<a name="317">317)</a> In <a href="#305">#305</a> we use "body" in its usual sense, excluding the rest of our Care. As such, "body" here is not defined well. Perhaps we mean the destruction / change of the Agent (<a href="#213">#213</a>).
-
-<a name="318">318)</a> Indeed, from <a href="#215">#215</a>, death is more characterised by the ceasing functioning of an Agent (even if it's not the only agent in a body).
-
-<a name="319">319)</a> As in <a href="#318">#318</a>, we can talk about death when the Agent ceases to function, even if much of the body (and objects included in the Care) survive.
+<a name="319">319)</a> As in <a href="#318">#318</a>, we can talk about
+death when the Agent ceases to function, even if much of the body (and
+objects included in the Care) survive.
 
 <a name="306">306)</a> From <a href="#305">#305</a> and <a href="#111">#111</a>, the death of the body entails (and is sufficient to cause) the death of the I/self.
 
