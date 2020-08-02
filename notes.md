@@ -2,100 +2,62 @@
 
 ### (Discover/Find) The meaning of life and a more honest existence in our modern world
 
-<a
-href="https://computational-existentialism.github.io/computational-existentialism/book/book.html">Book</a>
-
-
 ## Body and Care
 
 Clones
 
-<a name="213">213)</a> Different objects (subjective abstraction) in the
-Care are linked to the self to different degrees.  Communication between
-one's finger and one's "self" is fast, while communication with one's car or
-another person is limited (and mediated through the senses, but this may not
-be relevant).  We could attempt to define the other extreme of this set,
-things that are very closely linked to the self.  We name this collection
-the **Agent**.
-
-<a name="214">214)</a> The Agent may not contain the whole brain/mind, as
-different brain regions may communicate with different effectiveness.  What
-is traditionally regarded as the subconscious may not be part of the Agent,
-for example, as it is largely inaccessible to it.
-
-<a name="215">215)</a> I wanted to say that people with dissociative
-identity disorder, previously known as multiple personality disorder, may
-have multiple agents housed in the same body.  Interestingly, there is a
-hypothesis that this disorder is induced by therapy.
-
 ## Death
 
 
+<a name="313">313)</a> Note on <a href="#308">#308</a>: conversion laws
+appear to have their limits of applicability.  Conversion of mass applies
+until we deal with high enough energies where energy and mass convert to
+each other.  Conversion of atoms apply in chemical processes, but not in
+nuclear processes.  Conversion of protons and neutrons apply in nuclear
+processes, but not at energy levels where they can separate into quarks.
 
-<a name="300">300)</a> Entrapment means that the self is limited in space; birth and death mean that it is limited in time.
-
-<a name="301">301)</a> The question was asked why is it that we dread the
-non-existence after our deaths but not the non-existence before our births. 
-The answer is that seemingly we have information about the world from before
-our births, but may be saddened that we won't have information about it
-following our deaths.
-
-
-<a name="304">304)</a> Nevertheless I argue that with our macroscopic bodies
-we are essentially locked into a world with a separate, linear time, where
-the effects of any uncertainty around time are present, but basically
-negligible.  That is, despite <a href="#303">#303</a>, we can regard time as
-linear and monotone, and so <a href="#302">#302</a>, and <a
-href="#301">#301</a> and <a href="#300">#300</a> hold.
-
-<a name="317">317)</a> In <a href="#305">#305</a> we use "body" in its usual
-sense, excluding the rest of our Care.  As such, "body" here is not defined
-well.  Perhaps we mean the destruction / change of the Agent (<a
-href="#213">#213</a>).
-
-<a name="318">318)</a> Indeed, from <a href="#215">#215</a>, death is more
-characterised by the ceasing functioning of an Agent (even if it's not the
-only agent in a body).
-
-<a name="319">319)</a> As in <a href="#318">#318</a>, we can talk about
-death when the Agent ceases to function, even if much of the body (and
-objects included in the Care) survive.
-
-<a name="306">306)</a> From <a href="#305">#305</a> and <a href="#111">#111</a>, the death of the body entails (and is sufficient to cause) the death of the I/self.
-
-<a name="307">307)</a> In quantum mechanics, it is suggested that no (quantum!) information can be lost. It is strange then to find that this is not universal, and it is entirely possible to lose information in death, i.e. the arrangement of atoms/molecules that can provide the functions we associate with life.
-
-<a name="308">308)</a> This is likely because quantum information is high energy: it requires a lot of energy to create or transform a particle, whereas information encoded in macroscopic systems is very low energy. The energy difference (due to different entropies) between a book of random letters and a book containing the text of Hamlet probably exists, but is miniscule compared to energies involved even in everyday chemical processes like burning these books. That is, it is easy to lose this kind of information.
-
-<a name="309">309)</a> Events leading to human deaths are usually low-energy, e.g. chemical processes or physical impacts that can only alter primary or secondary connections between atoms.
-
-<a name="310">310)</a> In this sense, we can regard death as a sufficiently classical (not quantum) process and argue that laws from quantum mechanics (e.g. information preservation) do not apply.
-
-<a href="https://computational-existentialism.github.io/computational-existentialism/blog/what-death.html">Text: What is Death?</a>
-
-<a name="311">311)</a> Despite <a href="#310">#310</a>, I'd need to know more of quantum theory to understand if death as a classical process can also be a quantum state, i.e. if we can expect or hope that a person continues living in a different quantum state that we do not have access to. See <a href="#411">#411</a>. Ideas to explore: - decoherence in macroscopic systems, - losing access to quantum states by entanglement, - whether the universe can hold enough information to keep alternatives of each and every event (it's expanding)
-
-<a name="312">312)</a> Do we need to understand more of our world and quantum mechanics to answer our questions on existence, as in <a href="#311">#311</a>? Or can we build thoughts on existence on a classical physical model as in <a href="#310">#310</a> because our bodies are macroscopic enough for classical physics to describe it well enough for this purpose?
-
-<a name="313">313)</a> Note on <a href="#308">#308</a>: conversation laws appear to have their limits of applicability. Conversation of mass applies until we deal with high enough energies where energy and mass convert to each other. Conversation of atoms apply in chemical processes, but not in nuclear processes. Conversion of protons and neutrons apply in nuclear processes, but not at energy levels where they can separate into quarks.
-
-<a name="314">314)</a> If so, conversation of quantum information may be an approximation as well that is true at the energy levels we can currently consider. So despite <a href="#307">#307</a>, quantum information may ultimately be lost, too. (What does the theory say about the Big Bang? Black holes where this was a central issue?)
+<a name="314">314)</a> If so, conversion of quantum information may be an
+/approximation as well that is true at the energy levels we can currently
+consider.  So despite <a href="#307">#307</a>, quantum information may
+ultimately be lost, too.  (What does the theory say about the Big Bang? 
+Black holes where this was a central issue?)
 
 <a name="315">315)</a> Of course, quantum and other effects can happen at lower energies as well (tunneling) but are very unlikely.
 
 ## Difference and Uniqueness
 
-<a name="400">400)</a> The observations above apply globally; they are objective. They do not describe or explain the subjective experience of being locked into one's body (Entrapment), of being limited in space and time in an apparently random manner, of being **Different** from the external world (as everything else is not me), and of being **Unique** (as there is only one me).
+<a name="400">400)</a> The observations above apply globally; they are
+objective.  They do not describe or explain the subjective experience of
+being locked into one's body (Entrapment), of being limited in space and
+time in an apparently random manner, of being **Different** from the
+external world (as everything else is not me), and of being **Unique** (as
+there is only one me).
 
-<a name="401">401)</a> Looking at a word of thinking agents from outside, we see that they will all experience Entrapment as long as they are physical systems (see <a href="#111">#111</a>).
+<a name="401">401)</a> Looking at a word of thinking agents from outside, we
+see that they will all experience Entrapment as long as they are physical
+systems (see <a href="#111">#111</a>).
 
-<a name="402">402)</a> Despite <a href="#401">#401</a>, nothing explains (or illuminates) why one of these agents is **Selected** to be "I".
+<a name="402">402)</a> Despite <a href="#401">#401</a>, nothing explains (or
+illuminates) why one of these agents is **Selected** to be "I".
 
-<a name="403">403)</a> In <a href="#402">#402</a> we assume that only a single agent is selected -- probably because Entrapment is into a single Body, and because we considered Care to be centered around a single mind/body/agent. These assumptions should be reviewed -- possibly related to surviving death through Care.
+<a name="403">403)</a> In <a href="#402">#402</a> we assume that only a
+single agent is selected -- probably because Entrapment is into a single
+Body, and because we considered Care to be centered around a single
+mind/body/agent.  These assumptions should be reviewed -- possibly related
+to surviving death through Care.
 
-<a name="404">404)</a> From the objective observations we predict that whichever agent is Selected, it will have the experience that it has always been selected because it experiences **continuity of self** (Entrapment again) as its memories are encoded in itself (<a href="#108">#108</a>).
+<a name="404">404)</a> From the objective observations we predict that
+whichever agent is Selected, it will have the experience that it has always
+been selected because it experiences **continuity of self** (Entrapment
+again) as its memories are encoded in itself (<a href="#108">#108</a>).
 
-<a name="405">405)</a> Even if Selectedness migrates between agents/minds/bodies, no information is carried over from one agent to another; all information (memories) are from the current agent, and so even if this is happening, this process can never be detected. <a href="https://computational-existentialism.github.io/computational-existentialism/blog/soul.html">Text</a> and <a href="https://computational-existentialism.github.io/computational-existentialism/blog/entrapment-soul.html">text</a>
+<a name="405">405)</a> Even if Selectedness migrates between
+agents/minds/bodies, no information is carried over from one agent to
+another; all information (memories) are from the current agent, and so even
+if this is happening, this process can never be detected.  <a
+href="https://computational-existentialism.github.io/computational-existentialism/blog/soul.html">Text</a>
+and <a
+href="https://computational-existentialism.github.io/computational-existentialism/blog/entrapment-soul.html">text</a>
 
 <a name="406">406)</a> The circular nature of Selectedness (it's there but we cannot detect if it changes) may be because it does not exist objectively. It is a subjective phenomenon.
 

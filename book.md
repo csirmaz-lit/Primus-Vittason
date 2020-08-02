@@ -1,4 +1,4 @@
-# I Introductions
+# I Introduction
 
 
 “We humans have an inquisitive mind,” Primus said, “and we want to understand everything. Our own existence is no exception. Yet facing the fundamental questions of our lives fills us with dread and terror, and we do everything to escape their beckoning.
@@ -11,7 +11,10 @@ It is strange, writing an introduction to something I have not been able to writ
 It is of no surprise that I have not been able to write about this subject matter properly, as I think no one has. Contemplating it is a personal journey, as shown by the many competing and contradicting philosophies that from ancient times have grown out of our forlorn quest to squeeze a drop of meaning out of the barren randomness of our universe. I invite you to join me on this journey, as I have learned a lot on the road, and there is so much still to discover.
 
 
-“The first stage of our journey is achieving the Experience,” Primus continued. “It is not easy, and it is not something that can be done once and then forgotten; reliving the Experience again and again is necessary throughout the journey as we uncover deeper and deeper layers of understanding. The Experience is like running: one can read about it, one can learn about it, but these are not substitutes for the action. We must strive to live the Experience, however hard it is at first. As with running, and so with the Experience, with time our technique is refined, and our takeaway from it changes, evolves and deepens.
+“The first stage of our journey is achieving the Experience,” Primus continued. “It is not easy, and it is not something that can be done once and then forgotten; reliving the Experience again and again is necessary throughout the journey as we uncover deeper and deeper layers of understanding. The Experience is like running: one can read about it, one can learn about it, but these are not substitutes for the action. We must strive to live the Experience, however hard it is at first. As with running, and so with the Experience, with time our technique is refined, and our takeaway from it changes, evolves and deepens.”
+
+
+**This book is a work of fiction, including the descriptions of the Experience and of ways of achieving it. It is intended to be read as a personal account and a thought experiment by a fictional character. The effects of the Experience or of trying to achieve it on the human mind have not been investigated, let alone proven to be harmless. Therefore nothing in this book is to be taken as a suggestion to follow or attempt in real life.**
 
 “I now want you to close your eyes. You are in a bathtub. You have turned off the tap a few minutes ago. There is silence around. And a voice inside says, ‘Oh, the water is getting cold. Why is the water getting cold? Just when I'm getting in. Same thing every day. Look at my toes. Same toes. Bit less pale, perhaps. Do I know these toes? Are they my toes? I guess it’d hurt if someone cut them off, so they must be. Then I have twenty toes. ‘Cause it’d hurt if someone cut off Jay’s toes. Twenty toes. Does Jay have twenty toes, too? And four eyes. But maybe he doesn’t want my eyes. They’re a bit crap.
 
@@ -237,7 +240,9 @@ It therefore no longer seems very useful to talk about a hypothetical unified bo
 
 “Death, at first approximation, is the destruction of our bodies. As we have established that there is no need for a soul (and so it likely does not exist), and that faculties like memory and cognition are functions of the body, death means the destruction of the self.
 
-“Note that here, we use ‘body’ in its original sense. In the case of one’s death, other objects, organisms or humans in one’s Care continue to function - while, arguably, the circle of Care itself ceases to exist.
+“Note that here, we use ‘body’ in its original sense. In the case of one’s death, other objects, organisms or humans in one’s Care continue to function—while, arguably, the circle of Care itself ceases to exist.
+
+“Incidentally,” Primus turned to the audience, “it has been suggested that we humans disproportionately fear non-existence after our deaths, but no one cares about non-existence before we are born. Do you know why that may be?” He paused, but nor for long. “I think it has to do with information. We seem to know about the world before our birth, but we’ll miss out on everything that comes after we die. So let’s get back to death.
 
 “What does the destruction of the body mean? Most events leading to death are not extreme (high-energy) enough to, for example, change the atoms in our bodies; they may not even change the molecules. What they inevitably change instead is the physical arrangement of the elements or parts of the body, which leads to the loss of various functions (movement, speech, cognition, etc.). Among these are the ones that are prerequisites of the Experience, so once dead, we can no longer have the Experience.
 
@@ -249,9 +254,22 @@ It therefore no longer seems very useful to talk about a hypothetical unified bo
 
 # ***
 
+It is convenient to define death as the destruction of one’s body, while we have seen that the body is an ill-defined concept. We introduced Care to take its place, but it is also clear that most objects or entities in a circle of Care survive even if someone—a body—dies.
+
+To be able to describe what we mean by death better, consider that different objects (note that objects themselves are subjective abstractions over material reality) that belong to a circle of Care as information emanating from them change the mental state of the “self” do so to different degrees. Arguably everything is included in the Care, as all changes can be said to affect us to some degree, while it is also clear that e.g. this link between our finger and us is much more immediate than, say, between us and an unknown person.
+
+If so, we can attempt to define the other extreme of Care—here, instead of extending the original body, restricting it to a region of space or set of objects that are linked very closely to the self. We name this the **Agent**.
+
+We can then redefine death as the destruction of an Agent. It may be that the Agent** **does not include the whole body, or even the whole brain—we can consider someone to survive an amputation or a stroke affecting part of their brain. Conversely, we can mourn the loss of a person even if parts of their bodies, technically, survive.
+
+As we shall see, the concept of the Agent turns out to be very helpful in our further investigations.
+
+
+# ***
+
 “Humans may be unique in the fact that they are aware of their own death. Is the fact that I know I am going to die necessary to achieve the Experience?
 
-“No one actually knows that they are going to die. We merely assume, based on our similarity to other people, that we are also going to die, and with largely the same consequences. If one either rejects this assumption of similarity (I am superman - everyone else dies but this does not apply to me), or rejects that the outside world actually exists (people appear to have died, but this may not be real or true) then one can also assume that they will not die.
+“Let’s clarify,” Primus continued, “that nyyo one actually knows that they are going to die. We merely assume, based on our similarity to other people, that we are also going to die, and with largely the same consequences. If one either rejects this assumption of similarity (I am superman - everyone else dies but this does not apply to me), or rejects that the outside world actually exists (people appear to have died, but this may not be real or true) then one can also assume that they will not die.
 
 “Of course, if one assumes that one will continue to exist infinitely (and without aging and ailments), it is easier to sidestep the problems posed by the Experience as even if one is limited in space (as the body is not infinite, and so one only has a narrow perspective of the world), one has all the time to compensate for this limitation. (Here we presuppose traditional space and time.) In other words, even if one experiences Entrapment, it can be seen much less of a problem; even if one is unique, it is much less frightening.
 
@@ -261,11 +279,13 @@ It therefore no longer seems very useful to talk about a hypothetical unified bo
 
 “Overall, an entity that has the expectation to exist indefinitely may find it less important to consider different facets of the Experience, but it is still affected by them. Death is therefore not required for the Experience.”
 
+**“Entrapment means that the self is limited in space; birth and death mean that it is limited in time.”**
+
 # ***
 
 Primus started the next session in a happy mood. “I have said that humans are information. But if so, what happens to this information after death?
 
-“Clearly, with the disintegration of the system that is the I or self, the I as a generator of information ceases to function. However, in a sense, the information it expressed continues to function—its verbal messages are translated, reinterpreted, and through these processes it in effect continues to participate in various dialogues. Is Plato dead when he argues in the head of a student reading The Republic for the first time? Is Shakespeare dead on stage? It seems any information continues to function as long as it exists, which entails that physically, it escapes destruction, and a manuscript, a recording, portrait, sculpture, painting or image survives. Pharaohs had their deeds recorded in hieroglyphs carved in stone apparently to make sure the text survives for eternity. Nowadays one can leave an electronic trail of information on the Internet and on various social networks. These trails can become our pyramids, as long as they are not forgotten, or simply deleted.
+“Clearly, with the disintegration of the system that is the I or self, the I as a generator of information ceases to function. However, in a sense, the information it expressed continues to function—its verbal messages are translated, reinterpreted, and through these processes it in effect continues to participate in various dialogs. Is Plato dead when he argues in the head of a student reading The Republic for the first time? Is Shakespeare dead on stage? It seems any information continues to function as long as it exists, which entails that physically, it escapes destruction, and a manuscript, a recording, portrait, sculpture, painting or image survives. Pharaohs had their deeds recorded in hieroglyphs carved in stone apparently to make sure the text survives for eternity. Nowadays one can leave an electronic trail of information on the Internet and on various social networks. These trails can become our pyramids, as long as they are not forgotten, or simply deleted.”
 
 **“Praise librarians, praise archaeologists, praise historians - they sacrifice their lives to preserve that which would be lost forever.”**
 
@@ -303,8 +323,18 @@ Moreover, as e.g. Penrose points out, entropy can only increase if we originally
 
 As I understand the state of the art theory about why time is moving forwards is related to sub-universes (bubbles with special physical constants inside) expanding and the flows generated by this process.
 
-Now, if time is such an uncertain thing, and basically things are likely to move forward in time, but could move backward as well, just much less likely, do we still need to reckon with the end of our existence? Here, as elsewhere, I argue that without a way to cheat death using loopholes opened by modern physics, we need to, we can, and we should consider our existence as we currently see it. For all intents and purposes, we live in a world with a monotone time, and our existence is limited both in space and time.
+Now, if time is such an uncertain thing, and basically things are likely to move forward in time, but could move backward as well, just much less likely, do we still need to reckon with the end of our existence? Here, as elsewhere, I argue that without a way to cheat death using loopholes opened by modern physics, we need to, we can, and we should consider our existence in terms of classical physics, as our bodies are macroscopic. And for all intents and purposes, we live in a world with a monotone time, and our existence is limited both in space and time.
 
+It is interesting and important to consider if our existence is determined by some quantum process, like alternative universes or reversing time to before our deaths, but such attempts can look like grasping at straws. Arguably since our bodies are macroscopic, we should be able to use classical physics to describe our existence, death, experiences etc. highly accurately. If it paints an unfavorable picture of our existence,  it may be better to learn to accept it than to try to find loopholes in Quantum Mechanics.
+
+# Difference and Uniqueness
+
+# Achieving the Experience
+
+We now know what we do to avoid the Experience
+
+We need to avoid avoiding the Experience
+# Others
 
 #
 
