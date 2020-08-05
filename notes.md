@@ -26,76 +26,88 @@ Black holes where this was a central issue?)
 
 ## Difference and Uniqueness
 
-<a name="400">400)</a> The observations above apply globally; they are
-objective.  They do not describe or explain the subjective experience of
-being locked into one's body (Entrapment), of being limited in space and
-time in an apparently random manner, of being **Different** from the
-external world (as everything else is not me), and of being **Unique** (as
-there is only one me).
 
-<a name="401">401)</a> Looking at a word of thinking agents from outside, we
-see that they will all experience Entrapment as long as they are physical
-systems (see <a href="#111">#111</a>).
+<a name="412">412)</a> Further to <a href="#406">#406</a>, we expect that
+every physical thinking agent will experience Entrapment, and so (as a
+consequence) will also experience Selectedness - it will see itself as
+different and unique.  But why?
 
-<a name="402">402)</a> Despite <a href="#401">#401</a>, nothing explains (or
-illuminates) why one of these agents is **Selected** to be "I".
+<a name="414">414)</a> This would mean that the feelings of being different
+and unique are neither different, nor unique to us.
 
-<a name="403">403)</a> In <a href="#402">#402</a> we assume that only a
-single agent is selected -- probably because Entrapment is into a single
-Body, and because we considered Care to be centered around a single
-mind/body/agent.  These assumptions should be reviewed -- possibly related
-to surviving death through Care.
+# <a name="407">407)</a> Someone said as soon as we try to look at
+# consciousness (<a
+# href="https://www.youtube.com/watch?v=EJG1p_JyKsE">mentioned here</a>), it
+# seems to disappear.  The same seems to be happening here.
 
-<a name="404">404)</a> From the objective observations we predict that
-whichever agent is Selected, it will have the experience that it has always
-been selected because it experiences **continuity of self** (Entrapment
-again) as its memories are encoded in itself (<a href="#108">#108</a>).
+<a name="408">408)</a> We could suppose that Selectedness is an objective
+property, creating a kind of solipsistic world view.
 
-<a name="405">405)</a> Even if Selectedness migrates between
-agents/minds/bodies, no information is carried over from one agent to
-another; all information (memories) are from the current agent, and so even
-if this is happening, this process can never be detected.  <a
-href="https://computational-existentialism.github.io/computational-existentialism/blog/soul.html">Text</a>
-and <a
-href="https://computational-existentialism.github.io/computational-existentialism/blog/entrapment-soul.html">text</a>
 
-<a name="406">406)</a> The circular nature of Selectedness (it's there but we cannot detect if it changes) may be because it does not exist objectively. It is a subjective phenomenon.
 
-<a name="412">412)</a> Further to <a href="#406">#406</a>, we expect that every physical thinking agent will experience Entrapment, and so (as a consequence) will also experience Selectedness - it will see itself as different and unique. But why?
 
-<a name="414">414)</a> This would mean that the feelings of being different and unique are neither different, nor unique to us.
+<a name="409">409)</a> **Uniqueness** from <a href="#400">#400</a>: one may
+have a sense of uniqueness, but it is not a requirement.  If there was an
+exact copy of me placed in some controlled environment that is identical to
+mine (so that we would evolve in the same way), my sense of self, dread of
+death, etc.  would not change.
 
-<a name="407">407)</a> Someone said as soon as we try to look at consciousness (<a href="https://www.youtube.com/watch?v=EJG1p_JyKsE">mentioned here</a>), it seems to disappear. The same seems to be happening here.
+<a name="410">410)</a> Note that the hypothetical copy in <a
+href="#409">#409</a> is likely impossible even in theory, as the properties
+of the particles of my body cannot be precisely measured (due to the
+Heisenberg uncertainty principle), and no two environments can be completely
+equivalent.  One could say that the body and its processes are macroscopic
+and therefore classical enough so that a good enough copy and a good enough
+replica of my environment can be achieved, see <a href="#312">#312</a>.  At
+the same time, some slight uncertainty creeping into the systems this way
+could make the responses of the brains of the two copies similar.  Let's not
+forget it's here that Penrose finds free will - ?
 
-<a name="408">408)</a> We could suppose that Selectedness is an objective property, creating a kind of solipsistic world view.
+<a name="411">411)</a> We need to see if <a href="#409">#409</a> applies to
+the copy of the self that may be another quantum state of it - see the many
+world interpretation.  Note however that the environments of the two states
+will be different.  See <a href="#311">#311</a>
 
-<a name="409">409)</a> **Uniqueness** from <a href="#400">#400</a>: one may have a sense of uniqueness, but it is not a requirement. If there was an exact copy of me placed in some controlled environment that is identical to mine (so that we would evolve in the same way), my sense of self, dread of death, etc. would not change.
+<a name="413">413)</a> I may be **different** because I have direct access
+to my own memories, but only indirect access to someone else's memories. 
+This is an approximation.
 
-<a name="410">410)</a> Note that the hypothetical copy in <a href="#409">#409</a> is likely impossible even in theory, as the properties of the particles of my body cannot be precisely measured (due to the Heisenberg uncertainty principle), and no two environments can be completely equivalent. One could say that the body and its processes are macroscopic and therefore classical enough so that a good enough copy and a good enough replica of my environment can be achieved, see <a href="#312">#312</a>. At the same time, some slight uncertainty creeping into the systems this way could make the responses of the brains of the two copies similar. Let's not forget it's here that Penrose finds free will - ?
-
-<a name="411">411)</a> We need to see if <a href="#409">#409</a> applies to the copy of the self that may be another quantum state of it - see the many world interpretation. Note however that the environments of the two states will be different. See <a href="#311">#311</a>
-
-<a name="413">413)</a> I may be **different** because I have direct access to my own memories, but only indirect access to someone else's memories. This is an approximation.
-
-<a name="415">415)</a> We can imagine a world without us (before we were born; after we die) which raises the question why isn't the world *always* without me. Of course someone needs to pose this very question (I think therefore I am by Descartes).
+<a name="415">415)</a> We can imagine a world without us (before we were
+born; after we die) which raises the question why isn't the world *always*
+without me.  Of course someone needs to pose this very question (I think
+therefore I am by Descartes).
 
 ## Surviving
 
-<a name="500">500)</a> Will lifting things into our care that do not die with our bodies actually make us survive? Removing the focus from the self, focusing on something, especially if it's in our Care, distracts from Entrapment and the Experience. We may call this **Dilution**. However, if death is the cessation of the Agent, it does not make us survive death.
+<a name="500">500)</a> Will lifting things into our care that do not die
+with our bodies actually make us survive?  Removing the focus from the self,
+focusing on something, especially if it's in our Care, distracts from
+Entrapment and the Experience.  We may call this **Dilution**.  However, if
+death is the cessation of the Agent, it does not make us survive death.
 
 ## Attitude to life
 
-<a name="1003">1003)</a> Carnap is right that metaphysics is an expression of an attitude to life rather than verifiable statements or arguments. (The Elimination of Metaphysics... by Rudolf Carnap)
+<a name="1003">1003)</a> Carnap is right that metaphysics is an expression
+of an attitude to life rather than verifiable statements or arguments.  (The
+Elimination of Metaphysics...  by Rudolf Carnap)
 
-<a name="1004">1004)</a> The previous sections conatin investigations, statements, arguments; this section contains expressions which may be best communicated via some art form.
+<a name="1004">1004)</a> The previous sections conatin investigations,
+statements, arguments; this section contains expressions which may be best
+communicated via some art form.
 
 ### The Experience
 
-<a name="1000">1000)</a> We can provide tools / strategies for anyone to have the Experience. It can be a building block to a better attitude to others and life. However, it can also be a lonely and frightening experience (a trial). Maybe do it with support, in a community.
+<a name="1000">1000)</a> We can provide tools / strategies for anyone to
+have the Experience.  It can be a building block to a better attitude to
+others and life.  However, it can also be a lonely and frightening
+experience (a trial).  Maybe do it with support, in a community.
 
 ### Others
 
-<a name="1001">1001)</a> We can either deny that other people can have the Experience. We consciously choose the latter. This leads to the recognition that life should be preserved; how important and unique every life (indeed every structure) is.
+<a name="1001">1001)</a> We can either deny that other people can have the
+Experience.  We consciously choose the latter.  This leads to the
+recognition that life should be preserved; how important and unique every
+life (indeed every structure) is.
 
 <a name="1002">1002)</a> Our aim is to build empathy.
 

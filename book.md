@@ -327,9 +327,22 @@ Now, if time is such an uncertain thing, and basically things are likely to move
 
 It is interesting and important to consider if our existence is determined by some quantum process, like alternative universes or reversing time to before our deaths, but such attempts can look like grasping at straws. Arguably since our bodies are macroscopic, we should be able to use classical physics to describe our existence, death, experiences etc. highly accurately. If it paints an unfavorable picture of our existence,  it may be better to learn to accept it than to try to find loopholes in Quantum Mechanics.
 
-# Difference and Uniqueness
+# VI Difference and Uniqueness
 
-# Achieving the Experience
+“The observations we have described so far are objective truths that apply generally, to all selves and all I’s. They do not explain or describe the subjective experience of being locked into one’s body (Entrapment), of being limited in space and time in an apparently random manner (Why was I born in this place at this time?), of being **Different** from the external world (as everything else is not me), and of being **Unique** (as there is only one me).
+
+“If we model our world as some physical reality with a number of thinking Agents, and we look at such a world from the outside,  we see that all Agents will experience Entrapment as long as they are physical systems. This is because then all their memories are encoded physically as well, and we can follow the argument we have made before about comparing previous memories to the current perception of the world and realizing that perception always happens from the same body. However, nothing explains or illuminates why one of these Agents appear to be **Selected** to be ‘I’.
+
+“We can look at the consequences of the same argument in different ways. One way is to say that whichever Agent is Selected, it will think that it has always been Selected since it experiences itself as a continuously existing entity with a permanence to its identity. That is, if this body is I, it has always been I, since it was the I during a previous experience the memory of which is encoded in the same body.
+
+“Another way is to say that even if Selectedness somehow migrates from one Agent to another, all information an Agent has access to from the past is still the memories encoded in its body. No information transfer happens with the migration, and so even if this migration is happening, no Agent can detect it. Note that this is the same argument that we used to hollow out and ultimately discard the notion of the soul. Indeed the role of the soul we scrutinized, which was to identify people, and the role of Selectedness, which identifies ‘I’, is the same, and neither can be linked to anything in physical reality.
+
+“Selectedness therefore has some strange behavior. It seems to be there, but where, or whether it moves, cannot be detected. This can be explained if we say that Selectedness is not an objective, but a subjective phenomenon. Someone said that as soon as we try to look at consciousness, it seems to disappear. The same thing is happening here.
+
+“Note that we are assuming that only a single Agent is Selected. This tallies with our subjective experience and with Uniqueness, and mirrors our implicit assumptions that Entrapment is into a single body, and Care is centered around a single Agent. That said, we appear to be describing a subjective—psychological—experience of identity, and in theory we could leave open the possibility of multiple Agents developing a common identity. After all, why couldn’t I somehow think that I and George are one person? Can the notion of group identity grasped this way? Can an identity somehow survive the death of an Agent if it is linked to more? These are important questions, but for now we will disregard this potential complexity of identity.
+
+# ***
+# VII Achieving the Experience
 
 We now know what we do to avoid the Experience
 
