@@ -113,55 +113,104 @@ life (indeed every structure) is.
 
 ## Why-I
 
-<a name="9001">9001)</a> Above we establish that under certain conditions everyone (everything?) has the Experience, that is, they experience Entrapment, etc., and so **once** they find themselves in the special position of being the I, they will continue to do so, or, rather, will have the experience that they have always been so.
+<a name="9001">9001)</a> Above we establish that under certain conditions
+everyone (everything?) has the Experience, that is, they experience
+Entrapment, etc., and so **once** they find themselves in the special
+position of being the I, they will continue to do so, or, rather, will have
+the experience that they have always been so.
 
-<a name="9002">9002)</a> This, however, is not a genetic description; it does not explain why in the current world, I occupy this position, while apparently the world is happy to exist without such a special entity (before I's birth and after its death).
+<a name="9002">9002)</a> This, however, is not a genetic description; it
+does not explain why in the current world, I occupy this position, while
+apparently the world is happy to exist without such a special entity (before
+I's birth and after its death).
 
-<a name="9003">9003)</a> **Clone argument.** In order to reason about this special position, we imagine a World (W) that consists of Bodies (B_x), and there is a property(?) I() where I(B_x) is true iff B_x contains/implements/is the I. B_x conatins/represents all physical properties of a body, including its memories, experiences and cognitive state. (See above for why these are assumed to be physical.) Assume that I(B_x) and that we create a perfect clone of B_x; let it be B_y, that has the same physical and so cognitive state; assume also that it occupies the same space and so has the same experiences going forward.
 
-Of course it's not possible to scan particles in this manner, and B_x, while being scanned, is also modified. Explore these.
 
-B_x, while being scanned to build B_y, experiences no interruptions in its existence (see above), which means that the mere existence of B_y is not going to make I(B_x) false, and it also won't make I(B_y) true. This means that whether I(B_x) is true or false cannot depend on any information encoded in B_i.
 
-This means that whether I(B_x) is true is external to the information in bodies. It also depends on the World according to an observer, that is, who the observer is.
 
-In other words, the universe one finds themselves in is not just (W), but (W, B_x), that is, the body B_x is also put into a special position. There's nothing wrong with this: W in itself is highly random: why this universe? why now? Adding B_x simply adds extra information that needs to be provided before existence.
+In other words, the universe one finds themselves in is not just (W), but
+(W, B_x), that is, the body B_x is also put into a special position. 
+There's nothing wrong with this: W in itself is highly random: why this
+universe?  why now?  Adding B_x simply adds extra information that needs to
+be provided before existence.
 
-That is, X's Universe is U_x = (W, B_x) and Y's Universe is U_y = (W, B_y). We use the same W because we assume the existence of objective reality.
+That is, X's Universe is U_x = (W, B_x) and Y's Universe is U_y = (W, B_y). 
+We use the same W because we assume the existence of objective reality.
 
-The sleight of hand of science is that it tricks us into thinking that we only look at W, that is, U_x = (W) = U_y.
+The sleight of hand of science is that it tricks us into thinking that we
+only look at W, that is, U_x = (W) = U_y.
 
-<a name="9004">9004)</a> My special position is not a property of the world; it is a property of the world-according-to-me.
+<a name="9004">9004)</a> My special position is not a property of the world;
+it is a property of the world-according-to-me.
 
 <a name="9005">9005)</a> I is a consciousness embedded in the world.
 
-<a name="9006">9006)</a> From the point of view of an external consciousness, the world exists, then develops some consciousnesses, which then stop to exist.
+<a name="9006">9006)</a> From the point of view of an external
+consciousness, the world exists, then develops some consciousnesses, which
+then stop to exist.
 
-<a name="9007">9007)</a> In a sense, we talk about logical statements with a speaker which talk about the world from their point of view. So "b_A: I(b_A)" is true, but "b_B: I(b_A)" is false. Probably thought "I()" is the only expression whose truth value depends on the speaker (assuming a common objective reality).
+<a name="9007">9007)</a> In a sense, we talk about logical statements with a
+speaker which talk about the world from their point of view.  So "b_A:
+I(b_A)" is true, but "b_B: I(b_A)" is false.  Probably thought "I()" is the
+only expression whose truth value depends on the speaker (assuming a common
+objective reality).
 
-<a name="9008">9008)</a> The identity of the observer limits the observable part of the universe: which universe (if there are many), the event horizon due to expansion, in time (if that is meaningful), but also in more subtle ways: geography, resources, personal freedoms, etc. So how common is the supposed objective reality between observers?
+<a name="9008">9008)</a> The identity of the observer limits the observable
+part of the universe: which universe (if there are many), the event horizon
+due to expansion, in time (if that is meaningful), but also in more subtle
+ways: geography, resources, personal freedoms, etc.  So how common is the
+supposed objective reality between observers?
 
 <a name="9009">9009)</a> Still no notion of how this specialized situation (the I) emerges.
 
 ## Day 2
 
-<a name="8000">8000)</a> There is a universe with entities (bodies) in it; each entity can make statements. Entity B_x can say that B_x is "I", that is, "B_x :: I(B_x)" while "B_x :: I(B_y)" would be false wherever x != y. This of course is just equivalent to an identity operation "B_x :: I(B_y) <=> I'(B_x, B_y) <=> B_x = B_y".
+<a name="8000">8000)</a> There is a universe with entities (bodies) in it;
+each entity can make statements.  Entity B_x can say that B_x is "I", that
+is, "B_x :: I(B_x)" while "B_x :: I(B_y)" would be false wherever x != y. 
+This of course is just equivalent to an identity operation "B_x :: I(B_y)
+<=> I'(B_x, B_y) <=> B_x = B_y".
 
-<a name="8001">8001)</a> The clone argument says that there is a B_x and its clone B_x2 that consist of the same particles in the same state in the same place and so no statement can be true of one and false of the other. Problem 1: it is of course not possible to have something "else" in the same place. Problem 2: if B_x and B_x2 are indeed so similar, would entity B_x be really able to decide which one it "is", that is, which one is its body? Problem 3: if B_x and B_x2 are so similar, how can we maintain B_x != B_x2?
+<a name="8001">8001)</a> The clone argument says that there is a B_x and its
+clone B_x2 that consist of the same particles in the same state in the same
+place and so no statement can be true of one and false of the other. 
+Problem 1: it is of course not possible to have something "else" in the same
+place.  Problem 2: if B_x and B_x2 are indeed so similar, would entity B_x
+be really able to decide which one it "is", that is, which one is its body? 
+Problem 3: if B_x and B_x2 are so similar, how can we maintain B_x != B_x2?
 
-<a name="8002">8002)</a> Notice that all these problems go away if we have a solipsistic approach. If there is no objectively existing universe that exists before and after the I, if there are no alternative bodies that may just as well be "I" as my body, then there is nothing to explain.
+<a name="8002">8002)</a> Notice that all these problems go away if we have a
+solipsistic approach.  If there is no objectively existing universe that
+exists before and after the I, if there are no alternative bodies that may
+just as well be "I" as my body, then there is nothing to explain.
 
-<a name="8003">8003)</a> Maybe what we learn is not which body is us, but what is not us. Step 1: objectively existing things that are outside of my control. Step 2: other bodies and entities that are on the same level as me, and have the same claim to existence as myself. (Indeed realising this is the programme growing out of these explorations.)
+<a name="8003">8003)</a> Maybe what we learn is not which body is us, but
+what is not us.  Step 1: objectively existing things that are outside of my
+control.  Step 2: other bodies and entities that are on the same level as
+me, and have the same claim to existence as myself.  (Indeed realising this
+is the programme growing out of these explorations.)
 
-<a name="8004">8004)</a> This approach <a href="#8003">#8003</a> may be more compatible with the boundary problem than presupposing existing bodies (that start who-knows-where, end who-knows-where and are separated by who-knows-what) and then choosing one (but what is *one* body?) over the others.
+<a name="8004">8004)</a> This approach <a href="#8003">#8003</a> may be more
+compatible with the boundary problem than presupposing existing bodies (that
+start who-knows-where, end who-knows-where and are separated by
+who-knows-what) and then choosing one (but what is *one* body?) over the
+others.
 
-<a name="8005">8005)</a> From <a href="#8004">#8004</a> and <a href="#8001">#8001</a>: we can say that if B_y is preceptably different from B_x that I habitually associate with myself, then I know B_y is not me. This is true of perfect clones placed at a distance.
+<a name="8005">8005)</a> From <a href="#8004">#8004</a> and <a
+href="#8001">#8001</a>: we can say that if B_y is preceptably different from
+B_x that I habitually associate with myself, then I know B_y is not me. 
+This is true of perfect clones placed at a distance.
 
 <a name="8006">8006)</a> It is an important point that one learns to identify with one's body; this is not pre-given.
 
-<a name="8007">8007)</a> However, this identification is predicatable (an observer implemented by a brain will identify with the body it is in) except under very special, contrived circumstances (a brain is systematically led to believe it controls something else. Or just a car?). This again misses the point as to why we get a special brain.
+<a name="8007">8007)</a> However, this identification is predicatable (an
+observer implemented by a brain will identify with the body it is in) except
+under very special, contrived circumstances (a brain is systematically led
+to believe it controls something else.  Or just a car?).  This again misses
+the point as to why we get a special brain.
 
-<a name="8008">8008)</a> Objects are (human) constructs. Bodies are human constructs. Self is a human construct. IX is a human construct.
+<a name="8008">8008)</a> Objects are (human) constructs.  Bodies are human
+constructs.  Self is a human construct.  IX is a human construct.
 
 ## Day 3
 
@@ -179,25 +228,39 @@ The sleight of hand of science is that it tricks us into thinking that we only l
 
 <a name="7006">7006)</a> The body / the region of Care / physical identity is fuzzy. In fact, all objects are fuzzy.
 
-<a name="7007">7007)</a> <a href="#7005">#7005</a> -> Any localised brain (with memory) can experience Entrapment. <a href="#7004">#7004</a> and <a href="#7002">#7002</a> are sufficient conditions.
+<a name="7007">7007)</a> <a href="#7005">#7005</a> -> Any localised brain
+(with memory) can experience Entrapment.  <a href="#7004">#7004</a> and <a
+href="#7002">#7002</a> are sufficient conditions.
 
 <a name="7011">7011)</a> <a href="#7007">#7007</a> is a **general** statement (no statement on the special status)
 
-<a name="7008">7008)</a> In fact, no (experienced) body is required for Entrapment (that would be through <a href="#7004">#7004</a>), as <a href="#7002">#7002</a> is enough to cause Entrapment.
+<a name="7008">7008)</a> In fact, no (experienced) body is required for
+Entrapment (that would be through <a href="#7004">#7004</a>), as <a
+href="#7002">#7002</a> is enough to cause Entrapment.
 
 <a name="7009">7009)</a> Experiences from others (art, communication) overcomes localisation in <a href="#7002">#7002</a>. They **generalise** the self.
 
-<a name="7010">7010)</a> Possible experiment: simulated localised brain that experiences the world locally with small movements in time and space, VS simulated generalised / dislocated brain that can experience the world at any time or place. How do they learn to behave?
+<a name="7010">7010)</a> Possible experiment: simulated localised brain that
+experiences the world locally with small movements in time and space, VS
+simulated generalised / dislocated brain that can experience the world at
+any time or place.  How do they learn to behave?
 
-<a name="7100">7100)</a> Solipsism here means (a) (time) the World doesn't exist outside the time when I exist; AND (b) (space) my brain is the only brain.
+<a name="7100">7100)</a> Solipsism here means (a) (time) the World doesn't
+exist outside the time when I exist; AND (b) (space) my brain is the only
+brain.
 
-<a name="7101">7101)</a> One brain: <a href="#7100">#7100</a> If so, (space) no other brain is really a brain, so it is necessary the I am the only existing brain / the only brain is the only one that has IX.
+<a name="7101">7101)</a> One brain: <a href="#7100">#7100</a> If so, (space)
+no other brain is really a brain, so it is necessary the I am the only
+existing brain / the only brain is the only one that has IX.
 
 <a name="7102">7102)</a> Related terms: consciousness, sapience
 
 <a name="7103">7103)</a> The anthropic principle and related arguments are likely relevant here. https://en.wikipedia.org/wiki/Anthropic_principle
 
-<a name="7104">7104)</a> If there is one universe: It is unlikely to support life, so why does it? But our existence, however unlikely, is true, it is an assumption/precondition/fact/truth - it doesn't matter how unlikely it is.
+<a name="7104">7104)</a> If there is one universe: It is unlikely to support
+life, so why does it?  But our existence, however unlikely, is true, it is
+an assumption/precondition/fact/truth - it doesn't matter how unlikely it
+is.
 
 <a name="7105">7105)</a> Multiverse / multiple universes: A universe is unlikely to support life, but there are many, so some will.
 
@@ -205,13 +268,18 @@ The sleight of hand of science is that it tricks us into thinking that we only l
 
 <a name="7107">7107)</a> I exist (or just think?) (Descartes) -> there must be at least one brain -> this universe must support life.
 
-<a name="7108">7108)</a> The starting point of <a href="#7107">#7107</a> is an inevitable fact/truth. We can only make statements about the current world that are consistent with this.
+<a name="7108">7108)</a> The starting point of <a href="#7107">#7107</a> is
+an inevitable fact/truth.  We can only make statements about the current
+world that are consistent with this.
 
-<a name="7109">7109)</a> Although I can imagine a world in which I don't exist and make statements about it.
+<a name="7109">7109)</a> Although I can imagine a world in which I don't
+exist and make statements about it.
 
 <a name="7110">7110)</a> I cannot exprience a world in which I don't exist.
 
-<a name="7111">7111)</a> Negation of solipsism <a href="#7100">#7100</a> is EITHER: (time) the world exists when I do not exist (with or without other brains); OR (space) there are many / other brains.
+<a name="7111">7111)</a> Negation of solipsism <a href="#7100">#7100</a> is
+EITHER: (time) the world exists when I do not exist (with or without other
+brains); OR (space) there are many / other brains.
 
 <a name="7112">7112)</a> <a href="#7111">#7111</a> (time) entails an objective universe / world.
 
@@ -219,9 +287,15 @@ The sleight of hand of science is that it tricks us into thinking that we only l
 
 <a name="7114">7114)</a> <a href="#7111">#7111</a> (space): there are many brains -> I could have been another brain -> Why do I have this identity / body?
 
-<a name="7115">7115)</a> <a href="#7105">#7105</a> is an attempt to create a probability for an event (life), and make its occurrence a possibility by positing the existence of many trials (related to the law of large numbers). We can try the same with either <a href="#7113">#7113</a> or <a href="#7114">#7114</a>.
+<a name="7115">7115)</a> <a href="#7105">#7105</a> is an attempt to create a
+probability for an event (life), and make its occurrence a possibility by
+positing the existence of many trials (related to the law of large numbers). 
+We can try the same with either <a href="#7113">#7113</a> or <a
+href="#7114">#7114</a>.
 
-<a name="7116">7116)</a> We know that once I exist as a physical system, I will always feel entrapped into that system. So all we need to ensure is my existence; the rest follows.
+<a name="7116">7116)</a> We know that once I exist as a physical system, I
+will always feel entrapped into that system.  So all we need to ensure is my
+existence; the rest follows.
 
 <a name="7117">7117)</a> Is my existence an event that occurs?
 
@@ -235,7 +309,9 @@ The sleight of hand of science is that it tricks us into thinking that we only l
 
 7300) How do we determine if I exist in a universe?
 
-7301) Bodies are constructs. Objects are also constructs. How do we determine if a table exists in a universe? E.g. there are structures most observers would say are tables. This can be an objective statement.
+7301) Bodies are constructs.  Objects are also constructs.  How do we
+determine if a table exists in a universe?  E.g.  there are structures most
+observers would say are tables.  This can be an objective statement.
 
 7302) In the case of "I", the observer and the observed are the same.
 
@@ -259,7 +335,9 @@ So, collect where/when the body has self-identified / and when this is stored in
 
 There are no outside brains.
 
-Perhaps: if solipsism is rejected, any statement about the I is true of any other brain. If so, it is never possible to grasp the special status of the I - it is not an objective property of the universe.
+Perhaps: if solipsism is rejected, any statement about the I is true of any
+other brain.  If so, it is never possible to grasp the special status of the
+I - it is not an objective property of the universe.
 
 Rejecting solipsism (in the sense of equivalence of brains) is asserting that there is no objective I.
 

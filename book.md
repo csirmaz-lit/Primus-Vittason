@@ -342,6 +342,18 @@ It is interesting and important to consider if our existence is determined by so
 “Note that we are assuming that only a single Agent is Selected. This tallies with our subjective experience and with Uniqueness, and mirrors our implicit assumptions that Entrapment is into a single body, and Care is centered around a single Agent. That said, we appear to be describing a subjective—psychological—experience of identity, and in theory we could leave open the possibility of multiple Agents developing a common identity. After all, why couldn’t I somehow think that I and George are one person? Can the notion of group identity grasped this way? Can an identity somehow survive the death of an Agent if it is linked to more? These are important questions, but for now we will disregard this potential complexity of identity.
 
 # ***
+
+“The **clone argument** yields similar results. It basically says that creating an equivalent copy of a body (and Agent) does not change the Selected status of the copied Agent, and since the original and copy Agents are physically equivalent, Selectedness cannot be a physical property.
+
+“The argument suggests that a body or Agent being copied does not experience an interruption in its existence, so its Selectedness cannot be altered by the procedure. If it was Selected, it continues to be so, which also entails that the clone cannot be Selected. In other words, if I am cloned, my clone will not be me. Finally, since the physical makeup of the original Agent and the clone are the same, Selectedness cannot depend on any physical information in a body. The information whether a body is Selected is external to its physical information, and it also depends on who the observer is.
+
+“There are many assumptions rolled into this one argument. To begin with, due to Heisenberg’s Uncertainty Principle, it is not possible to measure atoms in the body to be cloned completely accurately. Moreover, particles in the original body are disturbed by the act of measurement, which we ignore when we say that Selectedness cannot be taken away from the original body by cloning. Also, the original body and the clone will necessarily occupy a different region of space—or time—, and so, in theory, they are distinguishable.
+
+“Still, as we argued elsewhere, it is unlikely that a body cannot be cloned accurately enough to expect Selectedness to apply to both the original and the clone; in other words, we expect that something as fundamental as Selectedness does not depend on minute variations on the quantum level. This suggestion is supported by the observation that in time, particles in a body undergo many-many changes, yet the body (both or own as others’) is perceived to survive and be largely equivalent to its previous versions.
+
+“Note that the argument presented here is simply the previous argument, in new guise, against the possibility of a soul latching onto a body based on the fact that bodies lack a *differentia specifica* that would allow a soul to select a body or Agent. (The boundary problem adds to the difficulty of finding such a link.) If we regard the soul as the vehicle which confers identity to a body; if my soul Selects my body, we see how the two arguments are identical.
+
+“
 # VII Achieving the Experience
 
 We now know what we do to avoid the Experience
