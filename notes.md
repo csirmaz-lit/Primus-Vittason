@@ -52,17 +52,6 @@ exact copy of me placed in some controlled environment that is identical to
 mine (so that we would evolve in the same way), my sense of self, dread of
 death, etc.  would not change.
 
-<a name="410">410)</a> Note that the hypothetical copy in <a
-href="#409">#409</a> is likely impossible even in theory, as the properties
-of the particles of my body cannot be precisely measured (due to the
-Heisenberg uncertainty principle), and no two environments can be completely
-equivalent.  One could say that the body and its processes are macroscopic
-and therefore classical enough so that a good enough copy and a good enough
-replica of my environment can be achieved, see <a href="#312">#312</a>.  At
-the same time, some slight uncertainty creeping into the systems this way
-could make the responses of the brains of the two copies similar.  Let's not
-forget it's here that Penrose finds free will - ?
-
 <a name="411">411)</a> We need to see if <a href="#409">#409</a> applies to
 the copy of the self that may be another quantum state of it - see the many
 world interpretation.  Note however that the environments of the two states
@@ -113,11 +102,6 @@ life (indeed every structure) is.
 
 ## Why-I
 
-<a name="9001">9001)</a> Above we establish that under certain conditions
-everyone (everything?) has the Experience, that is, they experience
-Entrapment, etc., and so **once** they find themselves in the special
-position of being the I, they will continue to do so, or, rather, will have
-the experience that they have always been so.
 
 <a name="9002">9002)</a> This, however, is not a genetic description; it
 does not explain why in the current world, I occupy this position, while
@@ -151,7 +135,7 @@ then stop to exist.
 
 <a name="9007">9007)</a> In a sense, we talk about logical statements with a
 speaker which talk about the world from their point of view.  So "b_A:
-I(b_A)" is true, but "b_B: I(b_A)" is false.  Probably thought "I()" is the
+I(b_A)" is true, but "b_B: I(b_A)" is false.  Probably though "I()" is the
 only expression whose truth value depends on the speaker (assuming a common
 objective reality).
 
@@ -171,46 +155,12 @@ is, "B_x :: I(B_x)" while "B_x :: I(B_y)" would be false wherever x != y.
 This of course is just equivalent to an identity operation "B_x :: I(B_y)
 <=> I'(B_x, B_y) <=> B_x = B_y".
 
-<a name="8001">8001)</a> The clone argument says that there is a B_x and its
-clone B_x2 that consist of the same particles in the same state in the same
-place and so no statement can be true of one and false of the other. 
-Problem 1: it is of course not possible to have something "else" in the same
-place.  Problem 2: if B_x and B_x2 are indeed so similar, would entity B_x
-be really able to decide which one it "is", that is, which one is its body? 
-Problem 3: if B_x and B_x2 are so similar, how can we maintain B_x != B_x2?
-
 <a name="8002">8002)</a> Notice that all these problems go away if we have a
 solipsistic approach.  If there is no objectively existing universe that
 exists before and after the I, if there are no alternative bodies that may
 just as well be "I" as my body, then there is nothing to explain.
 
-<a name="8003">8003)</a> Maybe what we learn is not which body is us, but
-what is not us.  Step 1: objectively existing things that are outside of my
-control.  Step 2: other bodies and entities that are on the same level as
-me, and have the same claim to existence as myself.  (Indeed realising this
-is the programme growing out of these explorations.)
 
-<a name="8004">8004)</a> This approach <a href="#8003">#8003</a> may be more
-compatible with the boundary problem than presupposing existing bodies (that
-start who-knows-where, end who-knows-where and are separated by
-who-knows-what) and then choosing one (but what is *one* body?) over the
-others.
-
-<a name="8005">8005)</a> From <a href="#8004">#8004</a> and <a
-href="#8001">#8001</a>: we can say that if B_y is preceptably different from
-B_x that I habitually associate with myself, then I know B_y is not me. 
-This is true of perfect clones placed at a distance.
-
-<a name="8006">8006)</a> It is an important point that one learns to identify with one's body; this is not pre-given.
-
-<a name="8007">8007)</a> However, this identification is predicatable (an
-observer implemented by a brain will identify with the body it is in) except
-under very special, contrived circumstances (a brain is systematically led
-to believe it controls something else.  Or just a car?).  This again misses
-the point as to why we get a special brain.
-
-<a name="8008">8008)</a> Objects are (human) constructs.  Bodies are human
-constructs.  Self is a human construct.  IX is a human construct.
 
 ## Day 3
 
