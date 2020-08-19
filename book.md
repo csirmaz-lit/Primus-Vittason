@@ -1,3 +1,4 @@
+# The First Peak
 # I Introduction
 
 
@@ -374,7 +375,28 @@ It is interesting and important to consider if our existence is determined by so
 We now know what we do to avoid the Experience
 
 We need to avoid avoiding the Experience
+# The Second Peak
 # Others
+
+“We have crossed the gorge of non-existence,” Primus said, “stared into the abyss of nothingness, faced our fears of death and not-being-born, and ascended, one aching step after another, the cliff of the Experience.” He paused. “What have we done? We have learnt to focus on our existence, and we have realized its fragility. We have learnt how to reject the dilution of the everyday, to pull ourselves back to the Primeval, and face and learn our place in the world. We are more than the constantly diluted, but we are less because we laid ourselves bare in front of the possibility of not being there. We are richer of the Experience, but poorer because we put down the noise. Henceforth the Experience will always be there: we can call it, and it will call; it focuses us on what ultimately matters, and as a constant memento guides us to more meaning. But it is a force on its own: it brings dread and maims unless we grow strong to control it and bend it to our will. In short, we reached the first peak on our journey, and from this summit we see the strange landscape that lies ahead.
+
+“What next? We have a choice to make. So far, we have focused on the call of our own Experience. Now we need to decide if Others have the same.”
+
+
+# ***
+
+It was always my hope that by attaining the Experience and learning about the fragility of existence, people would start valuing life as something to cherish and preserve, and avoid killing, maiming and hurting other humans as well as other organisms and structures, from books to planets. In short, I was hoping that the Experience would teach empathy. But there is a way it can all go wrong.
+
+The Experience is frightening. It is a reminder of non-existence, of death, but, to be specific, it is a reminder of my death. It will likely lead to one valuing life more, but first it will make one value one’s own life. There is nothing in what we established so far that would force someone to think that others, other humans and maybe other entities can have the Experience as well, making them equivalent to us, and, most importantly, making their claim to existence the same as ours.
+
+The Experience is a force, for good and ill. It can lead to goodness and a more meaningful life if it is paired with empathy, but that empathy likely needs to have existed beforehand. The Experience itself will not generate empathy, and without it, it may make a self-centered egoistical world view entrenched, and could even be used to justify violence in order to protect one’s vulnerable existence.
+
+The second part of the Journey therefore is the acceptance of the belief that other Agents also exist in the world, who can also have the Experience, who are therefore at the same level as me and who are not in any way less valuable than myself. In short, we make the conscious decision to reject Solipsism.
+
+
+# ***
+
+
 
 #
 

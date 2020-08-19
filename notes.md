@@ -164,13 +164,12 @@ just as well be "I" as my body, then there is nothing to explain.
 
 ## Day 3
 
-<a name="7000">7000)</a> The body contains the memories. The body contains cognition.
-
-<a name="7001">7001)</a> The brain is physical
+% <a name="7000">7000)</a> The body contains the memories. The body contains cognition.
+% <a name="7001">7001)</a> The brain is physical
 
 <a name="7002">7002)</a> <a href="#7001">#7001</a> -> We experience the world in consistent() time and space steps.
 
-<a name="7003">7003)</a> We remember the same body
+% <a name="7003">7003)</a> We remember the same body
 
 <a name="7004">7004)</a> <a href="#7003">#7003</a> -> We experience our body and learn that it belongs to us.
 
