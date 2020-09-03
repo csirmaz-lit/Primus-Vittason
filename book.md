@@ -352,7 +352,7 @@ It is interesting and important to consider if our existence is determined by so
 
 “Still, as we argued elsewhere, it is unlikely that a body cannot be cloned accurately enough to expect Selectedness to apply to both the original and the clone; in other words, we expect that something as fundamental as Selectedness does not depend on minute variations on the quantum level. This suggestion is supported by the observation that in time, particles in a body undergo many-many changes, yet the body (both or own as others’) is perceived to survive and be largely equivalent to its previous versions.
 
-“Note that the argument presented here is simply the previous argument, in new guise, against the possibility of a soul latching onto a body based on the fact that bodies lack some physical *differentia specifica* that would allow a soul to select a body or Agent. (The boundary problem adds to the difficulty of finding such a link.) If we regard the soul as the vehicle which confers identity to a body, that is, if my soul Selects my body, we see how the two arguments are identical.””
+“Note that the argument presented here is simply the previous argument, in new guise, against the possibility of a soul latching onto a body based on the fact that bodies lack some physical *differentia specifica* that would allow a soul to select a body or Agent. (The boundary problem adds to the difficulty of finding such a link.) If we regard the soul as the vehicle which confers identity to a body, that is, if my soul Selects my body, we see how the two arguments are identical.”
 
 
 # ***
@@ -363,7 +363,7 @@ It is interesting and important to consider if our existence is determined by so
 
 “This is a crucial point here. Objects, bodies and their identification are not objective phenomena, but are human (or, in an attempt to be more general, mental or psychological) constructs. In other words, it is the Agent that learns or decides which body it is in. Admittedly, objectivity creeps in here as mostly inevitably an Agent will learn to identify itself with the body it is implemented by, so this identification is predictable by an external observer, which lends this process some objective reality or constraints. But this identification is not wholly inevitable: one can imagine contrived examples where an Agent (brain) implemented by one physical system is tricked to experience the world from a different body. Indeed such ideas often surface in sci-fi as they undermine the normal sense of identity, with uncanny results.
 
-“Pushing the notion of learnt self-identification to the fore can help us overcome some of the difficulties posed by the boundary problem. Although the two descriptions are logically equivalent, it is more fruitful to think that **an Agent is learning not what it is in the physical world, but what it is not:** first, objectively existing things that are outside my control, and second, other Agents or entities that are on the same level as me, and have the same claim to existence as myself. Reaching this second stage is actually the second stage of our journey, beyond the Experience.
+“Pushing the notion of learned self-identification to the fore can help us overcome some of the difficulties posed by the boundary problem. Although the two descriptions are logically equivalent, it is more fruitful to think that **an Agent is learning not what it is in the physical world, but what it is not:** first, objectively existing things that are outside my control, and second, other Agents or entities that are on the same level as me, and have the same claim to existence as myself. Reaching this second stage is actually the second stage of our journey, beyond the Experience.
 
 “As the Agent learns what bits of physical reality it is not, it no longer needs to answer the question ‘Which body am I?’—and so we no longer need to define what bodies are, which, as the boundary problem shows, start who-knows-where, end who-knows-where, and are separated by who-knows-what. Instead, the Agent gradually learns to identify itself to different degrees with various regions and entities in space, effectively mapping its physical core, the physical Agent, through the fuzzy body and finally its region of Care.
 
@@ -378,7 +378,7 @@ We need to avoid avoiding the Experience
 # The Second Peak
 # Others
 
-“We have crossed the gorge of non-existence,” Primus said, “stared into the abyss of nothingness, faced our fears of death and not-being-born, and ascended, one aching step after another, the cliff of the Experience.” He paused. “What have we done? We have learnt to focus on our existence, and we have realized its fragility. We have learnt how to reject the dilution of the everyday, to pull ourselves back to the Primeval, and face and learn our place in the world. We are more than the constantly diluted, but we are less because we laid ourselves bare in front of the possibility of not being there. We are richer of the Experience, but poorer because we put down the noise. Henceforth the Experience will always be there: we can call it, and it will call; it focuses us on what ultimately matters, and as a constant memento guides us to more meaning. But it is a force on its own: it brings dread and maims unless we grow strong to control it and bend it to our will. In short, we reached the first peak on our journey, and from this summit we see the strange landscape that lies ahead.
+“We have crossed the gorge of non-existence,” Primus said, “stared into the abyss of nothingness, faced our fears of death and not-being-born, and ascended, one aching step after another, the cliff of the Experience.” He paused. “What have we done? We have learned to focus on our existence, and we have realized its fragility. We have learned how to reject the dilution of the everyday, to pull ourselves back to the Primeval, and face and learn our place in the world. We are more than the constantly diluted, but we are less because we have laid ourselves bare in front of the possibility of not being there. We are richer for the Experience, but poorer because we put down the noise. Henceforth the Experience will always be there: we can call it, and it will call; it focuses us on what ultimately matters, and as a constant memento guides us to more meaning. But it is a force on its own: it brings dread and maims unless we grow strong to control it and bend it to our will. In short, we reached the first peak on our journey, and from this summit we see the strange landscape that lies ahead.
 
 “What next? We have a choice to make. So far, we have focused on the call of our own Experience. Now we need to decide if Others have the same.”
 
@@ -389,14 +389,67 @@ It was always my hope that by attaining the Experience and learning about the fr
 
 The Experience is frightening. It is a reminder of non-existence, of death, but, to be specific, it is a reminder of my death. It will likely lead to one valuing life more, but first it will make one value one’s own life. There is nothing in what we established so far that would force someone to think that others, other humans and maybe other entities can have the Experience as well, making them equivalent to us, and, most importantly, making their claim to existence the same as ours.
 
-The Experience is a force, for good and ill. It can lead to goodness and a more meaningful life if it is paired with empathy, but that empathy likely needs to have existed beforehand. The Experience itself will not generate empathy, and without it, it may make a self-centered egoistical world view entrenched, and could even be used to justify violence in order to protect one’s vulnerable existence.
+The Experience is a force, for good and ill. It can lead to goodness and a more meaningful life if it is paired with empathy, but that empathy likely needs to have existed beforehand. The Experience itself will not generate empathy, and without it, it can make one self-centered and egoistical, and could even be used to justify violence in order to protect one’s own existence.
 
-The second part of the Journey therefore is the acceptance of the belief that other Agents also exist in the world, who can also have the Experience, who are therefore at the same level as me and who are not in any way less valuable than myself. In short, we make the conscious decision to reject Solipsism.
+The second part of the Journey is therefore the acceptance of the belief that other Agents also exist in the world, who can also have the Experience, who are therefore at the same level as me and who are not in any way less valuable than myself. In short, we make the conscious decision to reject a Solipsistic world view.
 
 
 # ***
 
+“Rudolf Carnap, in his ‘The Elimination of Metaphysics Through Logical Analysis of Language,’ argues that metaphysical statements cannot be proved or disproved by experience; instead, such statements express an attitude to life, a guidance of how we should conduct our lives. What we are doing now is metaphysics, and indeed we will express a diktat, tenet, or rule to guide us, which we will make our own during the second stage of the Journey.” Primus paused. “And this guidance, the choice we are making, is that we choose to reject Solipsism.
 
+“Now that’s fine and dandy, but what is Solipsism?”
+
+# ***
+
+“By Solipsism I mean the idea that nothing is certain to exist—or actually nothing exists—outside my mind. Notice that it is impossible to disprove this position: I can simply maintain that everything, including you, is a hallucination generated by my brain. Counterarguments exist though which aim to show that Solipsism is not a helpful position to take. One of the most powerful ones point out that there are many things my mind don’t seem to be able to control, like my hunger, or whether it’s cold or hot outside, and so on. And since a model of the world where these do exist objectively independently of me is simpler than to say that I am imagining these things as well, but they are somehow different from other things I also imagine that by contrast I can control, by Occam’s Razor the simpler model is true.
+
+“Not to mention the fact that if only I exist, and I imagine the world, I also need to image an I-in-the-world, something that I seem to be inside the world. But this is actually I, capable of imagining a whole world, including its representation in the new world, and so on. Even if one can cut through the infinite loop here, or show that some of the thinking here is faulty, this example shows how complicated a Solipsistic world view can become.
+
+“But Solipsism remains a valid model of the world. Nothing can ever happen that could force us to abandon this world view. The counterargument I mentioned simply says that things I cannot control behave just as if they existed objectively, so let’s just say that they do.
+
+“Notice, however, that Solipsism could solve a lot of our problems. If only I exist, then by definition I am special and, in fact, Selected. It is not surprising that I become identified with my body, that I am Entrapped in this body, because there is no alternative.
+
+“We can note that technically, my body is also imagined or hallucinated by my brain, in which case we still don’t know why I am associated with that body and not another one. This is the same question as with objectively existing bodies, which shows that the two ways of thinking about the world are really equivalent. Maybe my brain specifically hallucinates a body for me, which fact is outside my control, and so is just as if it existed objectively.
+
+# * * *
+
+Primus paused, and walked to the other side of the hall.
+
+“Let’s dissect what we mean by Solipsism here. Let’s separate the temporal and spatial aspects of the fact that I am the only existing thing. Temporally, this means that the world does not exist outside the time I exist; that is, there is no such thing as a world without me. Even if I was born at a specific point in time, and I will die at a specific point in time, the world only exists through me, so there is nothing outside this temporal region that we can meaningfully talk about. And that may include time itself. Spatially, we can say that when I exist, my brain (or Agent) is the only brain.
+
+“These two facets shortcut two different types questions about our uniqueness and existence. We will now state them, as if Solipsism makes these questions around existence go away, then these are also the questions that need answering when we reject it.
+
+“The opposite of the temporal facet of Solipsism is that the world does exist when I do not exist. This immediately means that it is possible that I do not exist. So the questions here are: Why do I exist? Why do I exist now (as opposed to another time)?
+
+“The opposite of the spatial aspect of Solipsism is that there are many brains in existence. This immediately means that I could have been another brain. So the questions here are: Why do I have this body (and not another one)? Why do I have this identity?
+
+# * * *
+
+“Before continuing with the above questions, let’s make a detour to consider how else Solipsism would help. Notice that Solipsism, both in the sense we are using it in (nothing exists outside me), and its weaker form (no intelligent brain exists apart from mine), results in a world with a single brain / body that I can identify myself with, and this fact is objectively observable — as much as anything can be said to be objective in such a world.
+
+“Nevertheless, such a world would solve our questions about identity, Entrapment, uniqueness and Selectedness. We already know that any physical brain or Agent necessarily experiences Entrapment. So there is no choice here, there is nothing more to explain. And as to why it gets entrapped in a particular physical structure, how Selectedness comes about, there is no question or choice, either: there is just one suitable structure in the universe, so I am necessarily entrapped in there.
+
+“This is true in both space and time in the strong form, as really anything only exists when my brain exists. In the weak form, it is only true in space, as there we could imagine a universe before or after the existence of a suitable brain, when clearly I cannot exist, either. In both forms, if I exist, only one suitable brain exists.
+
+“And since there is only one brain in the universe, it is no longer a problem that we cannot formulate an objective statement,  that is, find some physical aspect, that would be true of my body / brain, but not others. Conversely, we have argued that if there are multiple brains, **if Solipsism is rejected, any statement about the I is true of any other Agent or brain. It is never possible to grasp the special status of the I objectively — it is not an objective property of the universe.**
+
+**“Rejecting Solipsism is asserting that there is no objective I.”**
+
+# * * *
+
+“Having rejected Solipsism, we are left with the questions ‘Why do I exist — in this universe?’, ‘Why do I exist now, and not at another time?’, and ‘Why do I exist here in this body, and not somewhere else?’
+
+“The last two questions ask about Selectedness, ans we already know it is not a property of the world — it depends on who the observer or speaker is. That is, it is a property of a world — observer dyad. If I observer the world, I can say ‘This is my body’,” Primus pointed at himself, “whereas if Alice observes the world, she would indicate a completely different body. And we would both be right. This is because I am talking about the world-me dyad, the world-according-to-me, while Alice talks about the world-Alice dyad.
+
+“Of course, using names would identify bodies objectively; we all agree which Agent/body is Alice. And you could say that the word ‘I’ is just a language construct conveniently referencing the speaker. But the differences between the world-according-to-me and the world-according-to-Alice cut deeper. Our experiences of these worlds are significantly different.
+
+“We tend to forget that we are not experiencing the world, but the world-according-to-me. The sleight of hand of science is that it deludes us into thinking that we can experience the world directly, without the additional baggage of the observer.
+
+
+Spatial - rnd - cope with rnd
+
+ 
 
 #
 

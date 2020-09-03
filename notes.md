@@ -40,11 +40,6 @@ and unique are neither different, nor unique to us.
 # href="https://www.youtube.com/watch?v=EJG1p_JyKsE">mentioned here</a>), it
 # seems to disappear.  The same seems to be happening here.
 
-<a name="408">408)</a> We could suppose that Selectedness is an objective
-property, creating a kind of solipsistic world view.
-
-
-
 
 <a name="409">409)</a> **Uniqueness** from <a href="#400">#400</a>: one may
 have a sense of uniqueness, but it is not a requirement.  If there was an
@@ -73,16 +68,6 @@ with our bodies actually make us survive?  Removing the focus from the self,
 focusing on something, especially if it's in our Care, distracts from
 Entrapment and the Experience.  We may call this **Dilution**.  However, if
 death is the cessation of the Agent, it does not make us survive death.
-
-## Attitude to life
-
-<a name="1003">1003)</a> Carnap is right that metaphysics is an expression
-of an attitude to life rather than verifiable statements or arguments.  (The
-Elimination of Metaphysics...  by Rudolf Carnap)
-
-<a name="1004">1004)</a> The previous sections conatin investigations,
-statements, arguments; this section contains expressions which may be best
-communicated via some art form.
 
 ### The Experience
 
@@ -121,11 +106,6 @@ be provided before existence.
 That is, X's Universe is U_x = (W, B_x) and Y's Universe is U_y = (W, B_y). 
 We use the same W because we assume the existence of objective reality.
 
-The sleight of hand of science is that it tricks us into thinking that we
-only look at W, that is, U_x = (W) = U_y.
-
-<a name="9004">9004)</a> My special position is not a property of the world;
-it is a property of the world-according-to-me.
 
 <a name="9005">9005)</a> I is a consciousness embedded in the world.
 
@@ -155,12 +135,6 @@ is, "B_x :: I(B_x)" while "B_x :: I(B_y)" would be false wherever x != y.
 This of course is just equivalent to an identity operation "B_x :: I(B_y)
 <=> I'(B_x, B_y) <=> B_x = B_y".
 
-<a name="8002">8002)</a> Notice that all these problems go away if we have a
-solipsistic approach.  If there is no objectively existing universe that
-exists before and after the I, if there are no alternative bodies that may
-just as well be "I" as my body, then there is nothing to explain.
-
-
 
 ## Day 3
 
@@ -171,11 +145,11 @@ just as well be "I" as my body, then there is nothing to explain.
 
 % <a name="7003">7003)</a> We remember the same body
 
-<a name="7004">7004)</a> <a href="#7003">#7003</a> -> We experience our body and learn that it belongs to us.
+% <a name="7004">7004)</a> <a href="#7003">#7003</a> -> We experience our body and learn that it belongs to us.
 
 <a name="7005">7005)</a> <a href="#7004">#7004</a>, <a href="#7002">#7002</a> -> Entrapment
 
-<a name="7006">7006)</a> The body / the region of Care / physical identity is fuzzy. In fact, all objects are fuzzy.
+% <a name="7006">7006)</a> The body / the region of Care / physical identity is fuzzy. In fact, all objects are fuzzy.
 
 <a name="7007">7007)</a> <a href="#7005">#7005</a> -> Any localised brain
 (with memory) can experience Entrapment.  <a href="#7004">#7004</a> and <a
@@ -188,19 +162,6 @@ Entrapment (that would be through <a href="#7004">#7004</a>), as <a
 href="#7002">#7002</a> is enough to cause Entrapment.
 
 <a name="7009">7009)</a> Experiences from others (art, communication) overcomes localisation in <a href="#7002">#7002</a>. They **generalise** the self.
-
-<a name="7010">7010)</a> Possible experiment: simulated localised brain that
-experiences the world locally with small movements in time and space, VS
-simulated generalised / dislocated brain that can experience the world at
-any time or place.  How do they learn to behave?
-
-<a name="7100">7100)</a> Solipsism here means (a) (time) the World doesn't
-exist outside the time when I exist; AND (b) (space) my brain is the only
-brain.
-
-<a name="7101">7101)</a> One brain: <a href="#7100">#7100</a> If so, (space)
-no other brain is really a brain, so it is necessary the I am the only
-existing brain / the only brain is the only one that has IX.
 
 <a name="7102">7102)</a> Related terms: consciousness, sapience
 
@@ -231,10 +192,6 @@ EITHER: (time) the world exists when I do not exist (with or without other
 brains); OR (space) there are many / other brains.
 
 <a name="7112">7112)</a> <a href="#7111">#7111</a> (time) entails an objective universe / world.
-
-<a name="7113">7113)</a> <a href="#7111">#7111</a> (time): the world exists when I do not exist -> I can not exist -> Why do I exist (now)?
-
-<a name="7114">7114)</a> <a href="#7111">#7111</a> (space): there are many brains -> I could have been another brain -> Why do I have this identity / body?
 
 <a name="7115">7115)</a> <a href="#7105">#7105</a> is an attempt to create a
 probability for an event (life), and make its occurrence a possibility by
@@ -284,11 +241,6 @@ So, collect where/when the body has self-identified / and when this is stored in
 
 There are no outside brains.
 
-Perhaps: if solipsism is rejected, any statement about the I is true of any
-other brain.  If so, it is never possible to grasp the special status of the
-I - it is not an objective property of the universe.
-
-Rejecting solipsism (in the sense of equivalence of brains) is asserting that there is no objective I.
 
 Model: bodies are a network of components with printers that output statements.
 
