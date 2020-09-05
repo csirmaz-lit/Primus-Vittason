@@ -444,10 +444,50 @@ Primus paused, and walked to the other side of the hall.
 
 “Of course, using names would identify bodies objectively; we all agree which Agent/body is Alice. And you could say that the word ‘I’ is just a language construct conveniently referencing the speaker. But the differences between the world-according-to-me and the world-according-to-Alice cut deeper. Our experiences of these worlds are significantly different.
 
-“We tend to forget that we are not experiencing the world, but the world-according-to-me. The sleight of hand of science is that it deludes us into thinking that we can experience the world directly, without the additional baggage of the observer.
+“We tend to forget that we are not experiencing the world, but the world-according-to-me. **The sleight of hand of science is that it deludes us into thinking that we can experience the world directly,** without the additional baggage of the observer, and that Alice’s world and my world are the same.”
+
+# * * *
+
+It was a new day. Primus waited for everyone to fall silent, then took a sip of coffee from a paper cup that he placed, with great care, on the table. He glanced at the blackboard.
+
+“Right,” he said, his voice booming in the hall, “let’s get back to the questions of why here and why now. Why do I live in this body? Why do I live now, and not in the Middle Ages? Or the future?
+
+“It is tempting to say that which body I am is completely random. From an outside point of view, we live in a universe that has a number of systems, all limited in space and time, that are capable of the Experience. We have been calling them Agents or brains. One of them happens to be this me, it is Selected, but we don’t know which one will be Selected, or why. We know though that whichever gets Selected will necessarily think that it has always been Selected, and that nothing physical separates the Selected Agent from the non-Selected ones.
+
+“Of course, it is not like there are candidate Agents, and one of them becomes me — the me is not pre-existing to be matched with an Agent later, but I exist through an Agent: I am the Agent. So for all intents and purposes it is uncontrollable and therefore, in a sense, random, which Agent I am.
+
+“The problem is, we, as a species, are unable to deal with randomness. This manifests itself, among other things, in our clinging to a higher power or will, a design or a master plan in the world. We feel that it would somehow demean us if we conceded that, for example, we or humans in general exist as a result of highly unlikely random events rather than as a result of some necessity.
+
+“As an aside, let’s, for the moment, forget about the question whether the universe is deterministic, which would mean that there is a master plan. Even if it is, with our current knowledge and tools, we cannot determine it sufficiently to predict, for example, individual actions or thoughts.
+
+“Our thinking is teleological: that is, we seek a purpose in everything, even though every fact appears to point to its precise lack.
+
+“Is, for example, the fact that most organisms around us devote most of their time and energy to reproduction a result of a sentence in Genesis? Can’t one argue that in any population where some living organisms focus on creating offspring, and others don't, the former will soon crowd out and finally destroy the latter? Looking at the overall population a few million years later, as we do, we will hardly see any exception to the reproduction rule. Or, to take another example of teleology, what would we think of Douglas Adams's famous sentient puddle, who gets convinced of the existence of a deity because he fits his hole so well it must’ve been designed for him?
+
+“But our inability to grasp randomness does not end here. There’s also our sense of justice. It is unusually hard for us to accept that random bad things can happen to otherwise good people. While it is natural and laudable for everyone witnessing an unfortunate accident to wonder what could have been done to prevent it — for example, lock your doors, drive at an appropriate speed, and so on —, we usually go further than that, and, deep down, remain sure that the victim must have done something to deserve what had happened.
+
+“It is not difficult to see this kind of thinking in action: take one of the worst crimes, rape. Who hasn’t heard that the victim ‘had it coming,’ encouraging healthy males by lewd behavior and scant clothing?
+
+“And then, last but not least, there are the games of chance. I hope no one thinks that anyone would spend real money on horses, blackjack, lottery or fruit machines unless they believed in lucky streaks and third time’s the charm, almost deliberately turning a blind eye to the fact that one draw, deal or race has, or at least is supposed to have, no effect whatsoever on the next.
+
+“Randomness is a beautiful and liberating thing. We need to stop believing that our thoughts or wishes can alter the course of events, or that anything has happened, ever, with us humans in mind, and the world will be a better place to live in.
+
+“This kind of teleological thinking is why saying that there’s no real reason why I am here, now; I am who I am, feels like shrugging our shoulders. I don’t know — so I’ll say it’s random. It doesn’t feel satisfactory, and that is entirely expected.”
 
 
-Spatial - rnd - cope with rnd
+[In other words, the universe one finds themselves in is not just (W), but
+(W, B_x), that is, the body B_x is also put into a special position. 
+There's nothing wrong with this: W in itself is highly random: why this
+universe?  why now?  Adding B_x simply adds extra information that needs to
+be provided before existence.]
+
+
+
+—-
+
+No reason for seelctedness -> IT COULD BE YOU (provided capable of Experience) — it could be me, but it isn’t
+
+Why is there an I at all?
 
  
 

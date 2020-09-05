@@ -95,14 +95,6 @@ I's birth and after its death).
 
 
 
-
-
-In other words, the universe one finds themselves in is not just (W), but
-(W, B_x), that is, the body B_x is also put into a special position. 
-There's nothing wrong with this: W in itself is highly random: why this
-universe?  why now?  Adding B_x simply adds extra information that needs to
-be provided before existence.
-
 That is, X's Universe is U_x = (W, B_x) and Y's Universe is U_y = (W, B_y). 
 We use the same W because we assume the existence of objective reality.
 
@@ -187,10 +179,6 @@ exist and make statements about it.
 
 <a name="7110">7110)</a> I cannot exprience a world in which I don't exist.
 
-<a name="7111">7111)</a> Negation of solipsism <a href="#7100">#7100</a> is
-EITHER: (time) the world exists when I do not exist (with or without other
-brains); OR (space) there are many / other brains.
-
 <a name="7112">7112)</a> <a href="#7111">#7111</a> (time) entails an objective universe / world.
 
 <a name="7115">7115)</a> <a href="#7105">#7105</a> is an attempt to create a
@@ -241,10 +229,6 @@ So, collect where/when the body has self-identified / and when this is stored in
 
 There are no outside brains.
 
-
-Model: bodies are a network of components with printers that output statements.
-
-Simpler model: properly separated agents
 
 ## Day 6
 
