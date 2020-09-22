@@ -456,7 +456,7 @@ It was a new day. Primus waited for everyone to fall silent, then took a sip of 
 
 “Of course, it is not like there are candidate Agents, and one of them becomes me — the me is not pre-existing to be matched with an Agent later, but I exist through an Agent: I am the Agent. So for all intents and purposes it is uncontrollable and therefore, in a sense, random, which Agent I am.
 
-“The problem is, we, as a species, are unable to deal with randomness. This manifests itself, among other things, in our clinging to a higher power or will, a design or a master plan in the world. We feel that it would somehow demean us if we conceded that, for example, we or humans in general exist as a result of highly unlikely random events rather than as a result of some necessity.
+“**The problem is, we, as a species, are unable to deal with randomness.** This manifests itself, among other things, in our clinging to a higher power or will, a design or a master plan in the world. We feel that it would somehow demean us if we conceded that, for example, we or humans in general exist as a result of highly unlikely random events rather than as a result of some necessity.
 
 “As an aside, let’s, for the moment, forget about the question whether the universe is deterministic, which would mean that there is a master plan. Even if it is, with our current knowledge and tools, we cannot determine it sufficiently to predict, for example, individual actions or thoughts.
 
@@ -472,21 +472,43 @@ It was a new day. Primus waited for everyone to fall silent, then took a sip of 
 
 “Randomness is a beautiful and liberating thing. We need to stop believing that our thoughts or wishes can alter the course of events, or that anything has happened, ever, with us humans in mind, and the world will be a better place to live in.
 
-“This kind of teleological thinking is why saying that there’s no real reason why I am here, now; I am who I am, feels like shrugging our shoulders. I don’t know — so I’ll say it’s random. It doesn’t feel satisfactory, and that is entirely expected.”
+“This kind of teleological thinking is why saying that there’s no real reason why I exist here and now, why I am who I am, feels like shrugging our shoulders. I don’t know — so I’ll say it’s random. It doesn’t feel satisfactory, and that is entirely expected.”
 
 
-[In other words, the universe one finds themselves in is not just (W), but
-(W, B_x), that is, the body B_x is also put into a special position. 
-There's nothing wrong with this: W in itself is highly random: why this
-universe?  why now?  Adding B_x simply adds extra information that needs to
-be provided before existence.]
+# * * *
+
+“This line of thinking has an interesting consequence. We do not even need to go as far as claiming that where or when I exist is random, only that there is no real reason for my identity, for whichever body or Agent is Selected.
+
+“This is because if so, I could have been any other body or Agent. Therefore next time you see misfortune befalling someone else, just remember: **it could be you** — provided of course that the subject of the misfortune is capable of the Experience. What, if not this fact, could generate empathy?
+
+“It could be you, we say, except of course that it couldn’t: our identity is given by the it, the body, the physical structure, so if it was you, you wouldn’t be you anyway. It is the same basic identity issue that is highlighted by the children’s joke: it’s good that I’m not a rabbit, because if I were, I’d eat carrots, and I hate them.
+
+“Or, one could simply quip ‘It could be me, but, it isn’t,’ falling back to a self-centered view of the world we are looking to avoid. Nevertheless, if we interpret ‘it could be you’ as an assertion of the equal value of my and the other’s existence, and the common right to exist and ideally have a meaningful existence as well, then we see how keeping this in mind can help us on our journey.”
 
 
+# * * *
+
+“We now know that if there is an I, it will be a physical system, which will necessarily experience Entrapment, Selectedness, therefore uniqueness, and so on. It is not clear why the I is one physical system, and not another, but these happen irrespective of which one it is.
+
+“If so, maybe there is a more basic question behind the ‘why I am here’ and ‘why I am now’ — namely, ‘why I am’.
+
+“The phenomena we set out to investigate do not depend on which system, or Agent, or body the I is, so we don’t need to answer those questions. But Uniqueness and Selectedness require that the I exists: otherwise all Agents/Bodies would be Others, and none would be Selected.”
+
+Primus glanced at his watch. He only had a few minutes left.
+
+“Why I am, why there is an I at all — these questions are misleading. They presuppose that there can be a state of the universe without I. But there are multiple problems with such a universe. To begin with, as we argued multiple times, we don’t really know if the universe existed before I, or will continue to exist after the death of the I. This is what makes Solipsism possible. We merely surmise, based on our observation of Others, and based on an assumption about the equality of all humans, that since they die and the world continues to exist, I will die, too, and the world will simply go on without me. And if it is possible for the world to exist without me, why does it have a period at all when I am included?
+
+“We have come full circle and asked the same question again, in different guise. And again it is misleading. For I can never experience a world without I — there would be nothing that could experience. When we theorize about a world without I, we imagine looking at it from the outside (indeed this is why souls are imagined to go to a place outside the world at death), but that can never actually happen because there are no outside minds. All brains and Agents are embedded in the universe as physical systems, with now well-understood consequences.
+
+“If I experience, if I think, I necessarily exist — here we reach the same conclusion as Descartes. Therefore any kind of thinking presupposes the existence of the I in the world. It is necessarily true when making any kind of statement about the universe; in other words, we necessarily evaluate logical statements about the world against a world with an I. In a sense, these statements always have a speaker, and the speaker always exists.
+
+
+* what does the thinking VS what the brain identifies as the body (perception)
+
+
+* check what we need ‘cognition is physical’ for
 
 —-
-
-No reason for seelctedness -> IT COULD BE YOU (provided capable of Experience) — it could be me, but it isn’t
-
 Why is there an I at all?
 
  
