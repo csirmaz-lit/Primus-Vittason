@@ -496,14 +496,18 @@ It was a new day. Primus waited for everyone to fall silent, then took a sip of 
 
 Primus glanced at his watch. He only had a few minutes left.
 
-“Why I am, why there is an I at all — these questions are misleading. They presuppose that there can be a state of the universe without I. But there are multiple problems with such a universe. To begin with, as we argued multiple times, we don’t really know if the universe existed before I, or will continue to exist after the death of the I. This is what makes Solipsism possible. We merely surmise, based on our observation of Others, and based on an assumption about the equality of all humans, that since they die and the world continues to exist, I will die, too, and the world will simply go on without me. And if it is possible for the world to exist without me, why does it have a period at all when I am included?
+“Why I am, why there is an I at all — these questions are misleading. They presuppose that there can be a state of the universe without I. But there are multiple problems with such a universe. To begin with, as we argued multiple times, we don’t really know if the universe existed before I, or will continue to exist after the death of the I. This is what makes Solipsism possible. We merely surmise, based on our observation of Others, and based on an assumption about the equality of all humans, that since they die and the world continues to exist, I will die, too, and the world will simply go on without me. And if it is possible for the world to exist without me, why does it have a period at all when I am included in it?
 
-“We have come full circle and asked the same question again, in different guise. And again it is misleading. For I can never experience a world without I — there would be nothing that could experience. When we theorize about a world without I, we imagine looking at it from the outside (indeed this is why souls are imagined to go to a place outside the world at death), but that can never actually happen because there are no outside minds. All brains and Agents are embedded in the universe as physical systems, with now well-understood consequences.
+“We have come full circle and asked the same question again, in different guise. And again it is misleading. For I can never experience a world without I — there would be nothing that could experience. When we theorize about a world without I, we imagine looking at it from the outside (indeed this is why souls are imagined to go to a place outside the world at death), but that can never actually happen, because there are no outside minds. All brains and Agents are embedded in the universe as physical systems, with now well-understood consequences.
 
 “If I experience, if I think, I necessarily exist — here we reach the same conclusion as Descartes. Therefore any kind of thinking presupposes the existence of the I in the world. It is necessarily true when making any kind of statement about the universe; in other words, we necessarily evaluate logical statements about the world against a world with an I. In a sense, these statements always have a speaker, and the speaker always exists.
 
+“Note that the system that does the thinking is not necessarily the same as the physical system it identifies as its body or the center of its Care. It is very unlikely that they would be separate due to the reasons we already discussed, but it is possible in theory, which shows that the make-up and identification of the body and Care is entirely psychological.
+
 
 * what does the thinking VS what the brain identifies as the body (perception)
+* If so, what does it mean to exist?
+* Did humans evolve to perform this identification?
 
 
 * check what we need ‘cognition is physical’ for
@@ -512,6 +516,34 @@ Primus glanced at his watch. He only had a few minutes left.
 Why is there an I at all?
 
  
+
+# * * *
+
+In the end, there are no earth-shattering revelations or answers, maybe just a taking stock of what it means to exist. 
+
+Unsurprisingly, questions like “Why do I exist?” or “Why am I here?” are not well-formed, because the referent of “I” (and “you”, “we”, “they”, etc.) is not defined. There is no objective meaning of “I”: remember, the only case when the “I” has an objective meaning is in Solipsism.
+
+We can do two things to fix this.
+
+We can make “I” to mean something if we require that the statement referring to “I” is uttered by an Agent or other system. The “I” is then understood to refer to that Agent. But in this scenario it is implied that the I exists — it cannot be otherwise. Why do I exist, then? If by this question we mean how do we know that I exist, then because this question was uttered by the I; or one could say without the existing I, this question would not be interpretable. If by the question we mean what caused the I to exist (a genetic enquiry), we still have no answers.
+
+The other thing we can do is to change the question to remove the “I”, and name the entity in another way, such as “Why does Paul exist?” This question is objective, by which I mean its sense does not depend on who utters it. It is therefore also applicable to Solipsism where we can question why the sole Agent exists. “Why does Paul exist?”, as above, can again mean “How do we know Paul exists,” which is a question of identification, and “How did it come to pass that Paul exists?”, where again we have no information.
+
+# * * * 
+
+We see that what underpins all these questions is being able to tell what “I” am or what “Paul” is. We have also seen how the boundary problem and the various definitions of Care, body, Agent, etc. make it almost impossible to settle this question. We also see that the emergence of “I” is a psychological process: the brain will gradually construct a model of what the “I” is and what its position and limits are in space as well as time.
+
+We have assumed that this position largely coincides with that of the physical system implementing the cognitive functions necessary for the emergence of the I (the “Experience”), but this of course is not necessarily so. Artificially generated inputs could be fed into a brain to trick it into thinking that it is in an alternative world; or even if the receptors and the body exist, they could be at a physical distance from the systems performing cognition and memory. A brain might think that it is two bodies at the same time, or even that it has no body at all.
+
+Still, such extreme examples aside, we continue to assume that the body and brain are located roughly at the same position. We can go further, and sidestep issues raised by the boundary problem by considering a simplified model of bodies in the world. We do so because we think the questions related to identity and existence we are considering here do not hinge on low-probability quantum mechanical processes or definitions of the region of Care on the atomic level. We think these occur and can be traced even in a simple model.
+
+This simple model is that of **cell people, **constructed based on lobster hatcheries, where small lobsters live in plastic cells to prevent cannibalism. Since the inhabitants of these cells are limited by the plastic walls, and they get no information from beyond the cell, we know their Agent, body and Care are all inside the cell. This upper boundary on the spatial extent of these properties give us a good grasp on them, especially as they cannot overlap with those of other cell people.
+
+If cell people have the necessary cognitive capabilities, they will experience Entrapment, and so on, and may pose the questions “Why do I exist?”, “Why do I exist here?”, “Why do I exist at all?” The referent of “I” in these utterances is the cell that does the uttering. We know it exists because it utters. And it ended up existing because a god-like creature (chance) put a lobster egg in a plastic crate.
+
+
+
+
 
 #
 
