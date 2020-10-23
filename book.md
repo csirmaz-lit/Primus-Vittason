@@ -1,4 +1,5 @@
 # The First Peak
+
 # I Introduction
 
 
@@ -7,19 +8,19 @@
 “The road to a deeper understanding of life is like climbing a mountain: it is hard, but the reward is immense; for only by overcoming the roughest terrain can we find peace and our place in the world.”
 
 
-It is strange, writing an introduction to something I have not been able to write about. Or, rather, write about properly, as I suspect all of my writing has been, in a way, about this question; actually, I am led to believe that this is what all writing, all art, and all human endeavor is ultimately about. It is not death; that is only part of the question that is easy to deal with; and it is not exactly the ultimate reason or meaning in life, because either no such thing exists, or it is biologically determined, which does not leave much for the imagination. Instead, it is more a question of the identity of something that exists; how that identity evolves in time, and how it interacts with other identities. The question of one's identity in the most abstract sense, or of the self, or the I, seems to me to encompass all questions about the reason for living, the reason to live, life after death, and, perhaps most importantly, before it.
+It is strange, writing an introduction to something I have not been able to write about. Or, rather, not been able to write about properly, as I suspect all of my writing has been, in a way, about this question; actually, I am led to believe that this is what all writing, all art, and all human endeavor is ultimately about. It is not death, which is only part of the question and is easy to deal with; and it is not exactly the ultimate reason or meaning of life, because either no such thing exists, or it is biologically determined, which does not leave much to the imagination. Instead, it is more the question of the identity of something that exists; how that identity evolves in time, and how it interacts with other identities. The question of one's identity in the most abstract sense, or that of the self, or the I, seems to me to encompass all questions about the reason for living, the reason to live, life after death, and, perhaps most importantly, before it.
 
 It is of no surprise that I have not been able to write about this subject matter properly, as I think no one has. Contemplating it is a personal journey, as shown by the many competing and contradicting philosophies that from ancient times have grown out of our forlorn quest to squeeze a drop of meaning out of the barren randomness of our universe. I invite you to join me on this journey, as I have learned a lot on the road, and there is so much still to discover.
 
 
-“The first stage of our journey is achieving the Experience,” Primus continued. “It is not easy, and it is not something that can be done once and then forgotten; reliving the Experience again and again is necessary throughout the journey as we uncover deeper and deeper layers of understanding. The Experience is like running: one can read about it, one can learn about it, but these are not substitutes for the action. We must strive to live the Experience, however hard it is at first. As with running, and so with the Experience, with time our technique is refined, and our takeaway from it changes, evolves and deepens.”
+“The first stage of our journey is achieving the Experience,” Primus continued. “It is not easy, and it is not something that can be done once and then forgotten; reliving the Experience again and again is necessary throughout the journey as we uncover deeper and deeper layers of understanding. The Experience is like running: one can read about it, one can learn about it, but these are not substitutes for the action. We must strive to live the Experience, however hard it is at first. As with running, and so with the Experience, with time our technique becomes refined, and our takeaway from it changes, evolves and deepens.”
 
 
 **This book is a work of fiction, including the descriptions of the Experience and of ways of achieving it. It is intended to be read as a personal account and a thought experiment by a fictional character. The effects of the Experience or of trying to achieve it on the human mind have not been investigated, let alone proven to be harmless. Therefore nothing in this book is to be taken as a suggestion to follow or attempt in real life.**
 
-“I now want you to close your eyes. You are in a bathtub. You have turned off the tap a few minutes ago. There is silence around. And a voice inside says, ‘Oh, the water is getting cold. Why is the water getting cold? Just when I'm getting in. Same thing every day. Look at my toes. Same toes. Bit less pale, perhaps. Do I know these toes? Are they my toes? I guess it’d hurt if someone cut them off, so they must be. Then I have twenty toes. ‘Cause it’d hurt if someone cut off Jay’s toes. Twenty toes. Does Jay have twenty toes, too? And four eyes. But maybe he doesn’t want my eyes. They’re a bit crap.
+“I now want you to close your eyes. You are in a bathtub. You have turned off the tap a few minutes ago. There is silence all around. And a voice inside says, ‘Oh, the water is getting cold. Why is the water getting cold? Just when I'm getting in. Same thing every day. Look at my toes. Same toes. Bit less pale, perhaps. Do I know these toes? Are they my toes? It’d hurt if someone cut them off, so they must be mine. Then I have twenty toes. ‘Cause it’d hurt if someone cut off Jay’s toes, too. Twenty toes. Does Jay also have twenty toes? And four eyes? But maybe he doesn’t want my eyes. They’re a bit crap.
 
-“‘But that’s all I can see. Bit crap, but still OK to see the stairs. For a few years, and then that’s it, all darkness. Closed in all day into the darkness. I’ll still have my toes, though. And water. Damn it’s really cold now.’
+“‘But they are all I have. Bit crap, but still OK to see the stairs. For a few years, and then that’s it, all darkness. Closed in all day into the darkness. I’ll still have my toes, though. And water. Damn it it’s really cold now.’
 
 Primus paused.
 
@@ -35,7 +36,7 @@ Primus paused.
 
 “‘The Experience is the realization that I am completely at odds with everything else in the world, past, present, or future; for nothing else is I; everything else is different.’
 
-“In fact, let me stop here for a bit. You can already see a focus on the I: I am trapped, I am unique. Why unique? Because whatever is trapped inside my body, is unique to me—it is me. It marks a unique part of space for the body it is connected to. This body looks very similar to other human bodies, but that is not really true: it’s inherently different from all others because they are not me. In fact, it is (and I am) inherently different from everything else in the world, for everything else is not me, too.
+“In fact, let me stop here for a bit. You can already see a focus on the I: I am trapped, I am unique. Why unique? Because whatever is trapped inside my body, is unique to me — it is me. It marks a unique part of space for the body it is connected to. This body looks very similar to other human bodies, but that is not really true: it’s inherently different from all others because they are not me. In fact, it is (and I am) inherently different from everything else in the world, for everything else is not me, too.
 
 “This separation of the I from the rest of the world is already there in Descartes, who could only assume the existence of the I, but not the existence of anything else.
 
@@ -59,7 +60,7 @@ This reasoning is related to the Turing test for intelligence, which simply says
 
 When we observe something, it happens via our bodies. We see with our eyes, we hear with our ears, we touch with our skin. So it is not only true that observation is limited to the physical; it is also always mediated through our bodies.
 
-There have been claims throughout history of other kinds of observations: clairvoyance, out-of-body experiences, and so on. None of these phenomena could be independently and scientifically verified, that is, in a way that can be repeated, and under controlled conditions. James Randi offered a large sum of money to anyone who can do so, but it has never been claimed.
+There have been claims throughout history of other kinds of observations: clairvoyance, out-of-body experiences, and so on. None of these phenomena could be independently and scientifically verified, that is, in a way that can be repeated, and under controlled conditions. James Randi offered a considerable sum to anyone who can do so, but he still has the money.
 
 # ***
 
@@ -71,15 +72,15 @@ For our purposes, memory (a faculty to store experiences) is of special importan
 
 # ***
 
-“I maintain,” Primus continued, “that the mind is simply the brain, which is made of the same kind of material as the rest of the human body. No one has ever discovered anything special in the brain that would make it different from the body, and no one has ever discovered anything special about what humans know or do that cannot be explained by the workings of the brain. Nothing special or extra is needed than the body to give rise to a mindful sentient being. We do not need metaphysical entities to account for the functions of the human mind, or the semblance of free will it produces.
+“I maintain,” Primus continued, “that the mind is simply the brain, which is made of the same kind of material as the rest of the human body. No one has ever discovered anything special in the brain that would make it inherently different from the body, and no one has ever discovered anything special about what humans know or do that cannot be explained by the workings of the brain. Nothing special or extra is needed than the body to give rise to a mindful sentient being. We do not need metaphysical entities to account for the functions of the human mind, or the semblance of free will it produces.
 
-“It is also easy to see that while our whole bodies defined us, thinking is localized in the body to the brain. We don't think - or at least not much - with our fingers in the same way as we don't digest with our knees or walk on our eyes.”
+“It is also easy to see that while our whole bodies define us, thinking is localized in a part of the body, the brain. We don't think - or at least not much - with our fingers in the same way as we don't digest with our knees or walk on our eyes.”
 
 **“Do not subscribe to false and harmful tenets about souls that live separately from our bodies, or minds that transcend matter. Our bodies are us in every sense; make peace with them and guard them; yours as well as others’.”**
 
 # ***
 
-John Searle invented a thought experiment to show that no computer can ever be said to have a mind or be conscious. By extension, this assertion would contradict the suggestion above that the human mind is nothing but the product of a physical, mechanical brain, for the brain is also “only” a physical system that obeys known rules.
+John Searle invented a thought experiment to show that no computer can ever be said to have a mind or be conscious. By extension, this assertion would contradict the suggestion above that the human mind is nothing but the product of a physical, mechanical brain, for the brain is also “only” a computer, a physical system that obeys known rules.
 
 The thought experiment goes like this: suppose there is a person who does not speak **Chinese**, locked into a **room** with a big book of rules. They receive questions written in Chinese through a slot in the door. They then use pen and paper to follow the rules in the big book and produce some Chinese characters based on what they received. This turns out to be a response to the Chinese question in Chinese, which they post back through the slot. For someone outside the room, it seems they are having a conversation in Chinese, yet the person does not speak a word of Chinese.
 
