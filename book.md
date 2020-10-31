@@ -42,7 +42,7 @@ Primus paused.
 
 “This difference between (the) I and everything else is vital and primeval. It gives rise to the Experience, and it is only after learning to experience and appreciate this difference that we can start to understand what the I can be. We call it the **Primeval Difference**.
 
-“And so we can add to our statements about the Experience:
+“Now we can add to our statements about the Experience:
 
 “‘The Experience is the contradiction between my body being precious and unique, as it is me; but at the same time similar to all other bodies.’
 
@@ -53,7 +53,7 @@ Primus paused.
 
 When we perceive something, we always do so on a physical level. Let us call this **material perception**. We see light, we hear sound, we smell small molecules, and so on. This is not a surprising statement, but it has wide-ranging consequences. One is that even though we say things like “I see you are happy,” we can never actually see the happiness, only someone who looks and sounds like someone who is happy. Therefore if someone (or something) can mimic being happy completely, we are forced to assume that it is indeed happy, as we will find nothing to contradict this assumption. It also means that ultimately, machines can become intelligent and can have emotions, as there is no inherent reason why they could not seem to be intelligent and have emotions.
 
-This reasoning is related to the Turing test for intelligence, which simply says that a machine is intelligent if it is indistinguishable from a human. (The Turing test restricts “indistinguishable” to written communication so as not to task computers with having to look and sound like humans, although with modern advances in synthesizing voice and faces this may no longer be a problem.) In other words, it defined an intrinsic property, intelligence, based on whether the entity appears to be intelligent or not, very much in line with material perception.
+This reasoning is related to the Turing test for intelligence, which simply says that a machine is intelligent if it is indistinguishable from a human. (The Turing test restricts “indistinguishable” to written communication so as not to task computers with having to look and sound like humans, although with modern advances in synthesizing speech and faces this may no longer be a problem.) In other words, it defined an intrinsic property, intelligence, based on whether the entity appears to be intelligent or not, very much in line with material perception.
 
 
 # ***
@@ -64,11 +64,11 @@ There have been claims throughout history of other kinds of observations: clairv
 
 # ***
 
-There is the argument for dualism (which maintains that humans are not mere physical beings, but also have a divine spark or soul that enables them to think, talk, and be intelligent) which states that the physical brain is too simple to to give rise to the amazing range of human creativity that we see. This is simply wrong.
+There is the argument for dualism (which maintains that humans are not mere physical beings, but also have a divine spark or soul that enables them to think, talk, and be intelligent) which states that the physical brain is too simple to give rise to the amazing range of human creativity that we see. This is simply wrong.
 
 It is true that if you open a skull, you will not find Hamlet's monologue or a yearning for ice cream among the neurons. Each neuron is just too simple for that. But open a microchip or CPU instead. Will you find the video of the cat on your screen among the transistors? Clearly each transistor is way too simple to represent a cat. Yet we know it is there, because many transistors together can give rise to this representation. So why couldn't many neurons write Romeo and Juliet or be excited about lemon sorbet?
 
-For our purposes, memory (a faculty to store experiences) is of special importance, as well as cognition (a faculty to compare and evaluate them). We know that physical damage to the brain can alter both faculties in humans. All of these make it logical to assume that the brain, a part of the human body, is doing the remembering and the thinking; that memories (and cognition) are encoded physically in the brain. That is, memory and cognition or functions of the body.
+For our purposes, memory (a faculty to store experiences) is of special importance, as well as cognition (a faculty to compare and evaluate them). We know that physical damage to the brain can alter both faculties in humans. All of these make it logical to assume that the brain, a part of the human body, is doing the remembering and the thinking; that memories (and cognition) are encoded physically in the brain. That is, memory and cognition are functions of the body.
 
 # ***
 
@@ -80,19 +80,19 @@ For our purposes, memory (a faculty to store experiences) is of special importan
 
 # ***
 
-John Searle invented a thought experiment to show that no computer can ever be said to have a mind or be conscious. By extension, this assertion would contradict the suggestion above that the human mind is nothing but the product of a physical, mechanical brain, for the brain is also “only” a computer, a physical system that obeys known rules.
+John Searle created a thought experiment to show that no computer can ever be said to have a mind or be conscious. By extension, this assertion would contradict the suggestion above that the human mind is nothing but the product of a physical, mechanical brain, for the brain is also “only” a computer, a physical system that obeys known rules.
 
 The thought experiment goes like this: suppose there is a person who does not speak **Chinese**, locked into a **room** with a big book of rules. They receive questions written in Chinese through a slot in the door. They then use pen and paper to follow the rules in the big book and produce some Chinese characters based on what they received. This turns out to be a response to the Chinese question in Chinese, which they post back through the slot. For someone outside the room, it seems they are having a conversation in Chinese, yet the person does not speak a word of Chinese.
 
 Since the book clearly does not understand Chinese, and the person does not understand Chinese, they together don't understand Chinese, Searle says. And they are just like a computer with a program. So no computer will ever understand Chinese, even if they appear to do so.
 
-But far from supporting this conclusion, the Chinese room is actually a very good argument for emergent qualities. Neither the person nor the book has an understanding of Chinese (the person doesn't know Chinese, and we normally don't think of books as having an understanding), yet their combination does, and together they function as a Chinese-speaking person with consciousness. Similarly, no single neuron in the human brain can speak a language or be conscious, yet these are true of the whole brain.
+But far from supporting this conclusion, the Chinese room is actually a very good argument for emergent qualities. Neither the person nor the book has an understanding of Chinese (the person doesn't know Chinese, and although the book is about Chinese, we normally don't think of books as having an understanding), yet their combination does, and together they function as a Chinese-speaking person with consciousness. Similarly, no single neuron in the human brain can speak a language or be conscious, yet these are true of the whole brain.
 
 Searle's argument is said to apply to computers with programs only, but that is just another way of saying that as soon as you can separate a system into a processor and a program, or two piles of neurons, somehow it suddenly loses all claims to be conscious.
 
 This is very much linked to how we define consciousness. The best we can do is to say that something is conscious if we think it is, or if it is like a human being, which we usually think is conscious. We refer back to Alan Turing again and his Turing test, which defines intelligence this way (something is intelligent if it behaves like a human being) - the equivalent may very well be the only definition we have of consciousness.
 
-Also note that following from material perception, when we judge something to be conscious or not, we can only use information of that thing that reaches us - in the case of the Chinese room, the pieces of paper coming through the slot. We cannot see “inside” the thing to make our judgment.  Something is conscious if it appears to be conscious, just like we deem another person sad or happy if they appear sad or happy - we don't dissect their brain first to make sure they really are.
+Also note that following from material perception, when we judge something to be conscious or not, we can only use information of that thing that reaches us - in the case of the Chinese room, the pieces of paper coming through the slot. We cannot see “inside” the thing to make our judgment.  Something is conscious if it appears to be conscious, just like we deem another person sad or happy if they appear sad or happy - we don't dissect their brain first to try to see if they really are.
 
 # ***
 
@@ -106,7 +106,7 @@ Secondly, physical systems are only completely predictable in classical physics,
 
 In quantum mechanics, some randomness is creeping into physical reality, which makes such predictions impossible even in theory. Indeed, some physicists, like Roger Penrose, find free will exactly here.
 
-But on the most fundamental level, what would free will be? It would mean that a human, given some well-known conditions, can choose to act this way, or that way. To test whether the human indeed has this choice, and is not simply at the mercy of the chemical processes in its brain, we would need to recreate the initial conditions exactly many-many times, and observe if the human behaves the same way all the time, or its mind can shake off the shackles of some deterministic physics and somehow contradict it. This is the basis of all scientific knowledge: experiments.
+But on the most fundamental level, what would free will be? It would mean that a human, given some well-known conditions, can choose to act this way, or that way. To test whether the human indeed has this choice, and is not simply at the mercy of the chemical processes in its brain, we would need to recreate the initial conditions exactly many-many times, and observe if the human behaves the same way all the time, or its mind can shake off the shackles of some deterministic physics and somehow contradict it. This is the basis of all (scientific) knowledge: experiments.
 
 The sad truth is that we never are (or will be) able to recreate the initial conditions exactly. If nothing else, time has changed: in our world, time appears to be monotonic, moving forward all the time, and we can never jump back to a previous point to do a “what if” experiment. This means that we will never be able to determine if humans indeed possess free will or not.
 
@@ -123,7 +123,7 @@ Ultimately though we don't have the final answer about time, while understanding
 
 We now know that when we perceive the world, it happens via our bodies, and these perceptions are also stored in a memory that is encoded in the body. These statements may sound trivial, but they have the important consequence that if we consider everything we have experienced, we necessarily find that each and every one of these experiences happened through the same body - our body.
 
-In other words, we always, inevitably, feel to be inside in our bodies. We always see the world from our bodies: through our eyes, and from the point in the world where our bodies are. We always hear, smell, and touch the world from the very same point, and we affect the world by movement and voice from our bodies as well. We are trapped in our bodies. This is called **Entrapment**.
+In other words, we always, inevitably, feel to be inside our bodies. We always see the world from our bodies: through our eyes, and from the point in the world where our bodies are. We always hear, smell, and touch the world from the very same point, and we affect the world by movement and voice from our bodies as well. We are trapped in our bodies. This is called **Entrapment**.
 
 Is Entrapment really true? It must be, because it is a logical consequence of how perception, memory and cognition work. And we ignore supposed phenomena like mind reading, effect at a distance, out-of-body experiences, clairvoyance and other supernatural occurrences for the same reason as above.
 
@@ -131,7 +131,7 @@ Is Entrapment really true? It must be, because it is a logical consequence of ho
 
 “Entrapment is a facet of the Experience,” Primus said, gesticulating heavily in front of his audience, “but as elsewhere with the Experience, it is not only true that the whole implies the part, but also that the part, Entrapment, implies the whole.
 
-“Why is Entrapment of interest? Isn't it self-evident? In a sense, yes. But we tend to forget it. We tend to conveniently overlook how much we rely on our bodies in our existence, and as we shall see, highlighting this fact has important consequences.
+“Why is Entrapment of interest? Isn't it self-evident? In a sense, yes. But we tend to forget it. We tend to conveniently overlook how much we rely on our bodies in our existence, and as we shall see, highlighting this fact will allow us to discover fundamental truths.
 
 “During our journey we will learn how to accept this fact, and how to reconcile ourselves with our bodies, which all the Western traditions have been teaching us to ignore.”
 
@@ -153,7 +153,7 @@ We may consider here, as a possible counter-example, completely reversible proce
 
 With this kind of memory, it is clear that the information carrier that records the events is the rock itself; that memory is at the same point in space as the “body” of the rock. And we have already argued that human memory, in a similar fashion, is localized in the body, and, in particular, in the brain.
 
-For completeness, it is important to clarify that it is not allowed for the memory to “remember” other interactions with the world that did not happen through the body, as then the feeling of Entrapment would not arise. On the one hand, this is consistent with regarding the memory as part of the body, for what else the body, a physical system, would remember than the things that happened to it? On the other hand, creating fake memories where we experience something that happened to a different person (this being the main function of art according to Representism) is actually one of the ways in which we attempt to escape the feeling of Entrapment.
+For completeness, it is important to clarify that it is not allowed for the memory to “remember” other interactions with the world that did not happen through the body, as then the feeling of Entrapment would not arise. On the one hand, this is consistent with regarding the memory as part of the body, for what else the body, a physical system, would remember than the things that happened to it? On the other hand, creating fake memories where we experience something that happened to a different person (this being the main function of art according to Representism) is actually one of the ways in which we escape the feeling of Entrapment.
 
 As Primus put it later, “To face Entrapment and give rise to the Experience, one must purge the mind of such fake memories.
 
@@ -198,7 +198,7 @@ Primus wiped the chalk powder on his hands into his trousers.
 
 There are no objects.
 
-While this may sound somewhat surprising, it is in fact a simple observation. On the atomic or molecular level, nothing can tell us where one object ends and another one starts. The body, for example, is a collection of cells, which are collections of molecules, both held together not by chemical bonds but by secondary forces –- while at the same time, dirt, dust, creams, parasites stick to the skin using the same forces. Objects we hold do not fall to the ground because of friction between them and our skin – in other words, they, too, stick to the skin using secondary forces. So the thing these forces connect to us, is it another skin cell of us or is it a piece of Camembert? To highlight this problem from another angle, there is no way to tell whether a carbon atom around the surface of our skin belongs to us or to the cheese we are eating. We call this the **boundary problem**.
+While this may sound somewhat surprising, it is in fact a simple observation. On the atomic or molecular level, nothing can tell us where one object ends and another one starts. The body, for example, is a collection of cells, which are collections of molecules, both held together not by chemical bonds but by secondary forces –- while at the same time, dirt, dust, creams, parasites stick to the skin using the same forces. Objects we hold are kept from falling to the ground by friction between them and our skin – in other words, they, too, stick to the skin using secondary forces. So if there is a specific thing these forces connect to us, is it another skin cell of us or is it a piece of Camembert? To highlight this problem from another angle: there is no way to tell whether a carbon atom around the surface of our skin belongs to us or to the cheese we are eating. We call this the **boundary problem**.
 
 That is, objects are abstractions of collections of mass in the world that are somehow useful for the observer to consider as a single unit. A better version of the above statement therefore is:
 
@@ -227,7 +227,7 @@ We have seen that the boundary between our body and the world is rather fuzzy, a
 
 One could argue that the hair is somehow permanently attached to the body while it remains easy to take off a shirt, but on closer inspection this difference looks less and less clear: hair cannot be permanently attached as it grows and is replaced and sometimes some fall out, and we have the boundary problem which makes it clear that the difference between their attachment is merely one of grade.
 
-In a similar fashion, the concept of the body can be extended to other humans whom we care about -– for example, accidents to our family and loved ones affect us similarly to accidents to ourselves, while we are much less affected by events occurring to unknown people.
+In a similar fashion, the concept of the body can be extended to other humans whom we care about — for example, accidents happening to family members and loved ones affect us similarly to accidents happening to ourselves, while we are much less affected by events occurring to unknown people.
 
 It therefore no longer seems very useful to talk about a hypothetical unified body; instead, we consider a collection of things, and say that we are defined by a fuzzy set of physical systems that affect our mental state if information about them reaches us. We will call this region of space our **Care**. Care may also include concepts and abstractions like nation and country, which shows that Care is a crucial component of one’s identity.
 
@@ -237,32 +237,32 @@ It therefore no longer seems very useful to talk about a hypothetical unified bo
 
 “One can argue that the more the self, via Care, extends to possessions and other people of interest, the more it protects itself from its demise, its death with the body, and the more bearable the tragedy of the Experience becomes.
 
-“Consequently Care and interest needs to be temporarily withdrawn from others and possessions, and focus should primarily be on the original, very limited body itself for one to reach the Experience.”
+“Consequently Care and interest need to be temporarily withdrawn from others and possessions, and focus should primarily be on the original, very limited body itself for one to reach the Experience.”
 # V Death
 
 “Death, at first approximation, is the destruction of our bodies. As we have established that there is no need for a soul (and so it likely does not exist), and that faculties like memory and cognition are functions of the body, death means the destruction of the self.
 
-“Note that here, we use ‘body’ in its original sense. In the case of one’s death, other objects, organisms or humans in one’s Care continue to function—while, arguably, the circle of Care itself ceases to exist.
+“Note that here, we use ‘body’ in its original sense. In the case of one’s death, other objects, organisms or humans in one’s Care continue to function — while, arguably, the circle of Care itself ceases to exist.
 
-“Incidentally,” Primus turned to the audience, “it has been suggested that we humans disproportionately fear non-existence after our deaths, but no one cares about non-existence before we are born. Do you know why that may be?” He paused, but nor for long. “I think it has to do with information. We seem to know about the world before our birth, but we’ll miss out on everything that comes after we die. So let’s get back to death.
+“Incidentally,” Primus turned to the audience, “it has been suggested that we humans disproportionately fear non-existence after our deaths, but no one cares about non-existence before we are born. Do you know why that may be?” He paused, but not for long. “I think it has to do with information. We seem to know about the world before our birth, but we’ll miss out on everything that comes after we die. So let’s get back to death.
 
 “What does the destruction of the body mean? Most events leading to death are not extreme (high-energy) enough to, for example, change the atoms in our bodies; they may not even change the molecules. What they inevitably change instead is the physical arrangement of the elements or parts of the body, which leads to the loss of various functions (movement, speech, cognition, etc.). Among these are the ones that are prerequisites of the Experience, so once dead, we can no longer have the Experience.
 
 “This change of arrangement that leads to a loss is similar to how information encoded in macroscopic systems can disappear apparently without a trace. We can burn books, destroy paintings and computers, and never be able to recreate the text, the picture, or the data. This won’t come as a surprise to anyone, but it seems at odds with the assertion in quantum mechanics that no (quantum) information can be lost.
 
-“The likely explanation to this apparent contradiction is that a special macroscopic arrangement, used to encode some useful information, represents a very-very tiny amount of energy which is drowned out even by the energies of chemical processes. A fire converting the carbohydrates of a book into water and carbon dioxide doesn’t care much if the pages are filled with random letters or the text of Hamlet. It is likely true that burning a book of Hamlet will increase entropy more than burning a book with random letters, but this difference is likely to be very tiny. In other words, in the macroscopic word, we can store information virtually for free, but we can also easily lose it. And this is also true of life.
+“The likely explanation to this apparent contradiction is that a special macroscopic arrangement, used to encode some useful information, represents a very-very tiny amount of energy which is drowned out even by energies of chemical processes. A fire converting the carbohydrates of a book into water and carbon dioxide doesn’t care much if the pages are filled with random letters or the text of Hamlet. It is likely true that burning a book of Hamlet will increase entropy more than burning a book with random letters, but this difference is likely to be very tiny. In other words, in the macroscopic word, we can store information virtually for free, but we can also easily lose it. And this is also true of life.
 
-“That is, humans are information,” Primus concluded. “But at the moment we cannot download this information and store it in cloud computers to ask someone a question or let them see their children after they have died, so the best way to preserve this information is to let people to live.”
+“That is, humans are information,” Primus concluded. “But at the moment we cannot download this information and store it in cloud computers to ask someone a question or let them see their children after they have died, so the best way to preserve this information is to let people live.”
 
 # ***
 
-It is convenient to define death as the destruction of one’s body, while we have seen that the body is an ill-defined concept. We introduced Care to take its place, but it is also clear that most objects or entities in a circle of Care survive even if someone—a body—dies.
+It is convenient to define death as the destruction of one’s body, while we have seen that the body is an ill-defined concept. We introduced Care to take its place, but it is also clear that most objects or entities in a circle of Care survive even if someone — a body — dies.
 
 To be able to describe what we mean by death better, consider that different objects (note that objects themselves are subjective abstractions over material reality) that belong to a circle of Care as information emanating from them change the mental state of the “self” do so to different degrees. Arguably everything is included in the Care, as all changes can be said to affect us to some degree, while it is also clear that e.g. this link between our finger and us is much more immediate than, say, between us and an unknown person.
 
-If so, we can attempt to define the other extreme of Care—here, instead of extending the original body, restricting it to a region of space or set of objects that are linked very closely to the self. We name this the **Agent**.
+If so, we can attempt to define the other extreme of Care — here, instead of extending the original body, restricting it to a region of space or set of objects that are linked very closely to the self. We name this the **Agent**.
 
-We can then redefine death as the destruction of an Agent. It may be that the Agent** **does not include the whole body, or even the whole brain—we can consider someone to survive an amputation or a stroke affecting part of their brain. Conversely, we can mourn the loss of a person even if parts of their bodies, technically, survive.
+We can then redefine death as the destruction of an Agent. It may be that the Agent** **does not include the whole body, or even the whole brain — we can consider someone to survive an amputation or a stroke affecting part of their brain. Conversely, we can mourn the loss of a person even if parts of their bodies, technically, survive.
 
 As we shall see, the concept of the Agent turns out to be very helpful in our further investigations.
 
@@ -271,13 +271,13 @@ As we shall see, the concept of the Agent turns out to be very helpful in our fu
 
 “Humans may be unique in the fact that they are aware of their own death. Is the fact that I know I am going to die necessary to achieve the Experience?
 
-“Let’s clarify,” Primus continued, “that nyyo one actually knows that they are going to die. We merely assume, based on our similarity to other people, that we are also going to die, and with largely the same consequences. If one either rejects this assumption of similarity (I am superman - everyone else dies but this does not apply to me), or rejects that the outside world actually exists (people appear to have died, but this may not be real or true) then one can also assume that they will not die.
+“Let’s clarify,” Primus continued, “that no one actually knows that they are going to die. We merely assume, based on our similarity to other people, that we are also going to die, and with largely the same consequences. If one either rejects this assumption of similarity (I am superman - everyone else dies but this does not apply to me), or rejects that the outside world actually exists (people appear to have died, but this may not be real or true) then one can also assume that they will not die.
 
 “Of course, if one assumes that one will continue to exist infinitely (and without aging and ailments), it is easier to sidestep the problems posed by the Experience as even if one is limited in space (as the body is not infinite, and so one only has a narrow perspective of the world), one has all the time to compensate for this limitation. (Here we presuppose traditional space and time.) In other words, even if one experiences Entrapment, it can be seen much less of a problem; even if one is unique, it is much less frightening.
 
 “In this sense, being aware of death certainly makes dealing with the Experience more urgent.
 
-“Still, even without awareness of death, many aspects of the Experience continue to hold true. One is still limited to one’s body, so Entrapment is there; one is still different from everything else, so so is the Primeval Difference, and one can still see onself as unique. And it is likely still true that one’s body, and together with it, one oneself can be destroyed with relative ease.
+“Still, even without awareness of death, many aspects of the Experience continue to hold true. One is still limited to one’s body, so Entrapment is there; one is still different from everything else, so so is the Primeval Difference, and one can still see oneself as unique. And it is likely still true that one’s body, and together with it, one oneself can be destroyed with relative ease.
 
 “Overall, an entity that has the expectation to exist indefinitely may find it less important to consider different facets of the Experience, but it is still affected by them. Death is therefore not required for the Experience.”
 
@@ -287,11 +287,11 @@ As we shall see, the concept of the Agent turns out to be very helpful in our fu
 
 Primus started the next session in a happy mood. “I have said that humans are information. But if so, what happens to this information after death?
 
-“Clearly, with the disintegration of the system that is the I or self, the I as a generator of information ceases to function. However, in a sense, the information it expressed continues to function—its verbal messages are translated, reinterpreted, and through these processes it in effect continues to participate in various dialogs. Is Plato dead when he argues in the head of a student reading The Republic for the first time? Is Shakespeare dead on stage? It seems any information continues to function as long as it exists, which entails that physically, it escapes destruction, and a manuscript, a recording, portrait, sculpture, painting or image survives. Pharaohs had their deeds recorded in hieroglyphs carved in stone apparently to make sure the text survives for eternity. Nowadays one can leave an electronic trail of information on the Internet and on various social networks. These trails can become our pyramids, as long as they are not forgotten, or simply deleted.”
+“Clearly, with the disintegration of the system that is the I or self, the I as a generator of information ceases to function. However, in a sense, the information it expressed continues to function — its verbal messages are translated, reinterpreted, and through these processes it in effect continues to participate in various dialogs. Is Plato dead when he argues in the head of a student reading The Republic for the first time? Is Shakespeare dead on stage? It seems any information continues to function as long as it exists, which entails that physically, it escapes destruction, and a manuscript, a recording, portrait, sculpture, painting or image survives. Pharaohs had their deeds recorded in hieroglyphs carved in stone apparently to make sure the text survives for eternity. Nowadays one can leave an electronic trail of information on the Internet and on various social networks. These trails can become our pyramids, as long as they are not forgotten, or simply deleted.”
 
 **“Praise librarians, praise archaeologists, praise historians - they sacrifice their lives to preserve that which would be lost forever.”**
 
-“It is worth considering that there is a very narrow channel of information through which we get to know another person: sight, hearing, touch, but perhaps most importantly, verbal communication. This is in line with the tenet of material perception. If so, much of this information, especially verbal communication, can be deferred—for example, when reading some writing—, and can also be deferred beyond the person's death. Such communication can continue to influence and so in some sense, for other people, the person continues to function almost as if alive.
+“It is worth considering that there is a very narrow channel of information through which we get to know another person: sight, hearing, touch, but perhaps most importantly, verbal communication. This is in line with the tenet of material perception. If so, much of this information, especially verbal communication, can be deferred — for example, when reading some writing —, and can also be deferred beyond the person’s death. Such communication can continue to influence and so in some sense, for other people, the person continues to function almost as if alive.
 
 “Have you read a book and then only learned afterwards that its author has died a few years back? Did it matter?
 
@@ -299,9 +299,9 @@ Primus started the next session in a happy mood. “I have said that humans are in
 
 # ***
 
-While in our everyday lives most things obey classical physics, it is now well understood that it is just an approximation of physical processes that are relatively slow and low energy. Quantum processes are still there, but we usually don't need them to explain things, just as we don't need an interferometer to bake a cake.
+While in our everyday lives most things obey classical physics, it is now well understood that it is just an approximation of physical processes that are relatively slow and low energy. Quantum processes are still there, but we usually don’t need them to explain things, just as we don’t need an interferometer to bake a cake.
 
-Yet Quantum Mechanics poses basic questions about our reality. One famous interpretation of why everything behaves like a wave and can be in multiple places and states at once until we look at it when it “collapses,” is Everett's many-world theorem, which basically states that this collapse is merely apparent as everything can be in multiple states and places at once, but since it includes us, we only see one of the possibilities. That is, there are many parallel worlds, and they somehow contain all possibilities and configurations.
+Yet Quantum Mechanics poses basic questions about our reality. One famous interpretation of why everything behaves like a wave and can be in multiple places and states at once until we look at it when it “collapses,” is Everett’s many-world theorem, which basically states that this collapse is merely apparent as everything can be in multiple states and places at once, but since it includes us, we only see one of the possibilities. That is, there are many parallel worlds, and they somehow contain all possibilities and configurations.
 
 This idea has inspired many novels and movies that use alternative realities in their plots, and one cannot help but wonder if one could cheat death this way, as even if we die in one world, surely it’s possible that we continue to exist, and so there will be an alternative world where all is still well.
 
@@ -317,17 +317,17 @@ One can also argue that even if we continue to exist in an alternative world, a 
 
 # ***
 
-A set of unsolved problems in modern physics is regarding “the arrow of time.” On the one hand, physical processes can happen both forwards and backwards in time (with some extra bits, see CPT symmetry): if a ball falls down, it speeds up; if someone throws it upwards, it slows down at the same rate. On the other hand, there are processes that we only regularly see happening in one direction, like a mug falling from the table and breaking into pieces.
+A set of unsolved problems in modern physics is regarding “the arrow of time.” On the one hand, physical processes can happen both forwards and backwards in time (with some extra bits, see CPT symmetry): if a ball falls down, it speeds up; if someone throws it upwards, it slows down at the same, just reversed, rate. On the other hand, there are processes that we only regularly see happening in one direction, like a mug falling from the table and breaking into pieces.
 
-Traditionally, entropy is cited as the reason why such processes do not happen backwards, as entropy should always increase; things should always become more chaotic. But this is not a hard law: entropy can be decreased with energy, and processes may happen backwards, just with much smaller probability. For example, if we shoot the pieces of the mug towards each other, and ensure that the atoms inside are just at the right place, they may re-form their bonds and we may just be able to recreate the mug itself. It's just quite unlikely.
+Traditionally, entropy is cited as the reason why such processes do not happen backwards, as entropy should always increase; things should always become more chaotic. But this is not a hard law: entropy can be decreased with energy, and processes may happen backwards, just with much smaller probability. For example, if we shoot the pieces of the mug towards each other, and ensure that the atoms inside are just at the right place, they may re-form their bonds and we may just be able to recreate the mug itself. It’s just quite unlikely.
 
 Moreover, as e.g. Penrose points out, entropy can only increase if we originally started from a low entropy state. The Big Bang may have been such a state, but problems with this view of time do not stop here.
 
 As I understand the state of the art theory about why time is moving forwards is related to sub-universes (bubbles with special physical constants inside) expanding and the flows generated by this process.
 
-Now, if time is such an uncertain thing, and basically things are likely to move forward in time, but could move backward as well, just much less likely, do we still need to reckon with the end of our existence? Here, as elsewhere, I argue that without a way to cheat death using loopholes opened by modern physics, we need to, we can, and we should consider our existence in terms of classical physics, as our bodies are macroscopic. And for all intents and purposes, we live in a world with a monotone time, and our existence is limited both in space and time.
+Now, if time is such an uncertain thing, and basically things are likely to move forward in time, but could move backward as well, just much less likely, do we still need to reckon with the end of our existence? Here, as elsewhere, I argue that without a way to cheat death using loopholes opened by modern physics, we need to, we can, and we should consider our existence in terms of classical physics, as our bodies are macroscopic.
 
-It is interesting and important to consider if our existence is determined by some quantum process, like alternative universes or reversing time to before our deaths, but such attempts can look like grasping at straws. Arguably since our bodies are macroscopic, we should be able to use classical physics to describe our existence, death, experiences etc. highly accurately. If it paints an unfavorable picture of our existence,  it may be better to learn to accept it than to try to find loopholes in Quantum Mechanics.
+It is indeed interesting and important to consider if our existence is determined by some quantum process, and whether alternative universes or reversing time to before our deaths would be possibilities, but such attempts can look like grasping at straws. Arguably since our bodies are macroscopic, we should be able to use classical physics to describe our existence, death, and experiences highly accurately. If it paints an unfavorable picture of our existence, it may be better to learn to accept it as something that is probably largely true than to engage in quantum escapism.
 
 # VI Difference and Uniqueness
 
@@ -341,19 +341,19 @@ It is interesting and important to consider if our existence is determined by so
 
 “Selectedness therefore has some strange behavior. It seems to be there, but where, or whether it moves, cannot be detected. This can be explained if we say that Selectedness is not an objective, but a subjective phenomenon. Someone said that as soon as we try to look at consciousness, it seems to disappear. The same thing is happening here.
 
-“Note that we are assuming that only a single Agent is Selected. This tallies with our subjective experience and with Uniqueness, and mirrors our implicit assumptions that Entrapment is into a single body, and Care is centered around a single Agent. That said, we appear to be describing a subjective—psychological—experience of identity, and in theory we could leave open the possibility of multiple Agents developing a common identity. After all, why couldn’t I somehow think that I and George are one person? Can the notion of group identity grasped this way? Can an identity somehow survive the death of an Agent if it is linked to more? These are important questions, but for now we will disregard this potential complexity of identity.
+“Note that we are assuming that only a single Agent is Selected. This tallies with our subjective experience and with Uniqueness, and mirrors our implicit assumptions that Entrapment is into a single body, and Care is centered around a single Agent. That said, we appear to be describing a subjective — psychological — experience of identity, and in theory we could leave open the possibility of multiple Agents developing a common identity. After all, why couldn’t I somehow think that I and George are one person? Can the notion of group identity grasped this way? Can an identity somehow survive the death of an Agent if it is linked to more? These are important questions, but for now we will disregard this potential complexity of identity.
 
 # ***
 
 “The **clone argument** yields similar results. It basically says that creating an equivalent copy of a body (and Agent) does not change the Selected status of the copied Agent, and since the original and copy Agents are physically equivalent, Selectedness cannot be a physical property.
 
-“The argument runs like this: a body or Agent being copied does not experience an interruption in its existence, so its Selectedness cannot be altered by the procedure. If it was Selected, it continues to be so, which also entails that the clone cannot be Selected. In other words, if I am cloned, my clone will not be me. Finally, since the physical makeup of the original Agent and the clone are the same, Selectedness cannot depend on any physical information in a body. The information whether a body is Selected is external to its physical information—in fact, it depends on who the observer is.
+“The argument runs like this: a body or Agent being copied does not experience an interruption in its existence, so its Selectedness cannot be altered by the procedure. If it was Selected, it continues to be so, which also entails that the clone cannot be Selected. In other words, if I am cloned, my clone will not be me. Finally, since the physical makeup of the original Agent and the clone are the same, Selectedness cannot depend on any physical information in a body. The information whether a body is Selected is external to its physical information — in fact, it depends on who the observer is.
 
-“There are many assumptions rolled into this one argument. To begin with, due to Heisenberg’s Uncertainty Principle, it is not possible to measure atoms in the body to be cloned completely accurately. Moreover, particles in the original body are disturbed by the act of measurement, which we ignore when we say that Selectedness cannot be taken away from the original body by cloning. Also, the original body and the clone will necessarily occupy a different region of space—or time—, and so, in theory, they are distinguishable and necessarily different to some degree.
+“There are many assumptions rolled into this one argument. To begin with, due to Heisenberg’s Uncertainty Principle, it is not possible to measure atoms in the body to be cloned completely accurately. Moreover, particles in the original body are disturbed by the act of measurement, which we ignore when we say that Selectedness cannot be taken away from the original body by cloning. Also, the original body and the clone will necessarily occupy a different region of space — or time —, and so, in theory, they are distinguishable and necessarily different to some degree.
 
 “Still, as we argued elsewhere, it is unlikely that a body cannot be cloned accurately enough to expect Selectedness to apply to both the original and the clone; in other words, we expect that something as fundamental as Selectedness does not depend on minute variations on the quantum level. This suggestion is supported by the observation that in time, particles in a body undergo many-many changes, yet the body (both or own as others’) is perceived to survive and be largely equivalent to its previous versions.
 
-“Note that the argument presented here is simply the previous argument, in new guise, against the possibility of a soul latching onto a body based on the fact that bodies lack some physical *differentia specifica* that would allow a soul to select a body or Agent. (The boundary problem adds to the difficulty of finding such a link.) If we regard the soul as the vehicle which confers identity to a body, that is, if my soul Selects my body, we see how the two arguments are identical.”
+“Note that the argument presented here is simply the previous argument, in new guise, against the possibility of a soul latching onto a body based on the fact that bodies lack some physical *differentia specifica* that would allow a soul to select a body or Agent. And let us remind ourselves that the boundary problem adds to the difficulty of finding such a link. If we regard the soul as the vehicle which confers identity to a body, that is, if my soul Selects my body, we see how the two arguments are identical.”
 
 
 # ***
@@ -362,13 +362,13 @@ It is interesting and important to consider if our existence is determined by so
 
 “Since all possible observations this consciousness or Agent can make is the same for both bodies, there is no way for it to do so. That is, it could identify either body as itself.
 
-“This is a crucial point here. Objects, bodies and their identification are not objective phenomena, but are human (or, in an attempt to be more general, mental or psychological) constructs. In other words, it is the Agent that learns or decides which body it is in. Admittedly, objectivity creeps in here as mostly inevitably an Agent will learn to identify itself with the body it is implemented by, so this identification is predictable by an external observer, which lends this process some objective reality or constraints. But this identification is not wholly inevitable: one can imagine contrived examples where an Agent (brain) implemented by one physical system is tricked to experience the world from a different body. Indeed such ideas often surface in sci-fi as they undermine the normal sense of identity, with uncanny results.
+“This is a crucial point here. Objects, bodies and their identification are not objective phenomena, but are human — or, in an attempt to be more general, mental or psychological —  constructs. In other words, it is the Agent that learns or decides which body it is in. Admittedly, objectivity creeps in here as mostly inevitably an Agent will learn to identify itself with the body it is implemented by, so this identification is predictable by an external observer, which lends this process some objective reality or constraints. But the identification with the implementing body is not wholly inevitable: one can imagine contrived examples where an Agent — brain — is tricked to experience the world from a different body. Indeed such ideas often surface in sci-fi as they undermine the normal sense of identity, with uncanny results.
 
 “Pushing the notion of learned self-identification to the fore can help us overcome some of the difficulties posed by the boundary problem. Although the two descriptions are logically equivalent, it is more fruitful to think that **an Agent is learning not what it is in the physical world, but what it is not:** first, objectively existing things that are outside my control, and second, other Agents or entities that are on the same level as me, and have the same claim to existence as myself. Reaching this second stage is actually the second stage of our journey, beyond the Experience.
 
-“As the Agent learns what bits of physical reality it is not, it no longer needs to answer the question ‘Which body am I?’—and so we no longer need to define what bodies are, which, as the boundary problem shows, start who-knows-where, end who-knows-where, and are separated by who-knows-what. Instead, the Agent gradually learns to identify itself to different degrees with various regions and entities in space, effectively mapping its physical core, the physical Agent, through the fuzzy body and finally its region of Care.
+“As the Agent learns what bits of physical reality it is not, it no longer needs to answer the question ‘Which body am I?’ — and so we no longer need to define what bodies are, which, as the boundary problem shows, start who-knows-where, end who-knows-where, and are separated by who-knows-what. Instead, the Agent gradually learns to identify itself to different degrees with various regions and entities in space, effectively mapping its physical core, the physical Agent, through the fuzzy body and finally its region of Care.
 
-“Notice that his negative learning appears to match well with theories about how babies experience the world, from initially thinking that they have control over everything—that is, that they are everything—to realizing that some objects behave (apparently) independently and follow their own rules. To these, we usually learn to attribute objective existence.
+“Notice that his negative learning appears to match well with theories about how babies experience the world, from initially thinking that they have control over everything — that is, that they are everything — to realizing that some objects behave independently and follow their own rules. To these, we usually learn to attribute objective existence.
 
 “Also notice how this psychological model of self-identification solves some paradoxes around clones: if something is perceptibly different from what I habitually associates myself with, I will say it is not me, and the is true of perfect clones placed at a distance. I won’t see them as me, which is what we expect. But this does not hold for a clone at exactly the same place as me, as I won’t know which body I experience or am looking at.
 # VII Achieving the Experience
@@ -388,11 +388,11 @@ We need to avoid avoiding the Experience
 
 It was always my hope that by attaining the Experience and learning about the fragility of existence, people would start valuing life as something to cherish and preserve, and avoid killing, maiming and hurting other humans as well as other organisms and structures, from books to planets. In short, I was hoping that the Experience would teach empathy. But there is a way it can all go wrong.
 
-The Experience is frightening. It is a reminder of non-existence, of death, but, to be specific, it is a reminder of my death. It will likely lead to one valuing life more, but first it will make one value one’s own life. There is nothing in what we established so far that would force someone to think that others, other humans and maybe other entities can have the Experience as well, making them equivalent to us, and, most importantly, making their claim to existence the same as ours.
+The Experience is frightening. It is a reminder of non-existence, of death, but, to be specific, it is a reminder of my death. It will likely lead to one valuing life more, but first it will make one value one’s own life more. There is nothing in what we established so far that would force someone to think that others, other humans and maybe other entities can have the Experience as well, making them equivalent to us, and, most importantly, making their claim to existence the same as ours.
 
 The Experience is a force, for good and ill. It can lead to goodness and a more meaningful life if it is paired with empathy, but that empathy likely needs to have existed beforehand. The Experience itself will not generate empathy, and without it, it can make one self-centered and egoistical, and could even be used to justify violence in order to protect one’s own existence.
 
-The second part of the Journey is therefore the acceptance of the belief that other Agents also exist in the world, who can also have the Experience, who are therefore at the same level as me and who are not in any way less valuable than myself. In short, we make the conscious decision to reject a Solipsistic world view.
+The second part of the Journey is therefore the acceptance of the belief that other Agents also exist in the world, who can also have the Experience, who are therefore not in any way less valuable than myself. In short, we make the conscious decision to reject a Solipsistic world view.
 
 
 # ***
@@ -403,9 +403,9 @@ The second part of the Journey is therefore the acceptance of the belief that ot
 
 # ***
 
-“By Solipsism I mean the idea that nothing is certain to exist—or actually nothing exists—outside my mind. Notice that it is impossible to disprove this position: I can simply maintain that everything, including you, is a hallucination generated by my brain. Counterarguments exist though which aim to show that Solipsism is not a helpful position to take. One of the most powerful ones point out that there are many things my mind don’t seem to be able to control, like my hunger, or whether it’s cold or hot outside, and so on. And since a model of the world where these do exist objectively independently of me is simpler than to say that I am imagining these things as well, but they are somehow different from other things I also imagine that by contrast I can control, by Occam’s Razor the simpler model is true.
+“By Solipsism I mean the idea that nothing is certain to exist — or actually nothing exists — outside my mind. Notice that it is impossible to disprove this position: I can simply maintain that everything, including you, is a hallucination generated by my brain. Counterarguments exist though which aim to show that Solipsism is not a helpful position to take. One of the most powerful ones point out that there are many things my mind don’t seem to be able to control, like my hunger, or whether it’s cold or hot outside, and so on. And since a model of the world where these do exist objectively independently of me is simpler than to say that I am imagining these things as well, but they are somehow different from other things I also imagine that by contrast I can control, by Occam’s Razor the simpler model is true.
 
-“Not to mention the fact that if only I exist, and I imagine the world, I also need to image an I-in-the-world, something that I seem to be inside the world. But this is actually I, capable of imagining a whole world, including its representation in the new world, and so on. Even if one can cut through the infinite loop here, or show that some of the thinking here is faulty, this example shows how complicated a Solipsistic world view can become.
+“Not to mention the fact that if only I exist, and I imagine the world, I also need to image an I-in-the-world, something that seems to be inside the world. But this is actually I, capable of imagining a whole world, including its representation in the new world, and so on. Even if one can cut through the infinite loop here, or show that some of the thinking here is faulty, this example shows how complicated a Solipsistic world view can become.
 
 “But Solipsism remains a valid model of the world. Nothing can ever happen that could force us to abandon this world view. The counterargument I mentioned simply says that things I cannot control behave just as if they existed objectively, so let’s just say that they do.
 
@@ -433,7 +433,7 @@ Primus paused, and walked to the other side of the hall.
 
 “This is true in both space and time in the strong form, as really anything only exists when my brain exists. In the weak form, it is only true in space, as there we could imagine a universe before or after the existence of a suitable brain, when clearly I cannot exist, either. In both forms, if I exist, only one suitable brain exists.
 
-“And since there is only one brain in the universe, it is no longer a problem that we cannot formulate an objective statement,  that is, find some physical aspect, that would be true of my body / brain, but not others. Conversely, we have argued that if there are multiple brains, **if Solipsism is rejected, any statement about the I is true of any other Agent or brain. It is never possible to grasp the special status of the I objectively — it is not an objective property of the universe.**
+“And since there is only one brain in the universe, it is no longer a problem that we cannot formulate an objective statement,  that is, find some physical aspect, that would be true of my body / brain, but not others. Conversely, we have argued that if there are multiple brains, that is, **if Solipsism is rejected, any statement about the I is true of any other Agent or brain. It is never possible to grasp the special status of the I objectively — it is not an objective property of the universe. That is:**
 
 **“Rejecting Solipsism is asserting that there is no objective I.”**
 
@@ -441,7 +441,7 @@ Primus paused, and walked to the other side of the hall.
 
 “Having rejected Solipsism, we are left with the questions ‘Why do I exist — in this universe?’, ‘Why do I exist now, and not at another time?’, and ‘Why do I exist here in this body, and not somewhere else?’
 
-“The last two questions ask about Selectedness, ans we already know it is not a property of the world — it depends on who the observer or speaker is. That is, it is a property of a world — observer dyad. If I observer the world, I can say ‘This is my body’,” Primus pointed at himself, “whereas if Alice observes the world, she would indicate a completely different body. And we would both be right. This is because I am talking about the world-me dyad, the world-according-to-me, while Alice talks about the world-Alice dyad.
+“The last two questions ask about Selectedness, and we already know it is not a property of the world — it depends on who the observer or speaker is. That is, it is a property of a world-observer dyad. If I observe the world, I can say ‘This is my body’,” Primus pointed at himself, “whereas if Alice observes the world, she would indicate a completely different body. And we would both be right. This is because I am talking about the world-me dyad, the world-according-to-me, while Alice talks about the world-Alice dyad.
 
 “Of course, using names would identify bodies objectively; we all agree which Agent/body is Alice. And you could say that the word ‘I’ is just a language construct conveniently referencing the speaker. But the differences between the world-according-to-me and the world-according-to-Alice cut deeper. Our experiences of these worlds are significantly different.
 
