@@ -8,19 +8,19 @@
 “The road to a deeper understanding of life is like climbing a mountain: it is hard, but the reward is immense; for only by overcoming the roughest terrain can we find peace and our place in the world.”
 
 
-It is strange, writing an introduction to something I have not been able to write about. Or, rather, not been able to write about properly, as I suspect all of my writing has been, in a way, about this question; actually, I am led to believe that this is what all writing, all art, and all human endeavor is ultimately about. It is not death, which is only part of the question and is easy to deal with; and it is not exactly the ultimate reason or meaning of life, because either no such thing exists, or it is biologically determined, which does not leave much to the imagination. Instead, it is more the question of the identity of something that exists; how that identity evolves in time, and how it interacts with other identities. The question of one's identity in the most abstract sense, or that of the self, or the I, seems to me to encompass all questions about the reason for living, the reason to live, life after death, and, perhaps most importantly, before it.
+It is strange, writing an introduction to something I have not been able to write about. Or, rather, not been able to write about properly, as I suspect all of my writing has been, in a way, about this question; actually, I am led to believe that this is what all writing, all art, and all human endeavor is ultimately about. It is not death, which is only part of the question and is easy to deal with; and it is not exactly the ultimate reason or meaning of life, because either no such thing exists, or it is biologically determined, which does not leave much to the imagination. Instead, it is more the question of the identity of something that exists; how that identity evolves in time, and how it interacts with other identities. The question of one’s identity in the most abstract sense, or that of the self, or the I, seems to me to encompass all questions about the reason for living, the reason to live, life after death, and, perhaps most importantly, before it.
 
 It is of no surprise that I have not been able to write about this subject matter properly, as I think no one has. Contemplating it is a personal journey, as shown by the many competing and contradicting philosophies that from ancient times have grown out of our forlorn quest to squeeze a drop of meaning out of the barren randomness of our universe. I invite you to join me on this journey, as I have learned a lot on the road, and there is so much still to discover.
 
 
-“The first stage of our journey is achieving the Experience,” Primus continued. “It is not easy, and it is not something that can be done once and then forgotten; reliving the Experience again and again is necessary throughout the journey as we uncover deeper and deeper layers of understanding. The Experience is like running: one can read about it, one can learn about it, but these are not substitutes for the action. We must strive to live the Experience, however hard it is at first. As with running, and so with the Experience, with time our technique becomes refined, and our takeaway from it changes, evolves and deepens.”
+“The first stage of our Journey is achieving the Experience,” Primus continued. “It is not easy, and it is not something that can be done once and then forgotten; reliving the Experience again and again is necessary throughout the Journey as we uncover deeper and deeper layers of understanding. The Experience is like running: one can read about it, one can learn about it, but these are not substitutes for the action. We must strive to live the Experience, however hard it is at first. As with running, and so with the Experience, with time our technique becomes refined, and our takeaway from it changes, evolves and deepens.”
 
 
-**This book is a work of fiction, including the descriptions of the Experience and of ways of achieving it. It is intended to be read as a personal account and a thought experiment by a fictional character. The effects of the Experience or of trying to achieve it on the human mind have not been investigated, let alone proven to be harmless. Therefore nothing in this book is to be taken as a suggestion to follow or attempt in real life.**
+**This book is a work of fiction, including the descriptions of the Experience and of ways of achieving it. It is intended to be read as a personal account, or a thought experiment, or the description of a fictional method invented by a fictional character. The effects of the Experience or of trying to achieve it on the human mind have not been investigated, let alone proven to be harmless. Therefore nothing in this book is to be taken as a suggestion to follow or attempt in real life.**
 
 “I now want you to close your eyes. You are in a bathtub. You have turned off the tap a few minutes ago. There is silence all around. And a voice inside says, ‘Oh, the water is getting cold. Why is the water getting cold? Just when I'm getting in. Same thing every day. Look at my toes. Same toes. Bit less pale, perhaps. Do I know these toes? Are they my toes? It’d hurt if someone cut them off, so they must be mine. Then I have twenty toes. ‘Cause it’d hurt if someone cut off Jay’s toes, too. Twenty toes. Does Jay also have twenty toes? And four eyes? But maybe he doesn’t want my eyes. They’re a bit crap.
 
-“‘But they are all I have. Bit crap, but still OK to see the stairs. For a few years, and then that’s it, all darkness. Closed in all day into the darkness. I’ll still have my toes, though. And water. Damn it it’s really cold now.’
+“‘But they are all I have. Bit crap, but still OK to see the stairs. For a few years, and then that’s it, all darkness. Closed in all day into the darkness. I’ll still have my toes, though. And water. Damn it it’s really cold now.’”
 
 Primus paused.
 
@@ -49,6 +49,10 @@ Primus paused.
 “And: ‘The Experience is the helplessness that I can be so easily destroyed, that my body is so fragile.’
 
 “These sentences won’t make too much sense at this stage. We are at the beginning of exploring and understanding the Experience. As we progress on our journey, and talk about and practice achieving the Experience, return to these statements for inspiration. They will be gradually filled with meaning.”
+
+# ***
+
+**“In modern life, our relationship with ourselves, and therefore with others, has become unhealthy. We need to tear down these relationships and rebuild them from the ground up.”**
 # II Perception and the Mind
 
 When we perceive something, we always do so on a physical level. Let us call this **material perception**. We see light, we hear sound, we smell small molecules, and so on. This is not a surprising statement, but it has wide-ranging consequences. One is that even though we say things like “I see you are happy,” we can never actually see the happiness, only someone who looks and sounds like someone who is happy. Therefore if someone (or something) can mimic being happy completely, we are forced to assume that it is indeed happy, as we will find nothing to contradict this assumption. It also means that ultimately, machines can become intelligent and can have emotions, as there is no inherent reason why they could not seem to be intelligent and have emotions.
@@ -131,7 +135,7 @@ Is Entrapment really true? It must be, because it is a logical consequence of ho
 
 “Entrapment is a facet of the Experience,” Primus said, gesticulating heavily in front of his audience, “but as elsewhere with the Experience, it is not only true that the whole implies the part, but also that the part, Entrapment, implies the whole.
 
-“Why is Entrapment of interest? Isn't it self-evident? In a sense, yes. But we tend to forget it. We tend to conveniently overlook how much we rely on our bodies in our existence, and as we shall see, highlighting this fact will allow us to discover fundamental truths.
+“Why is Entrapment of interest? Isn’t it self-evident? In a sense, yes. But we tend to forget it. We tend to conveniently overlook how much we rely on our bodies in our existence, and as we shall see, highlighting this fact will allow us to discover fundamental truths.
 
 “During our journey we will learn how to accept this fact, and how to reconcile ourselves with our bodies, which all the Western traditions have been teaching us to ignore.”
 
@@ -139,7 +143,7 @@ Is Entrapment really true? It must be, because it is a logical consequence of ho
 
 Next, let us dissect the definition of Entrapment above, with special focus on what is required for the emergence of this phenomenon or feeling.
 
-First of all, notice that if Entrapment means that one is convinced that one always sees (and interacts with) the world from one's body, then it is equivalent to realizing that all previous interactions with the world happened via the same body as the current one. (Of course, strictly speaking, the body is not the same atom-by-atom as the one through which previous observations were made, but a sufficiently slow rate of change allows the mental faculty to keep identifying the physical body with its abstraction of it, and build a sense of permanence.)
+First of all, notice that if Entrapment means that one is convinced that one always sees (and interacts with) the world from one’s body, then it is equivalent to realizing that all previous interactions with the world happened via the same body as the current one. (Of course, strictly speaking, the body is not the same atom-by-atom as the one through which previous observations were made, but a sufficiently slow rate of change allows the mental faculty to keep identifying the physical body with its abstraction of it, and build a sense of permanence.)
 
 We are making no assumptions about “who” is making the interactions or observations via the body. The above statement, although it may sound complicated, really just makes it explicit what “always” means: that whenever something occurred, it occurred in the same way.
 
@@ -160,6 +164,10 @@ As Primus put it later, “To face Entrapment and give rise to the Experience, one
 “Of course, they are not fake in the sense that information about another person, say, in a story or movie, reaches us as part of some physical interaction like sound and light. But then we focus on this other person almost as on ourselves, and regard their experiences as our experiences, thereby effectively escaping the temporal and spatial limits of our bodies. I call this **dilution.** Dilution is extremely helpful as it allows us to acquire much more experience — knowledge — than we could do directly. And this is actually our main mode of existence. This is what we do when we read a novel, a magazine, a post from a friend, or when we have a chat with someone.
 
 “The flip side of this is that this mode masks our limits and the true nature of Entrapment. This is why we must step out of this mode to achieve the Experience.”
+
+# ***
+
+**“The Experience comes as a huge, overwhelming wave: sometimes unannounced, sometimes after invitation. To invite it, you must prepare, remove all distractions and focus on yourself and yourself alone.”**
 
 # ***
 
@@ -373,11 +381,10 @@ It is indeed interesting and important to consider if our existence is determine
 “Also notice how this psychological model of self-identification solves some paradoxes around clones: if something is perceptibly different from what I habitually associates myself with, I will say it is not me, and the is true of perfect clones placed at a distance. I won’t see them as me, which is what we expect. But this does not hold for a clone at exactly the same place as me, as I won’t know which body I experience or am looking at.
 # VII Achieving the Experience
 
-We now know what we do to avoid the Experience
+“We now know what we do to avoid the Experience, so we invite the Experience by avoiding avoiding it.”
 
-We need to avoid avoiding the Experience
-# The Second Peak
-# Others
+[During this lecture, Primus summarizes the techniques aimed at achieving the Experience. He expects his followers to practice and achieve the Experience to some degree before moving on to the Second Peak.]
+# The Second Peak: Others
 
 “We have crossed the gorge of non-existence,” Primus said, “stared into the abyss of nothingness, faced our fears of death and not-being-born, and ascended, one aching step after another, the cliff of the Experience.” He paused. “What have we done? We have learned to focus on our existence, and we have realized its fragility. We have learned how to reject the dilution of the everyday, to pull ourselves back to the Primeval, and face and learn our place in the world. We are more than the constantly diluted, but we are less because we have laid ourselves bare in front of the possibility of not being there. We are richer for the Experience, but poorer because we put down the noise. Henceforth the Experience will always be there: we can call it, and it will call; it focuses us on what ultimately matters, and as a constant memento guides us to more meaning. But it is a force on its own: it brings dread and maims unless we grow strong to control it and bend it to our will. In short, we reached the first peak on our journey, and from this summit we see the strange landscape that lies ahead.
 
@@ -407,11 +414,11 @@ The second part of the Journey is therefore the acceptance of the belief that ot
 
 “Not to mention the fact that if only I exist, and I imagine the world, I also need to image an I-in-the-world, something that seems to be inside the world. But this is actually I, capable of imagining a whole world, including its representation in the new world, and so on. Even if one can cut through the infinite loop here, or show that some of the thinking here is faulty, this example shows how complicated a Solipsistic world view can become.
 
-“But Solipsism remains a valid model of the world. Nothing can ever happen that could force us to abandon this world view. The counterargument I mentioned simply says that things I cannot control behave just as if they existed objectively, so let’s just say that they do.
+“But Solipsism remains a valid model of the world. Nothing can ever happen that could force us to abandon this world view. The first counterargument I mentioned simply says that things I cannot control behave just as if they existed objectively, so let’s just say that they do.
 
 “Notice, however, that Solipsism could solve a lot of our problems. If only I exist, then by definition I am special and, in fact, Selected. It is not surprising that I become identified with my body, that I am Entrapped in this body, because there is no alternative.
 
-“We can note that technically, my body is also imagined or hallucinated by my brain, in which case we still don’t know why I am associated with that body and not another one. This is the same question as with objectively existing bodies, which shows that the two ways of thinking about the world are really equivalent. Maybe my brain specifically hallucinates a body for me, which fact is outside my control, and so is just as if it existed objectively.
+“We can note that technically, my body is also imagined or hallucinated by my brain, in which case we still don’t know why I am associated with that body and not another one. This is the same question as with objectively existing bodies, which shows that the two ways of thinking about the world are really equivalent. Maybe my brain specifically hallucinates a body for me, but this would be outside my control, and so my relationship with my body would be just as if it existed objectively.
 
 # * * *
 
@@ -423,7 +430,7 @@ Primus paused, and walked to the other side of the hall.
 
 “The opposite of the temporal facet of Solipsism is that the world does exist when I do not exist. This immediately means that it is possible that I do not exist. So the questions here are: Why do I exist? Why do I exist now (as opposed to another time)?
 
-“The opposite of the spatial aspect of Solipsism is that there are many brains in existence. This immediately means that I could have been another brain. So the questions here are: Why do I have this body (and not another one)? Why do I have this identity?
+“The opposite of the spatial aspect of Solipsism is that there are many brains in existence. This immediately means that I could have been another brain. So the questions here are: Why do I have this body (and not another one)? Why do I have this identity?”
 
 # * * *
 
@@ -449,9 +456,9 @@ Primus paused, and walked to the other side of the hall.
 
 # * * *
 
-It was a new day. Primus waited for everyone to fall silent, then took a sip of coffee from a paper cup that he placed, with great care, on the table. He glanced at the blackboard.
+It was a new day. Primus waited for everyone to fall silent, then took a sip of coffee from a paper cup that he then placed on the table with great care. He glanced at the blackboard.
 
-“Right,” he said, his voice booming in the hall, “let’s get back to the questions of why here and why now. Why do I live in this body? Why do I live now, and not in the Middle Ages? Or the future?
+“Right,” he said, his voice booming in the hall, “let’s get back to the questions of why here and why now. Why do I live in this body? Why do I live now, and not in the Middle Ages? Or in the future?
 
 “It is tempting to say that which body I am is completely random. From an outside point of view, we live in a universe that has a number of systems, all limited in space and time, that are capable of the Experience. We have been calling them Agents or brains. One of them happens to be this me, it is Selected, but we don’t know which one will be Selected, or why. We know though that whichever gets Selected will necessarily think that it has always been Selected, and that nothing physical separates the Selected Agent from the non-Selected ones.
 
@@ -463,7 +470,7 @@ It was a new day. Primus waited for everyone to fall silent, then took a sip of 
 
 “Our thinking is teleological: that is, we seek a purpose in everything, even though every fact appears to point to its precise lack.
 
-“Is, for example, the fact that most organisms around us devote most of their time and energy to reproduction a result of a sentence in Genesis? Can’t one argue that in any population where some living organisms focus on creating offspring, and others don't, the former will soon crowd out and finally destroy the latter? Looking at the overall population a few million years later, as we do, we will hardly see any exception to the reproduction rule. Or, to take another example of teleology, what would we think of Douglas Adams's famous sentient puddle, who gets convinced of the existence of a deity because he fits his hole so well it must’ve been designed for him?
+“Is, for example, the fact that most organisms around us devote most of their time and energy to reproduction a result of a sentence in Genesis? Can’t one argue that in any population where some living organisms focus on creating offspring, and others don’t, the former will soon crowd out and finally destroy the latter? Looking at the overall population a few million years later, as we do, we will hardly see any exception to the reproduction rule. Or, to take another example of teleology, what would we think of Douglas Adams’s famous sentient puddle, who gets convinced of the existence of a deity because he fits his hole so well it must’ve been designed for him?
 
 “But our inability to grasp randomness does not end here. There’s also our sense of justice. It is unusually hard for us to accept that random bad things can happen to otherwise good people. While it is natural and laudable for everyone witnessing an unfortunate accident to wonder what could have been done to prevent it — for example, lock your doors, drive at an appropriate speed, and so on —, we usually go further than that, and, deep down, remain sure that the victim must have done something to deserve what had happened.
 
@@ -478,6 +485,10 @@ It was a new day. Primus waited for everyone to fall silent, then took a sip of 
 
 # * * *
 
+**“I believe the differences between human beings are less significant than we like to think. Certainly, if one is capable of the Experience, all of them are.”**
+
+# * * *
+
 “This line of thinking has an interesting consequence. We do not even need to go as far as claiming that where or when I exist is random, only that there is no real reason for my identity, for whichever body or Agent is Selected.
 
 “This is because if so, I could have been any other body or Agent. Therefore next time you see misfortune befalling someone else, just remember: **it could be you** — provided of course that the subject of the misfortune is capable of the Experience. What, if not this fact, could generate empathy?
@@ -485,6 +496,12 @@ It was a new day. Primus waited for everyone to fall silent, then took a sip of 
 “It could be you, we say, except of course that it couldn’t: our identity is given by the it, the body, the physical structure, so if it was you, you wouldn’t be you anyway. It is the same basic identity issue that is highlighted by the children’s joke: it’s good that I’m not a rabbit, because if I were, I’d eat carrots, and I hate them.
 
 “Or, one could simply quip ‘It could be me, but, it isn’t,’ falling back to a self-centered view of the world we are looking to avoid. Nevertheless, if we interpret ‘it could be you’ as an assertion of the equal value of my and the other’s existence, and the common right to exist and ideally have a meaningful existence as well, then we see how keeping this in mind can help us on our journey.”
+
+# * * *
+
+**“Every living thing is unique, is dependent upon itself, and has the same fragile experience as you. Preserve it for it is irreplaceable and has no less right to exist than yourself.**
+
+**There’s only one of you. There’s only one of them.”**
 
 
 # * * *
@@ -538,7 +555,7 @@ We have assumed that this position largely coincides with that of the physical s
 
 Still, such extreme examples aside, we continue to assume that the body and brain are located roughly at the same position. We can go further, and sidestep issues raised by the boundary problem by considering a simplified model of bodies in the world. We do so because we think the questions related to identity and existence we are considering here do not hinge on low-probability quantum mechanical processes or definitions of the region of Care on the atomic level. We think these occur and can be traced even in a simple model.
 
-This simple model is that of **cell people, **constructed based on lobster hatcheries, where small lobsters live in plastic cells to prevent cannibalism. Since the inhabitants of these cells are limited by the plastic walls, and they get no information from beyond the cell, we know their Agent, body and Care are all inside the cell. This upper boundary on the spatial extent of these properties give us a good grasp on them, especially as they cannot overlap with those of other cell people.
+This simple model is that of **cell people, **constructed based on lobster hatcheries, where young lobsters live in plastic cells to prevent cannibalism. Since the inhabitants of these cells are limited by the plastic walls, and they get no information from beyond the cell, we know their Agent, body and Care are all inside the cell. This upper boundary on the spatial extent of these properties give us a good grasp on them, especially as they cannot overlap with those of other cell people.
 
 If cell people have the necessary cognitive capabilities, they will experience Entrapment, and so on, and may pose the questions “Why do I exist?”, “Why do I exist here?”, “Why do I exist at all?” The referent of “I” in these utterances is the cell that does the uttering. We know it exists because it utters. And it ended up existing because a god-like creature (chance) put a lobster egg in a plastic crate.
 
@@ -546,29 +563,13 @@ If cell people have the necessary cognitive capabilities, they will experience E
 
 
 
-#
-
-The first stage of our journey is achieving the Experience. It is not easy, but is not something that can be done once and then forgotten; reliving the Experience again and again is necessary throughout the journey as we uncover deeper and deeper layers of understanding. The Experience is like running: one can read about it, one can learn about it, but these are not substitutes for the action. We must strive to live the Experience, however hard it is at first. As with running, and so with the Experience, with time our technique is refined, and our takeaway from it changes, evolves and deepens.
+# Notes
 
 
-
-The Experience comes as a huge, overwhelming wave: sometimes unannounced, sometimes after invitation. To invite it, you must prepare, remove all distractions and focus on yourself and yourself alone.
-
-
-Every living thing is unique, is dependent upon itself, and has the same fragile experience as you. Preserve it for it is irreplaceable and has no less right to exist than yourself.
 
 Every complex structure in this universe carries valuable information that can be destroyed without trace. Aim to preserve as much as you can, from humans to books and galaxies.
 
-There's only one of you. There's only one of them.
 
-In modern life, our relationship with ourselves, and therefore with others, has become unhealthy. We need to tear down these relationships and rebuild them from the ground up.
 
-I believe the differences between human beings are less significant than we like to think. Certainly, if one is capable of the Experience, all of them are.
 
 The fundamental tragedy of our world is that information, unlike energy, can be lost.
-
-
-
-After this brush with losing control of my body, I saw much more clearly how we have lost connection with our own existence, and that I can do something about it.
-
-The result is this book.
